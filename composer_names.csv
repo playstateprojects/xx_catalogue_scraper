@@ -1,0 +1,2677 @@
+id,name,composer_id
+1,Mlle Duval,1
+2,La Légende,1
+3,Louise Duval,1
+4,La Légende,1
+5,Louise Duval,1
+6,Kathleen Dale,2
+7,Kathleen Richards,2
+8,Kathleen Richards,2
+9,Maria Dolores Malumbres,3
+10,Suzanne Giraud,4
+11,Louise Talma,5
+12,Reine Colaço Osorio-Swaab,6
+13,Antonietta Gambara Untersteiner,7
+14,Najla Jabor,8
+15,Agata Zubel,9
+16,Erzsébet Szőnyi,10
+17,Harriet Maitland Young,11
+18,Peggy Stuart Coolidge,12
+19,Chaya Arbel,13
+20,Sophia Corri Dussek,14
+21,Sophia Dussek,14
+22,Sophia Dussek,14
+23,Fredrikke Egeberg,15
+24,Cecilia McDowall,16
+25,Hilda Dianda,17
+26,Léonie Antoinette Tonel,18
+27,Leonie Tonel,18
+28,Mildred Grace Adair,19
+29,Mildred Adair Stagg,19
+30,Mildred Adair Stagg,19
+31,Marilyn Shrude,20
+32,Catherine Lucy Ward Bridgen Carter,21
+33,Kate Lucy Ward,21
+34,Kate Lucy Ward,21
+35,Deborah Drattell,22
+36,Bettina Skrzypczak,23
+37,Hildur Guðnadóttir,24
+38,Julia Niewiarowska-Brzozowska,25
+39,Elizabeth Gyring,26
+40,Hildegard Westerkamp,27
+41,Florence Everilda Goodeve,28
+42,Florence Everilda Knowlys,28
+43,Florence Everilda Knowlys,28
+44,Joan Dolores Wilson,29
+45,Judy Klein,30
+46,Imogen Holst,31
+47,Berthe di Vito-Delvaux,32
+48,Gena Branscombe,33
+49,Elisabeth Lutyens,34
+50,Lolita Ritmanis,35
+51,Maria Brizzi Giorgi,36
+52,Eva Ruth Spalding,37
+53,Clotilde Rosa,38
+54,Carol E. Barnett,39
+55,Margaret Brouwer,40
+56,Clara Schumann,41
+57,Clara Josephine Wieck,41
+58,Clara Wieck,41
+59,Caroline Holme Walker,42
+60,Deirdre Gribbin,43
+61,Matilde Capuis,44
+62,E. Florence Whitlock,45
+63,Jadwiga Szajna-Lewandowska,46
+64,Hafdís Bjarnadóttir,47
+65,Lili Boulanger,48
+66,Rachel Portman,49
+67,Ethel Scarborough,50
+68,Lucy Armstrong,51
+69,Rosa Guraieb,52
+70,Berta Bock,53
+71,Margaret Isobel Jones Wiles,54
+72,Margaret Jones Wiles,54
+73,Esther Allan,55
+74,Esther Boyarsky,55
+75,Esther Boyarsky,55
+76,Charlotte Seither,56
+77,Emilie Hammarskjöld,57
+78,Emilie Holmberg,57
+79,Emilie Holmberg,57
+80,Adela Maddison,58
+81,Rebecca Saunders,59
+82,Birgitte Alsted,60
+83,Jeanne Renee de Bombelles,61
+84,Marquis de Travanet,61
+85,Marquis de Travanet,61
+86,Elfrida Andrée,62
+87,Iris Szeghy,63
+88,Clara Anna Korn,64
+89,Elizabeth Violet Maconchy,65
+90,Nkeiru Okoye,66
+91,Helena Munktell,67
+92,Jacqueline Nova Sondag,68
+93,Jacqueline Nova,68
+94,Sharon Elery Rogers,69
+95,Carin Malmlöf-Forssling,70
+96,Myriam Marbé,71
+97,Gabrielle Ferrari,72
+98,Elaine Hugh-Jones,73
+99,Michèle Reverdy,74
+100,Lucia Quinciani,75
+101,Dorothy James,76
+102,Joyce Solomon Moorman,77
+103,Zarrina Mirshakar,78
+104,Cornélie van Oosterzee,79
+105,Maria Wilhelmj,80
+106,Laura Karpman,81
+107,Mary Lou Williams,82
+108,The Little Piano Girl,82
+109,The First Lady of the Jazz Keyboard,82
+110,Mary Lou,82
+111,Mary Howe,83
+112,Mary Wortham Carlisle,83
+113,Mary Wortham Carlisle,83
+114,Bertha Weber,84
+115,Mary Elizabeth Turner Salter,85
+116,Maria Anna Mozart,86
+117,Nannerl,86
+118,Marianne,86
+119,Nannerl,86
+120,Marianne,86
+121,Maria Teresa Luengo,87
+122,Betty Boije,88
+123,Caro Roma,89
+124,Carrie Northey,89
+125,Carrie Northey,89
+126,Maria Fredrica von Stedingk,90
+127,Marie Frederica von Stedingk,90
+128,Marie Frederica von Stedingk,90
+129,Angélica Negrón,91
+130,Helen Perkin,92
+131,Helen Adie,92
+132,Helen Adie,92
+133,Regina Harris Baiocchi,93
+134,Rosanna Scalfi Marcello,94
+135,Eleanor Everest Freer,95
+136,Carla Scaletti,96
+137,Sophia Dellaporta,97
+138,Antonia Bembo,98
+139,Carmen Petra Basacopol,99
+140,Petra Basacopol,99
+141,Miriam Shatal,100
+142,Marianne Schifra Pinkhof,100
+143,Jannie Pinkhof,100
+144,Marianne Schifra Pinkhof,100
+145,Jannie Pinkhof,100
+146,Helen Hopekirk,101
+147,Keiko Abe,102
+148,Marzena Komsta,103
+149,Graciela Paraskevaidis,104
+150,Maria Elizabeth van Ebbenhorst Tengbergen,105
+151,Anne Lauber,106
+152,Alicia Terzian,107
+153,Josephine Troup,108
+154,Angiola Teresa Moratori Scanabecchi,109
+155,Mona McBurney,110
+156,Jeanne Demessieux,111
+157,Anna Pessiak-Schmerling,112
+158,Clara Angela Macirone,113
+159,Sofia Gubaidulina,114
+160,Françoise-Charlotte de Senneterre Ménétou,115
+161,Françoise-Charlotte Ménétou,115
+162,Françoise-Charlotte Ménétou,115
+163,Caroline Ansink,116
+164,Sophie Menter,117
+165,Gladys Smuckler Moskowitz,118
+166,Pauline Emmanuel Rosenthal,119
+167,Georgina Weldon,120
+168,Georgina Treherne,120
+169,Georgina Treherne,120
+170,Amanda Röntgen-Maier,121
+171,Amanda Maier,121
+172,Amanda Maier,121
+173,Ethel Barns,122
+174,Erna Woll,123
+175,Marie-Elizabeth Cléry,124
+176,Marie Jaëll,125
+177,Marie Trautmann,125
+178,Marie Jaëll Trautmann,125
+179,Marie Trautmann Jaëll,125
+180,Marie Trautmann,125
+181,Marie Jaëll Trautmann,125
+182,Marie Trautmann Jaëll,125
+183,Williametta Spencer,126
+184,Annette Thoma,127
+185,Silvina Milstein,128
+186,Lady Mary Dering,129
+187,Mary Harvey,129
+188,Mary Harvey,129
+189,Jane M. Joseph,130
+190,Jane Joseph,130
+191,Jane Joseph,130
+192,Teresa Procaccini,131
+193,Lillie Harris,132
+194,Siobhán Cleary,133
+195,Maria Theresia Ahlefeldt,134
+196,Viera Janárčeková,135
+197,Judith Margaret Bailey,136
+198,Judith Bingham,137
+199,Zosha Di Castri,138
+200,Eugenia Calosso,139
+201,Lucrecia Roces Kasilag,140
+202,King,140
+203,Chaya Czernowin,141
+204,Jane Corner Young,142
+205,Eva Best,143
+206,Eva Williams,143
+207,Saturn,143
+208,Carol Ann Weaver,144
+209,Elsa Justel,145
+210,Jana Obrovská,146
+211,Dorothy Quita Buchanan,147
+212,Ina Boyle,148
+213,Esmeralda Athanasiu-Gardeev,149
+214,Norma Beecroft,150
+215,Louise Yazbeck,151
+216,Laura Clayton,152
+217,María Luisa Ozaita Marques,153
+218,Karen P. Thomas,154
+219,Marta Jiráčková,155
+220,Renate Birnstein,156
+221,Borghild Holmsen,157
+222,"Anna Amalia, Duchess of Saxe-Weimar-Eisenach",158
+223,Duchess Anna Amalia of Brunswick-Wolfenbüttel,158
+224,Anna Amalia of Brunswick-Wolfenbüttel,158
+225,Anne-Marie Ørbeck,159
+226,Maria Semyonovna Zavalishina,160
+227,Betty Ann Wong,161
+228,Reena Esmail,162
+229,Minna Keal,163
+230,Mina Nerenstein,163
+231,Mina Samuel,163
+232,Mina Nerenstein,163
+233,Mina Samuel,163
+234,Isabella Colbran,164
+235,Yoko Kanno,165
+236,Gabriela Robin,165
+237,Gabriela Robin,165
+238,Alicia Ann Spottiswoode,166
+239,Lady John Scott,166
+240,Lady John Scott Spottiswoode,166
+241,Lady John Scott,166
+242,Lady John Scott Spottiswoode,166
+243,Cevanne Horrocks-Hopayian,167
+244,Erika Stang,168
+245,Lillian Alison Tait Sheldon,169
+246,Lillian Tait Sheldon,169
+247,Elise Rondonneau,170
+248,Mary Lynn Twombly,171
+249,Anna Maria Diller Starbuck,172
+250,Anna Diller Starbuck,172
+251,Jane Mary Guest,173
+252,Antha Minerva Virgil,174
+253,Philippa Duke Schuyler,175
+254,Felipa Monterro y Schuyler,175
+255,Felipa Monterro y Schuyler,175
+256,Vítězslava Kaprálová,176
+257,Sharon Ruchman,177
+258,Doris Akers,178
+259,Miss Gospel Music,178
+260,Dot,178
+261,Catharina van Rennes,179
+262,Poldowski,180
+263,Régine Wieniawski,180
+264,Irène Wieniawska,180
+265,Lady Dean Paul,180
+266,Régine Wieniawski,180
+267,Irène Wieniawska,180
+268,Lady Dean Paul,180
+269,P. Bhanumathi,181
+270,Ashtavadhani,181
+271,Nadippukku Ilakkanam,181
+272,Ashtavadhani,181
+273,Nadippukku Ilakkanam,181
+274,Catalina Berroa,182
+275,Alba Trissina,183
+276,Marguerite Samuel,184
+277,Sophie Wolff-Fritz,185
+278,Elena Petrová,186
+279,Doris Gertrude Sheppard,187
+280,Carla Bley,188
+281,Karen Borg,188
+282,Karen Borg,188
+283,Celeste de Longpré Heckscher,189
+284,Celeste de Longpré Massey,189
+285,Celeste de Longpré Massey,189
+286,Michiru Yamane,190
+287,Shoshana Riseman,191
+288,Gerda Geertens,192
+289,Florence Turner-Maley,193
+290,Edith Borroff,194
+291,Kathe Volkart-Schlager,195
+292,Helen Roessing,196
+293,Ruth Schonthal,197
+294,Ruth Schönthal,197
+295,Ruth Schönthal,197
+296,Maggi Payne,198
+297,Katharine Emily Eggar,199
+298,Anice Potter Terhune,200
+299,Maria Rodrigo,201
+300,Clémence de Grandval,202
+301,Caroline Blangy,202
+302,Clémence Valgrand,202
+303,Maria Felicita de Reiset,202
+304,Maria Reiset de Tesier,202
+305,Caroline Blangy,202
+306,Clémence Valgrand,202
+307,Maria Felicita de Reiset,202
+308,Maria Reiset de Tesier,202
+309,Virginia Seay,203
+310,Gaziza Zhubanova,204
+311,Sylvia Soublette,205
+312,Ruth Watson Henderson,206
+313,Pan Shiji,207
+314,Augusta Read Thomas,208
+315,Iris Sanguesa,209
+316,Hi Kyung Kim,210
+317,Shih-Hui Chen,211
+318,Chen Shih-hui,211
+319,陳士惠,211
+320,Chen Shih-hui,211
+321,陳士惠,211
+322,Radie Britain,212
+323,Geghuni Hovannesi Chitchian,213
+324,Kate Simmons,214
+325,E. Kate Simmons,214
+326,E. Kate Simmons,214
+327,Vânia Dantas Leite,215
+328,Caroline Boissier-Butini,216
+329,Caroline Butini,216
+330,Caroline Butini,216
+331,Eda Rapoport,217
+332,Florence Pauline Wickham,218
+333,Delia Derbyshire,219
+334,Nina Stollewerk,220
+335,Frieda Schmitt-Lermann,221
+336,Wilhelmine Auguste Charlotte Helene Apollonia von Troschke und Rosenwerth,222
+337,Wilhelmine von Troschke und Rosenwerth,222
+338,Wilhelmine von Troschke und Rosenwerth,222
+339,Vivienne Olive,223
+340,Mercedes Roldós Freixes,224
+341,Kate Vanderpoel,225
+342,Candida Berta Alves de Sousa,226
+343,Berta Alves de Sousa,226
+344,Anna Bon,227
+345,Anna Ioanna Lucia,227
+346,Anna Ioanna Lucia,227
+347,Meena Mangeshkar,228
+348,Meena Khadikar,228
+349,Meena Khadikar,228
+350,Eliza Flower,229
+351,Alida Vázquez,230
+352,Alexina Louie,231
+353,Alamanda de Castelnau,232
+354,Lois V Vierk,233
+355,Berenice Robinson,234
+356,Annie Fortescue Harrison,235
+357,Lady Arthur Hill,235
+358,Lady Arthur Hill,235
+359,Amy Elsie Horrocks,236
+360,Elise Horrocks,236
+361,Elise Horrocks,236
+362,Halyna Ovcharenko,237
+363,Adina Izarra,238
+364,Anna Appleby,239
+365,Norrisette,239
+366,Norrisette,239
+367,Margaret Allison Bonds,240
+368,Margaret Jeanette Allison Majors,240
+369,Margaret Jeanette Allison Majors,240
+370,Mary Augusta Wakefield,241
+371,Ruth Lomon,242
+372,Eiluned Davies,243
+373,Clara Edwards,244
+374,Clara Gerlich,244
+375,Clara Gerlich,244
+376,Marianella Machado,245
+377,Cornelia Tăutu,246
+378,Erna Schorlemmer,247
+379,Erny Chaloix,247
+380,Erny Chaloix,247
+381,Maria Helena Rosas Fernandes,248
+382,Princess Philippine Charlotte of Prussia,249
+383,Philippine Charlotte of Brunswick-Wolfenbüttel,249
+384,Philippine Charlotte of Brunswick-Wolfenbüttel,249
+385,Maria Margherita Grimani,250
+386,Zhivka Klinkova,251
+387,Henriette Adélaïde Villard de Beaumesnil,252
+388,Mademoiselle Beaumesnil,252
+389,Mlle Beaumesnil,252
+390,Laura Sedgwick Collins,253
+391,Regina Irman,254
+392,Graciela Agudelo,255
+393,Theresa Schaeffer,256
+394,Josina van Aerssen,257
+395,Baroness Boetzelaer,257
+396,Baroness Boetzelaer,257
+397,Elinor Armer,258
+398,Ilse Gerda Wunsch,259
+399,Marie de France,260
+400,"Marie of France, Countess of Champagne",260
+401,"Marie, Abbess of Shaftesbury",260
+402,"Marie, Abbess of Reading",260
+403,Marie I of Boulogne,260
+404,"Marie, Abbess of Barking",260
+405,Marie de Meulan,260
+406,"Marie ai num, si sui de France",260
+407,Hilda Jerea,261
+408,Janina Skowronska,262
+409,Grażyna Bacewicz,263
+410,Mary Mageau,264
+411,Zhanna Vasil'yevna Pliyeva,265
+412,Marie Townsend,266
+413,Luise Adolpha Le Beau,267
+414,Luise Caroline Marie Henriette Adolpha Le Beau,267
+415,Luise Caroline Marie Henriette Adolpha Le Beau,267
+416,Lydia Auster,268
+417,Nannie Louise Wright,269
+418,Maddalena Laura Sirmen,270
+419,Maddalena Laura Lombardini,270
+420,Maddalena Laura Lombardini,270
+421,Mathilde Hannah von Rothschild,271
+422,Mathilde de Rothschild,271
+423,Mathilde de Rothschild,271
+424,Mansi Barberis,272
+425,Clemensa Barberis,272
+426,Barberis-Plăcințeanu,272
+427,Clemensa Barberis,272
+428,Barberis-Plăcințeanu,272
+429,Toshiko Akiyoshi,273
+430,Gaspara Stampa,274
+431,Anaxilla,274
+432,Anaxilla,274
+433,Arlene Zallman,275
+434,Judith Dvorkin,276
+435,Juliana Hall,277
+436,Amy Woodforde-Finden,278
+437,Amelia Rowe Ward,278
+438,Amy Ward,278
+439,Judith Lang Zaimont,279
+440,Melissa Hui,280
+441,Sonia Bo,281
+442,Carolyn Yarnell,282
+443,Frances C. Robinson,283
+444,Julia Smith,284
+445,Eithne Pádraigín Ní Bhraonáin,285
+446,Enya Patricia Brennan,285
+447,Enya Patricia Brennan,285
+448,Sophie Carmen Eckhardt-Gramatté,286
+449,Sofia (Sonia) Friedman-Kochevskaya,286
+450,Sofia (Sonia) Friedman-Kochevskaya,286
+451,Satella Waterstone,287
+452,Marti Epstein,288
+453,Eleni Lambiri,289
+454,Henriette Löfman,290
+455,Annie Gosfield,291
+456,Amy Scurria,292
+457,Josefina Brdlíková,293
+458,Ruth Shaw Wylie,294
+459,Augusta Browne Garrett,295
+460,Lady Augusta Browne,295
+461,Lady Augusta Browne,295
+462,Emilie Zumsteeg,296
+463,Marilyn Mazur,297
+464,Vojna Nešić,298
+465,Michiko Toyama,299
+466,Ludmila Frajt,300
+467,Lida Frajt,300
+468,Lida Frajt,300
+469,Betty Rose Wishart,301
+470,Dolores Claman,302
+471,Albena Petrovic-Vratchanska,303
+472,Isabel Stewart North,304
+473,Maura Bosch,305
+474,Amélie-Julie Candeille,306
+475,Julie Candeille,306
+476,Julie Simons,306
+477,Anđelka Bego-Šimunić,307
+478,Louise Strantz,308
+479,Jeanne Colin-De Clerck,309
+480,Laura Wilson Barker,310
+481,Mrs Tom Taylor,310
+482,Mrs Tom Taylor,310
+483,Priscilla McLean,311
+484,Priscilla Taylor,311
+485,Priscilla Taylor,311
+486,Trude Rittmann,312
+487,Lam Manyee,313
+488,Ada Gentile,314
+489,Laura Kaminsky,315
+490,Augusta Holmès,316
+491,Hermann Zenta,316
+492,Hermann Zenta,316
+493,Lucie Vellère,317
+494,Ruth Crawford Seeger,318
+495,Carolina Uccelli,319
+496,Carolina Pazzini,319
+497,Carolina Pazzini,319
+498,Emma Lomax,320
+499,Franghiz Ali-Zadeh,321
+500,Franghiz Ali Aga Kïzï Ali-Zadeh,321
+501,Franghiz Ali Aga Kïzï Ali-Zadeh,321
+502,Joan Trimble,322
+503,Freya Waley-Cohen,323
+504,Nicole Rodrigue,324
+505,Wendy Carlos,325
+506,Walter Carlos,325
+507,Walter Carlos,325
+508,Janet Mary Salsbury,326
+509,Claire Delbos,327
+510,Claire-Louise,327
+511,Louise Justine Delbos,327
+512,Claire-Louise,327
+513,Louise Justine Delbos,327
+514,Dora Pejačević,328
+515,Dora Pejacsevich,328
+516,Dora Pejacsevich,328
+517,Lidia Zielińska,329
+518,Canary Burton,330
+519,Rachel Galinne,331
+520,Ellen Riley Wright,332
+521,Ellen Wright,332
+522,Ellen Wright,332
+523,Grace Chadbourne,333
+524,Grace Wassall,333
+525,Grace Wassall,333
+526,Lora Aborn,334
+527,Mildred Lund Tyson,335
+528,Emma Mundella,336
+529,Maria Hester Park,337
+530,Maria Hester Reynolds,337
+531,Maria Hester Reynolds,337
+532,Dorothy Parke,338
+533,Ludmila Ulehla,339
+534,Eugenia Manolidou,340
+535,Eugenia Karagiannidou,340
+536,Eugenia Karagiannidou,340
+537,Marie Emmanuelle Bayon Louis,341
+538,Elizabeth Poston,342
+539,Giulia Recli,343
+540,Sylvia Rexach,344
+541,"Georgiana Cavendish, Duchess of Devonshire",345
+542,Georgiana Spencer,345
+543,Georgiana Spencer,345
+544,Shimul Yousuf,346
+545,Aimée Van de Wiele,347
+546,Elena Firsova,348
+547,Fanny Arthur Robinson,349
+548,Mrs. Joseph Robinson,349
+549,Mrs. Joseph Robinson,349
+550,Cora Emily Decker Sargent,350
+551,Cora Decker Sargent,350
+552,Sorrel Hays,351
+553,Doris Ernestine Hays,351
+554,Doris Ernestine Hays,351
+555,Yuliya Veysberg,352
+556,Julia Stilman-Lasansky,353
+557,Tatyana Chudova,354
+558,Magdalene Stirling,355
+559,Miss Stirling of Ardoch,355
+560,Miss Stirling of Ardoch,355
+561,Sophie Lacaze,356
+562,Christina Kubisch,357
+563,Carol Sams,358
+564,Vivian Fine,359
+565,Mirca Sancin,360
+566,Zoë Keating,361
+567,Joan Tower,362
+568,Nadia Boulanger,363
+569,Katharina Rosenberger,364
+570,Julia Adolphe,365
+571,Maria Huld Markan Sigfúsdóttir,366
+572,Gertrude Price Wollner,367
+573,Zdenka Ticharich,368
+574,Mary Jeanne Van Appledorn,369
+575,Jeanine Rueff,370
+576,Lucrezia Orsina Vizzana,371
+577,Lucrezia Orsina Vizana,371
+578,Lucrezia Orsina Vizana,371
+579,Angela Morley,372
+580,Walter Stott,372
+581,Wally Stott,372
+582,Walter Stott,372
+583,Wally Stott,372
+584,Gwendolen Avril Coleridge-Taylor,373
+585,Avril Coleridge-Taylor,373
+586,Peter Riley,373
+587,Peter Riley,373
+588,Tibors de Sarenom,374
+589,Tibors d'Aurenga,374
+590,Tiburge,374
+591,Tibors d'Aurenga,374
+592,Tiburge,374
+593,Helen Bowater,375
+594,Joan Franks Williams,376
+595,Lola Castegnaro,377
+596,Michelle Ekizian,378
+597,Helene Liebmann,379
+598,Erika Fox,380
+599,Grace-Evangeline Mason,381
+600,Daphne Oram,382
+601,Marina Scriabina,383
+602,Margaret Essex,384
+603,Elisabetha Nina Mary Frederica Lehmann,385
+604,Liza Lehmann,385
+605,Liza Lehmann,385
+606,Biancamaria Furgeri,386
+607,Biancamaria Fugeri,386
+608,Biancamaria Fugeri,386
+609,Teresa Clotilde del Riego,387
+610,Hazel Volkart,388
+611,Wang Jie,389
+612,Gisèle Barreau,390
+613,Regina Watson,391
+614,Elena Stanekaite-Laumyanskene,392
+615,Elena Laumenskienė,392
+616,Elena Laumenskienė,392
+617,Francesca Caccini,393
+618,Francesca Raffaelli,393
+619,Francesca Raffaelli,393
+620,Ivy Priaulx Rainier,394
+621,Priaulx Rainier,394
+622,Priaulx Rainier,394
+623,Monic Cecconi-Botella,395
+624,Maria Chefaliady-Taban,396
+625,Madeleine Dring,397
+626,Zhanneta Lazarevna Metallidi,398
+627,Celeste Jaguaribe de Matos Faria,399
+628,Celeste Jaguaribe de Matos Celeste,399
+629,Celeste Jaguaribe de Matos Celeste,399
+630,Lyudmila Karpawna Shleh,400
+631,Nina C. Young,401
+632,Jenny Helen McLeod,402
+633,Anne Madeleine Guédon de Presles,403
+634,Mlle Guédon de Presles,403
+635,Mlle Guédon de Presles,403
+636,E. Anne Schwerdtfeger,404
+637,Juliane Reichardt,405
+638,Juliane Benda,405
+639,Juliane Benda,405
+640,Dorothea Jordan,406
+641,Dorothea Bland,406
+642,Mrs. Jordan,406
+643,Dorothea Bland,406
+644,Mrs. Jordan,406
+645,Marielli Sfakianaki,407
+646,Anna Clyne,408
+647,Charlotte Tardieu,409
+648,Olga Neuwirth,410
+649,Julia Tsenova,411
+650,Julia Cenova,411
+651,Charlotte Ruegger,412
+652,Dagmara Slianova-Mizandari,413
+653,Awilda Villarini,414
+654,Irina Hasnaş,415
+655,Camilla de Rossi,416
+656,Pauline Viardot,417
+657,Pauline García,417
+658,Pauline Garcia,417
+659,Mme Viardot,417
+660,Michelle Ferdinande Pauline García Sitches,417
+661,Pauline García,417
+662,Pauline Garcia,417
+663,Mme Viardot,417
+664,Verdi Karns,418
+665,Verdi Karns Sturgis,418
+666,Verdi Karns Sturgis,418
+667,Clara Sinde Ramallal,419
+668,Tekla Griebel Wandall,420
+669,Irina Elcheva,421
+670,Yoko Shimomura,422
+671,Kathryn Salfelder,423
+672,Polly Young,424
+673,Maria Barthélemon,424
+674,Maria Barthélemon,424
+675,Ilza Nogueira,425
+676,Eibhlis Farrell,426
+677,Beverly Grigsby,427
+678,Beverly Pinsky,427
+679,Beverly Pinsky,427
+680,Elisenda Fábregas,428
+681,María Teresa Prieto,429
+682,Ella May Walker,430
+683,Marisa Rezende,431
+684,Georgia Spiropoulos,432
+685,Nazife Güran,433
+686,Mlle Bocquet,434
+687,Ferdousi Rahman,435
+688,Edith Swepstone,436
+689,Anna S. Þorvaldsdóttir,437
+690,Anna Thorvaldsdottir,437
+691,Anna Thorvaldsdottir,437
+692,Luna Pearl Woolf,438
+693,Jane Sloman,439
+694,Sloman Torry,439
+695,Sloman Torry,439
+696,Carola Bauckholt,440
+697,Marion Dix Sullivan,441
+698,Ethel Smyth,442
+699,Dame Ethel Smyth,442
+700,Dame Ethel Smyth,442
+701,May Brahe,443
+702,Mary Hannah Dickson,443
+703,Mervyn Banks,443
+704,Mary Hannah Brahe,443
+705,Donald Crichton,443
+706,Stanley Dickson,443
+707,Alison Dodd,443
+708,Stanton Douglas,443
+709,Eric Faulkner,443
+710,Wilbur B. Fox,443
+711,Henry Lovell,443
+712,Mary Hanna Morgan,443
+713,George Pointer,443
+714,Mary Hannah Dickson,443
+715,Mervyn Banks,443
+716,Mary Hannah Brahe,443
+717,Donald Crichton,443
+718,Stanley Dickson,443
+719,Alison Dodd,443
+720,Stanton Douglas,443
+721,Eric Faulkner,443
+722,Wilbur B. Fox,443
+723,Henry Lovell,443
+724,Mary Hanna Morgan,443
+725,George Pointer,443
+726,Florence Aylward,444
+727,Ruth White,445
+728,Isidora Zegers,446
+729,Isidora Zegers de Huneeus,446
+730,Isidora Zegers de Huneeus,446
+731,Manuela Cornejo Sanchez,447
+732,Manuela Cornejo de Sanchez,447
+733,Manuela Cornejo de Sanchez,447
+734,Ethel Edith Bilsland,448
+735,Louise Filliaux-Tiger,449
+736,Louise Sophie Tiger,449
+737,Louise Sophie Tiger,449
+738,Emily Hall,450
+739,Natalie Ann Holt,451
+740,Carrie Jacobs-Bond,452
+741,Carrie Bond,452
+742,Carrie Bond,452
+743,Jeanne Ellison Shaffer,453
+744,Jeanne Butcher,453
+745,Jeanne Butcher,453
+746,Irma Ravinale,454
+747,Gertrude Ross,455
+748,Ida Philippine Eleanor Rosa Schick,456
+749,Philippine Schick,456
+750,Philippine Schick,456
+751,Dame Maroie,457
+752,Maroie de Dregnau de Lille,457
+753,Maroie de Diergnau de Lille,457
+754,Maroie de Dregnau de Lille,457
+755,Maroie de Diergnau de Lille,457
+756,Margareta Xenopol,458
+757,Chiara Margarita Cozzolani,459
+758,Margarita Cozzolani,459
+759,Margarita Cozzolani,459
+760,Dorothy Ashby,460
+761,Dorothy Jeanne Thompson,460
+762,Dorothy Jeanne Thompson,460
+763,Florence Beatrice Price,461
+764,Florence B. Price,461
+765,Florence B. Price,461
+766,Margaret McClure Stitt,462
+767,Mary Linwood,463
+768,Julie Pinel,464
+769,Laurie Anderson,465
+770,Laura Phillips Anderson,465
+771,Laura Phillips Anderson,465
+772,Marcela Rodríguez,466
+773,Myra Brooks Turner,467
+774,Anna Johanne Schytte,468
+775,Anna Jutta Schytte,468
+776,Anna Jutta Schytte,468
+777,Gertrude Martin Rohrer,469
+778,Eleanor Hovda,470
+779,Sláva Vorlová,471
+780,Miroslava Johnová,471
+781,Miroslava Johnová,471
+782,Peggy Glanville-Hicks,472
+783,Gwyneth Van Anden Walker,473
+784,Nadežda Mosusova,474
+785,Nadezda,474
+786,Nadezda,474
+787,Eleanor Rudall,475
+788,Georgina Schubert,476
+789,Cynthia Cozette Lee,477
+790,Julie Rivé-King,478
+791,Caroline Samuel,479
+792,Ulric Cole,480
+793,Adelaide Orsola Appignani,481
+794,Orsola Aspri,481
+795,Orsola Aspri,481
+796,Maria Theresia von Paradis,482
+797,Herma Studeny,483
+798,Faye-Ellen Silverman,484
+799,Constança Capdeville,485
+800,Tona Scherchen,486
+801,Ursula Mamlok,487
+802,Ursula Meyer,487
+803,Ursula Meyer,487
+804,Amy Upham Thomson McKean,488
+805,Dana Suesse,489
+806,Ivana Stefanović,490
+807,Annie Maria Grimson,491
+808,Júlia Hajdú,492
+809,Thérèse Brenet,493
+810,Martha von Sabinin,494
+811,Marfa Stepanovna Sabinina,494
+812,Marfa Stepanovna Sabinina,494
+813,Abbie Betinis,495
+814,Dorothy Hindman,496
+815,Doreen Carwithen,497
+816,Mary Alwyn,497
+817,Mary Alwyn,497
+818,Andrea Reinkemeyer,498
+819,Terry Winter Owens,499
+820,Pamela Motley Verrall,500
+821,Benna Moe,501
+822,Madeleine Isaksson,502
+823,Gillian Bibby,503
+824,Caroline Wuiet,504
+825,Donna Elidora,504
+826,Caroline Aufdiener,504
+827,Donna Elidora,504
+828,Caroline Aufdiener,504
+829,Violet Archer,505
+830,Mariana Villanueva,506
+831,Gladys Marie Stein,507
+832,Frances Turgeon Wiggin,508
+833,Wilhelmine Schwertzell,509
+834,Wilhelmine von Schwertzell,509
+835,Wilhelmine von Schwertzell,509
+836,Andree Aeschlimann Rochat,510
+837,May Aufderheide,511
+838,May Frances Aufderheide Kaufman,511
+839,May Frances Aufderheide Kaufman,511
+840,Dafina Zeqiri,512
+841,Cesarina Ricci de Tingoli,513
+842,Nelly Moretto,514
+843,Mabel Madison Watson,515
+844,Zulema de la Cruz,516
+845,Patty Stair,517
+846,Frances Ziffer,518
+847,Sungji Hong,519
+848,Valentina Serova,520
+849,Genovieffa Ravissa de Turin,521
+850,Madame Ravissa,521
+851,Madame Ravissa,521
+852,Tania Justina León,522
+853,Krystyna Moszumańska-Nazar,523
+854,Elinor Meissner Traeger,524
+855,Susan Trew,525
+856,Joyce Mekeel,526
+857,Marianna Bottini,527
+858,Julie Waldburg-Wurzach,528
+859,Marieta Morosina Priuli,529
+860,Isobel Waller-Bridge,530
+861,Felicita Casella,531
+862,Carlotta Ferrari,532
+863,Janet Beat,533
+864,Carmen Barradas,534
+865,Maria del Carmen Pérez Jiménez,534
+866,Maria del Carmen Pérez Jiménez,534
+867,Gloria Coates,535
+868,Gloria Kannenberg,535
+869,Theodora Nicoline Meldal Cormontan,536
+870,Soledad Bengoecha de Cármena,537
+871,Kay Lande,538
+872,Maryanne Amacher,539
+873,Sofia Levkovskaya,540
+874,Carmelina Delfin,541
+875,Janet Dunbar,542
+876,Kathleen Lockhart Manning,543
+877,Estelle White,544
+878,Masguda Shamsutdinova,545
+879,Élisabeth de Haulteterre,546
+880,Henriette Renié,547
+881,Louise Spizizen,548
+882,Margaret Vardell Sandresky,549
+883,Silvia Sommer,550
+884,Ellen Coleman,551
+885,Marion Bauer,552
+886,Clarice Assad,553
+887,Ethel Glenn Hier,554
+888,Amy Aldrich Worth,555
+889,Jórunn Viðar,556
+890,Julia Woolf,557
+891,Amice Calverley,558
+892,Amice Mary Calverley,558
+893,Amice Mary Calverley,558
+894,Eva Noer Kondrup,559
+895,Valerie Samson,560
+896,Jennifer Margaret Barker,561
+897,Elizabeth Anspach,562
+898,"Elizabeth, Princess Berkeley",562
+899,Elizabeth Craven,562
+900,Lady Craven,562
+901,Margravine of Brandenburg-Ansbach,562
+902,"Elizabeth, Princess Berkeley",562
+903,Elizabeth Craven,562
+904,Lady Craven,562
+905,Margravine of Brandenburg-Ansbach,562
+906,Joan Szymko,563
+907,Susanne Erding-Swiridoff,564
+908,Stefania Anatolyevna Zaranek,565
+909,Yüksel Koptagel,566
+910,Beth Anderson,567
+911,Josephine Amann-Weinlich,568
+912,Josefine Weinlich,568
+913,Josefine Weinlich,568
+914,Henriette van den Boorn-Coclet,569
+915,Lata Mangeshkar,570
+916,Hema,570
+917,Latika,570
+918,Hema,570
+919,Latika,570
+920,Claude Porter White,571
+921,Ann Valentine,572
+922,Betty Olivero,573
+923,Alexandra Thomson Studholme,574
+924,Alexandra Thompson,574
+925,Alexandra Thompson,574
+926,Sheila Mary Nelson,575
+927,Maria de Alvear,576
+928,Gráinne Mulvey,577
+929,Lettie Alston,578
+930,Jeannie G. Pool,579
+931,Janet Graham,580
+932,Ilona Breģe,581
+933,Janika Vandervelde,582
+934,Emma Wooge,583
+935,Claire Schapira,584
+936,Birgit Havenstein,585
+937,Maj Sønstevold,586
+938,Joëlle Léandre,587
+939,Lita Spena,588
+940,Hiba Kawas,589
+941,Hiba Al Kawas,589
+942,Hiba Al Kawas,589
+943,Kazuko Hara,590
+944,Anne Quigley,591
+945,Allison Cameron,592
+946,Sophie Viney,593
+947,Frances Allitsen,594
+948,Mary Frances Bumpus,594
+949,Mary Frances Bumpus,594
+950,Anne Dudley,595
+951,Stella Stocker,596
+952,Stella Prince,596
+953,O-mes-qua wi-gi shi-go-que,596
+954,Stella Prince,596
+955,O-mes-qua wi-gi shi-go-que,596
+956,Kate Loder,597
+957,Diamante Medaglia Faini,598
+958,Cheryl Frances-Hoad,599
+959,Grace Worcester Root,600
+960,Grace W. Root,600
+961,Grace W. Root,600
+962,Joan Jeanrenaud,601
+963,Christine Berl,602
+964,Caroline Ridderstolpe,603
+965,Nadezhda Simonyan,604
+966,Francesca Lebrun,605
+967,Franziska Dorothea Danzi,605
+968,Franziska Dorothea Danzi,605
+969,Gisela Hernández,606
+970,Vilma von Webenau,607
+971,Barbara Heller,608
+972,Roberta Bitgood,609
+973,Patricia Blomfield Holt,610
+974,Amalie Scholl,611
+975,Katharine Mulky Warne,612
+976,Paule Maurice,613
+977,Synne Skouen,614
+978,Muriel Emily Herbert,615
+979,Clorinda Rosato,616
+980,Meta Schumann,617
+981,Meta Fust Willoughby,617
+982,Meta Fust Willoughby,617
+983,Margaret Wigham,618
+984,Hendrika Cornelia van Tussenbroek,619
+985,Victoria Poleva,620
+986,Izabella Konstantinovna Arazova,621
+987,Izabella Arazova,621
+988,Izabella Arazian,621
+989,Izabella Arazian,621
+990,Dobrinka Tabakova,622
+991,Gladys Robinson Youse,623
+992,Glad Robinson Youse,623
+993,Mathilda d'Orozco,624
+994,Cindy McTee,625
+995,Stephanie Wurmbrand-Stuppach,626
+996,Stephanie Brand-Vrabely,626
+997,Stephanie Brand-Vrabely,626
+998,Gabriella Cecchi,627
+999,Kateřina Emingerová,628
+1000,Cacilda Borges Barbosa,629
+1001,Raquel García-Tomás,630
+1002,Lydia Kunz Venth,631
+1003,Lyubov Streicher,632
+1004,Louise Béguin-Salomon,633
+1005,Louise-Frédérique Cohen,633
+1006,Louise-Frédérique Cohen,633
+1007,Dora Bright,634
+1008,Mme Papavoine,635
+1009,Mlle. Pellecier,635
+1010,Mlle. Pellecier,635
+1011,Joyce Howard Barrell,636
+1012,Didia Saint Georges,637
+1013,Annea Lockwood,638
+1014,Lejla Agolli,639
+1015,Clara Kathleen Rogers,640
+1016,Clara Doria,640
+1017,Clara Doria,640
+1018,Dulcie Holland,641
+1019,Dulcie Bellhouse,641
+1020,Dulcie Bellhouse,641
+1021,Modesta Bor,642
+1022,Helen L. Weiss,643
+1023,Aurore von Haxthausen,644
+1024,Klara Kuhlmann,644
+1025,Klara Kuhlmann,644
+1026,Barbara Benary,645
+1027,Alicia Van Buren,646
+1028,Lina Pires de Campos,647
+1029,Trisutji Kamal,648
+1030,Heidi Sundblad-Halme,649
+1031,Judith Weir,650
+1032,Mildred Couper,651
+1033,Mildred Cooper,651
+1034,Mildred Cooper,651
+1035,Michielina della Pietà,652
+1036,Michaelis,652
+1037,Michieletta,652
+1038,Michaelis,652
+1039,Michieletta,652
+1040,Anjelika Akbar,653
+1041,Anjelika Rosenbaum,653
+1042,Anjelika Rosenbaum,653
+1043,Paola Massarenghi,654
+1044,Helen Fisher,655
+1045,Vincenza Garelli della Morea,656
+1046,Celia Torrá,657
+1047,Elizabeth R. Austin,658
+1048,Anne Boyd,659
+1049,Geraldine Mucha,660
+1050,Joan La Barbara,661
+1051,Odette Gartenlaub,662
+1052,Florence Maude Ewart,663
+1053,Sonia Aldon,663
+1054,Fannie Morris Spencer,664
+1055,Zenobia Powell Perry,665
+1056,Irina Odăgescu,666
+1057,Cecile L. Vashaw,667
+1058,Mayako Kubo,668
+1059,Iet Stants,669
+1060,Johanna Bordewijk-Roepman,670
+1061,Eva Saito-Noda,671
+1062,Katherine Kennicott Davis,672
+1063,Katherine K. Davis,672
+1064,Brenda Hutchinson,673
+1065,Betty Beath,674
+1066,Maria Francesca Nascinbeni,675
+1067,Maria Francesca Nascimbeni,675
+1068,Maria Francesca Nascimbeni,675
+1069,Elsa Barraine,676
+1070,Tamara Vakhvakhishvili,677
+1071,Johanna Senfter,678
+1072,Nancy Ellen Telfer,679
+1073,Rhian Samuel,680
+1074,Sophie Seipt,681
+1075,Sophie Seibt,681
+1076,Sophie Seibt,681
+1077,Gabriela Lena Frank,682
+1078,Nicola LeFanu,683
+1079,Solange Ancona,684
+1080,Louise Farrenc,685
+1081,Jeanne-Louise Dumont,685
+1082,Jeanne-Louise Dumont,685
+1083,Elena Asachi,686
+1084,Sieglinda Ahrens,687
+1085,Eleonora Grigor'yevna Eksanishvili,688
+1086,Eleonora Eksanishvili,688
+1087,Eleonora Yeksanishvili,688
+1088,Eleonora Yeksanishvili,688
+1089,Esther Elizabeth Velkiers,689
+1090,Esther Velkiers,689
+1091,Esther Velkiers,689
+1092,Charlotte Bray,690
+1093,Laura Schwendinger,691
+1094,Gudrun Lund,692
+1095,Lily Strickland,693
+1096,Renata Kunkel,694
+1097,Yudif Grigorevna Rozhavskaya,695
+1098,M. M. Srilekha,696
+1099,Sarah Feigin,697
+1100,Sarah Kugel,697
+1101,Sarah Kugel,697
+1102,Le Sénéchal de Kerkado,698
+1103,Mlle Le Sénéchal de Kerkado,698
+1104,Mlle Le Sénéchal de Kerkado,698
+1105,Liza Lim,699
+1106,林瑞玲,699
+1107,Ellen Taaffe Zwilich,700
+1108,Marion Verhaalen,701
+1109,Sister Mary Vernon,701
+1110,Sister Mary Vernon,701
+1111,June Weybright,702
+1112,Magdalene Schauss-Flake,703
+1113,Therese Emilie Henriette Winkel,704
+1114,Bertha Tammelin,705
+1115,Miriam Gideon,706
+1116,Yekaterina Alexeyevna Sinyavina,707
+1117,Catherine Vorontsova,707
+1118,Catherine Vorontsova,707
+1119,Magdeleine Boucherit Le Faure,708
+1120,Sussan Deyhim,709
+1121,Teresa Rampazzi,710
+1122,Nagako Konishi,711
+1123,Undine Eliza Anna Smith Moore,712
+1124,Anne Terrier Laffaille,713
+1125,Hilda Wilson,714
+1126,Chan-Hae Lee,715
+1127,Inger Wikström,716
+1128,Gisela Selden-Goth,717
+1129,Gisella Selden-Goth,717
+1130,Gisella Selden-Goth,717
+1131,Dorothy Gow,718
+1132,Beatritz de Dia,719
+1133,Comtessa de Dia,719
+1134,Comtessa de Dia,719
+1135,Diana McIntosh,720
+1136,Vally Weigl,721
+1137,Valerie Weigl,721
+1138,Valerie Pick,721
+1139,Felicia Johanna Tuczek,722
+1140,Halina Harelava,723
+1141,Galina Gorelova,723
+1142,Galina Gorelova,723
+1143,Jeanne Zaidel-Rudolph,724
+1144,Alice Marion Shaw,725
+1145,Karólína Eiríksdóttir,726
+1146,Laura Lemon,727
+1147,Lisa Bielawa,728
+1148,Éliane Radigue,729
+1149,Raminta Šerkšnytė,730
+1150,Zana Clarke,731
+1151,Maria Cattarina Calegari,732
+1152,Cornelia,732
+1153,La Divina Euterpe,732
+1154,Cornelia,732
+1155,La Divina Euterpe,732
+1156,Clare Shore,733
+1157,Joséphine Boulay,734
+1158,Blanche Selva,735
+1159,Netty Simons,736
+1160,Ella Milch-Sheriff,737
+1161,Lucia Dlugoszewski,738
+1162,Lesia Vasylivna Dychko,739
+1163,Liudmyla Vasylivna Dychko,739
+1164,Liudmyla Vasylivna Dychko,739
+1165,Pauline B. Story,740
+1166,Alicia Urreta,741
+1167,Josephine Lang,742
+1168,Josephine Caroline Lang,742
+1169,Josephine Caroline Lang,742
+1170,Harriet Browne,743
+1171,Laurie Spiegel,744
+1172,Ingrid Stölzel,745
+1173,Louise Tunison,746
+1174,Elsa Respighi,747
+1175,Zinaida Petrovna Ziberova,748
+1176,María Luisa Sepúlveda,749
+1177,Yuki Kajiura,750
+1178,Christabel Baxendale,751
+1179,Justine Electra,752
+1180,Clara Mathilda Faisst,753
+1181,Mary Caroline (Carrie) Burpee Shaw,754
+1182,Carrie Burpee Shaw,754
+1183,Carrie Burpee Shaw,754
+1184,Nydia Pereyra-Lizaso,755
+1185,Dorothy Strutt,756
+1186,Margaret Scoville,757
+1187,Anne Linnet,758
+1188,Sarah MacDonald,759
+1189,Mrs Philarmonica,760
+1190,Johanna Müller-Hermann,761
+1191,Johanna Hermann,761
+1192,Johanna Müller-Martini,761
+1193,Johanna Hermann,761
+1194,Johanna Müller-Martini,761
+1195,Catherina Cibbini-Kozeluch,762
+1196,Carolyn Steinberg,763
+1197,Anita Socola Specht,764
+1198,Tat'yana Pavlovna Sergeyeva,765
+1199,Tat'yana Sergeyeva,765
+1200,Hanna Kulenty,766
+1201,Dika Newlin,767
+1202,Ellen R. Thompson,768
+1203,Victorine Louise Farrenc,769
+1204,Marianne Gary-Schaffhauser,770
+1205,Giovanna Bruna Baldacci,771
+1206,Shibani Kashyap,772
+1207,Natela Svanidze,773
+1208,Elizabeth Raum,774
+1209,Sheila Silver,775
+1210,Emily Doolittle,776
+1211,Tanya Ekanayaka,777
+1212,Maria Antonietta Picconi,778
+1213,Dorothy Rudd Moore,779
+1214,Mme Delaval,780
+1215,Charlotte Helen Sainton-Dolby,781
+1216,Charlotte Dolby,781
+1217,Charlotte Dolby,781
+1218,Jessie Furze,782
+1219,Sophie Gay,783
+1220,Marie Françoise Sophie Nichault de la Vallette,783
+1221,Marie Françoise Sophie Nichault de la Vallette,783
+1222,Cecilia Maria Barthélemon,784
+1223,Cecilia Maria Hinchcliffe,784
+1224,Cecilia Maria Henslow,784
+1225,Cecilia Maria Hinchcliffe,784
+1226,Cecilia Maria Henslow,784
+1227,Cathy Berberian,785
+1228,Geneviève Calame,786
+1229,Maria Bach,787
+1230,Kathleen Richards,788
+1231,Kathleen Dale,788
+1232,Kathleen Dale,788
+1233,Thérèse Wartel,789
+1234,Ruth Bakke,790
+1235,Ethel Tench Rogers,791
+1236,Chris Mary Francine Whittle,792
+1237,Bessie Marshall Whitely,793
+1238,Constance Cochnower Virtue,794
+1239,Sophie Bawr,795
+1240,Alexandrine-Sophie de Bawr,795
+1241,M. François,795
+1242,Alexandrine-Sophie de Bawr,795
+1243,M. François,795
+1244,Diana Ringo,796
+1245,María Escribano,797
+1246,Susan Morton Blaustein,798
+1247,Louise Haenel de Cronenthall,799
+1248,Isabelle de Charrière,800
+1249,Belle van Zuylen,800
+1250,Belle van Zuylen,800
+1251,Anne La Berge,801
+1252,Rosica Petkova,802
+1253,Meredith Monk,803
+1254,Alison Bauld,804
+1255,Jody Diamond,805
+1256,Beatrice Witkin,806
+1257,Dorothea Austin,807
+1258,Dorothea Blaukopf,807
+1259,Dorothea Austin Banner,807
+1260,Dorothea Blaukopf,807
+1261,Dorothea Austin Banner,807
+1262,Margriet Hoenderdos,808
+1263,Kimi Sato,809
+1264,Vanessa Lann,810
+1265,Rosalind Frances Ellicott,811
+1266,Lyudmila Lyadova,812
+1267,Sirvart Kalpakyan Karamanuk,813
+1268,Helen Lucas Pyke,814
+1269,Helen Pyke,814
+1270,Unsuk Chin,815
+1271,Shulamit Ran,816
+1272,Rita Kassabian,817
+1273,Sylvie Bodorová,818
+1274,Nancy Galbraith,819
+1275,Gertrude Hoag Wilson,820
+1276,Ethel Leginska,821
+1277,Ethel Liggins,821
+1278,Ethel Liggins,821
+1279,Debbie Wiseman,822
+1280,Louise Geneviève de La Hye,823
+1281,Louise Geneviève Rousseau,823
+1282,Louise Geneviève Rousseau,823
+1283,Anna Maria della Pietà,824
+1284,Anna Maria dal Violin,824
+1285,Anna Maria della Pietà,824
+1286,Anna Maria dal Violin,824
+1287,Anna Maria della Pietà,824
+1288,Edith Wire,825
+1289,Marie Schauff,826
+1290,Nada Ludvig-Pečar,827
+1291,Cécile Hartog,828
+1292,Pauline Oliveros,829
+1293,Blanche of Castile,830
+1294,Delphine von Schauroth,831
+1295,Yolande Uyttenhove,832
+1296,Eva Jessye,833
+1297,Teckla Juel,834
+1298,Teckla Violanda Suenssen,834
+1299,Johan Fedder,834
+1300,Carl Krone,834
+1301,Thorvald Thure,834
+1302,Teckla Violanda Suenssen,834
+1303,Johan Fedder,834
+1304,Carl Krone,834
+1305,Thorvald Thure,834
+1306,Yuka Tsujiyoko,835
+1307,Marie Siegling,836
+1308,Mary Regina Schuman Le Clercq,836
+1309,Mary Regina Schuman Le Clercq,836
+1310,Ann Ronell,837
+1311,Ann Rosenblatt,837
+1312,Ann Rosenblatt,837
+1313,Helen C. Rockefeller,838
+1314,Judith Shatin,839
+1315,Elisabeth Olin,840
+1316,Betty Lillström,840
+1317,Betty Lillström,840
+1318,Georgia Koumará,841
+1319,Marie-Anne-Catherine Quinault,842
+1320,Michèle Bokanowski,843
+1321,Huang Zhun,844
+1322,Emma Hartmann,845
+1323,Emma Zinn,845
+1324,Emma Zinn,845
+1325,Elizabeth Billington,846
+1326,Elizabeth Weichsel,846
+1327,Elizabeth Weichsel,846
+1328,Dani Howard,847
+1329,Agnes Tyrrell,848
+1330,Jeanne Leleu,849
+1331,Winifred Phillips,850
+1332,Maria Teresa Agnesi Pinottini,851
+1333,Maria Teresa Agnesi,851
+1334,Maria Teresa Agnesi,851
+1335,Judith Cloud,852
+1336,Maddalena Casulana,853
+1337,Missy Mazzoli,854
+1338,Janet Owen Thomas,855
+1339,Heidi Baader-Nobs,856
+1340,Kikuko Masumoto,857
+1341,Marcela Pavia,858
+1342,Mirrie Irma Jaffa Hill,859
+1343,Mirrie Hill,859
+1344,Mirrie Hill,859
+1345,Graciane Finzi,860
+1346,Grace Vamos,861
+1347,Helen Steele,862
+1348,Miss Davis,863
+1349,Irène Fuerison,864
+1350,Irène Van Santen,864
+1351,Irène Van Santen,864
+1352,Grete von Zieritz,865
+1353,Jocelyn Pook,866
+1354,Liana Alexandra,867
+1355,Hedy Frank-Autheried,868
+1356,Hélène Antoinette Marie de Nervo,869
+1357,Hélène de Montgeroult,869
+1358,Marquise de Montgeroult,869
+1359,Hélène de Montgeroult,869
+1360,Marquise de Montgeroult,869
+1361,Olga Magidenko,870
+1362,Phyllis Margaret Duncan Tate,871
+1363,Phyllis Tate,871
+1364,Phyllis Margaret Duncan Tate,871
+1365,Anna von Schaden,872
+1366,Helen Grime,873
+1367,Helene Guerin,874
+1368,Mlle Guerin,874
+1369,Mlle Guerin,874
+1370,Sarah Nemtsov,875
+1371,Anna Renfer,876
+1372,Mélanie Bonis,877
+1373,Mel Bonis,877
+1374,Mel Bonis,877
+1375,Magaly Ruiz Lastres,878
+1376,"Garsenda, Countess of Forcalquier",879
+1377,Garsenda de Proensa,879
+1378,Garsenda de Proensa,879
+1379,Wanda Landowska,880
+1380,Barbara of Portugal,881
+1381,Maria Madalena Bárbara Xavier Leonor Teresa Antónia Josefa,881
+1382,Bárbara,881
+1383,Maria Bárbara,881
+1384,Maria Madalena Bárbara Xavier Leonor Teresa Antónia Josefa,881
+1385,Bárbara,881
+1386,Maria Bárbara,881
+1387,Dina Koston,882
+1388,Eugenie Santa Coloma Sourget,883
+1389,Anna Rubin,884
+1390,Mary Knight Wood,885
+1391,Denise Roger,886
+1392,Louise Héritte-Viardot,887
+1393,Yekaterina Chemberdzhi,888
+1394,Katia Chemberdzhi,888
+1395,Katia Chemberdzhi,888
+1396,Harriet P. Sawyer,889
+1397,Lilian Elkington,890
+1398,Marina Leonardi,891
+1399,Mary Grant Carmichael,892
+1400,Karmella Tsepkolenko,893
+1401,Katherine Teck,894
+1402,Tsippi Fleischer,895
+1403,Jane Savage,896
+1404,Louise Reichardt,897
+1405,Luise Reichardt,897
+1406,Luise Reichardt,897
+1407,Ludmila Jeske-Choińska-Mikorska,898
+1408,Modesta Cesárea Sanginés Uriarte,899
+1409,Junko Mori,900
+1410,Marcelle Deschênes,901
+1411,Pril Smiley,902
+1412,Sonya Belousova,903
+1413,Elizabeth Philp,904
+1414,Jeanne Virginie Morel du Verger,905
+1415,Virginie Morel-du Verger,905
+1416,Christiane,905
+1417,Virginie Morel-du Verger,905
+1418,Christiane,905
+1419,Elena Ruehr,906
+1420,Mme. Tarbé des Sablons,907
+1421,Ann Southam,908
+1422,An-Ming Wang,909
+1423,Mary Carr Moore,910
+1424,Mary Louise Carr,910
+1425,Mary Louise Carr,910
+1426,Helen Eugenia Hagan,911
+1427,Josée Vigneron-Ramackers,912
+1428,Libby Larsen,913
+1429,Stefania Turkewich,914
+1430,Stefania Turkewich-Lukianovych,914
+1431,Stefaniya Turkevich-Lisovska-Lukiyanovych,914
+1432,Stefania Turkewich-Lukianovych,914
+1433,Stefaniya Turkevich-Lisovska-Lukiyanovych,914
+1434,Anna Meredith,915
+1435,Halina Krzyżanowska,916
+1436,Helene,916
+1437,Helene,916
+1438,Emiliana de Zubeldia,917
+1439,Lorete,918
+1440,Faustina Hasse Hodges,919
+1441,Ig Henneman,920
+1442,Hyo-Won Woo,921
+1443,Svitlana Azarova,922
+1444,Madelene Van Aardt,923
+1445,Madelene Olivier,923
+1446,Madelene Olivier,923
+1447,Anna Bofill Leví,924
+1448,Ana Bofill Levi,924
+1449,Ana Bofill Levi,924
+1450,Esther Rofe,925
+1451,Esther Freda Rofe,925
+1452,Agathe Backer Grøndahl,926
+1453,Agathe Ursula Backer,926
+1454,Agathe Ursula Backer,926
+1455,Mirjana Šistek-Đorđević,927
+1456,Mirjana Sistek-Djordjevic,927
+1457,Mirjana Sistek-Djordjevic,927
+1458,Barbara Harbach,928
+1459,Shirley Graham Du Bois,929
+1460,Lola Shirley Graham Jr.,929
+1461,Lola Shirley Graham Jr.,929
+1462,Pearle Christian,930
+1463,Errollyn Wallen,931
+1464,Rocío Sanz Quirós,932
+1465,Rocio Sanz,932
+1466,Caterina Assandra,933
+1467,Agata,933
+1468,Agata,933
+1469,Narcisa Freixas,934
+1470,Elaine Barkin,935
+1471,Elaine Radoff,935
+1472,Elaine Radoff,935
+1473,Anja Plaschg,936
+1474,Soap&Skin,936
+1475,Soap&Skin,936
+1476,Marie-Augustine-Aimée-Hippolyte Lorotte,937
+1477,Augustine Lorotte,937
+1478,Augustine Lorotte,937
+1479,Suzanne Joly,938
+1480,Maude Nugent,939
+1481,Dagmar de Corval Rybner,940
+1482,Dagmar Rybner,940
+1483,Dagmar Rybner,940
+1484,Johanna Doderer,941
+1485,Felicia Donceanu,942
+1486,Susan Spain-Dunk,943
+1487,Ella Adayevskaya,944
+1488,Elizaveta von Schultz,944
+1489,Elisabeth von Schultz,944
+1490,Elizaveta von Schultz,944
+1491,Elisabeth von Schultz,944
+1492,Sofie Rohnstock,945
+1493,Olga De Blanck Martín,946
+1494,Gillian Whitehead,947
+1495,Betty Jackson King,948
+1496,Ana Rugeles,949
+1497,Hélène-Louise Demars,950
+1498,Hélène-Louise Vernier,950
+1499,Hélène-Louise Vernier,950
+1500,Sainte des Prez,951
+1501,Luna Alcalay,952
+1502,Kilza Setti,953
+1503,Marie Dare,954
+1504,Margaret Dare,954
+1505,Margaret Dare,954
+1506,Eleanor Cory,955
+1507,Laura Andel,956
+1508,Nellie von Gerichten Smith,957
+1509,Charlotta Seuerling,958
+1510,Charlotte Seuerling,958
+1511,Charlotte Seuerling,958
+1512,Friederike Schwarz,959
+1513,rz,959
+1514,rz,959
+1515,Mary Anne à Beckett,960
+1516,Florentina Mallá,961
+1517,Gilda Ruta,962
+1518,Countess Gilda Ruta Cagnazzi,962
+1519,Countess Gilda Ruta Cagnazzi,962
+1520,Toyoko Takami,963
+1521,Caroline Reinagle,964
+1522,Ann Wyeth McCoy,965
+1523,Sharda,966
+1524,Constance Faunt Le Roy Runcie,967
+1525,Anahid Alice Sirooni,968
+1526,Alice Sirooni,968
+1527,Yvonne Rokseth,969
+1528,Yvonne Rihouët,969
+1529,Yvonne Rihouët,969
+1530,Tekla Bądarzewska-Baranowska,970
+1531,Theodora Troendle,971
+1532,Amanda Ira Aldridge,972
+1533,Montague Ring,972
+1534,Montague Ring,972
+1535,Isabel Aretz-Thiele,973
+1536,Isabel Aretz,973
+1537,Isabel Aretz,973
+1538,Édith Canat de Chizy,974
+1539,Elise Schmezer,975
+1540,Hanna Havrylets,976
+1541,Qiang Wang,977
+1542,Wang Qiang,977
+1543,Isabel Mundry,978
+1544,Louise Robyn,979
+1545,Christina Charlotta Cederström,980
+1546,Charlotta Cederström,980
+1547,Charlotta Cederström,980
+1548,Louise E. Stairs,981
+1549,Madame Ronssecy,982
+1550,Natasha Barrett,983
+1551,J. Lilian Vandevere,984
+1552,Tatyana Nikolayeva,985
+1553,Tatiana Nikolayeva,985
+1554,Tatiana Nikolayeva,985
+1555,Anne Upton,986
+1556,Grażyna Pstrokońska-Nawratil,987
+1557,Geni Sadero,988
+1558,Eugenia Scarpa,988
+1559,Eugenia Scarpa,988
+1560,Julia Usher,989
+1561,Lena Stein-Schneider,990
+1562,Geertruida van Vladeracken,991
+1563,Graciela Castillo,992
+1564,Josefa Somellera Guiterrez Zavalla Rebollo,993
+1565,Josefa Somellera,993
+1566,Elisabetta Brusa,994
+1567,Rhona Clarke,995
+1568,Ho Wai-On,996
+1569,Ann-Kay Lin,996
+1570,Ann-Kay Lin,996
+1571,Ellen C. Covito,997
+1572,Roberta Martin,998
+1573,Marguerite Olagnier,999
+1574,Barbara Pentland,1000
+1575,Clara H. Scott,1001
+1576,Luisa Casagemas,1002
+1577,Lluïsa Casagemas i Coll,1002
+1578,Lluïsa Casagemas i Coll,1002
+1579,Rozalie Hirs,1003
+1580,Rolande Maxwell Young,1004
+1581,Doina Rotaru,1005
+1582,Marilena Doinița Rotaru,1005
+1583,Marilena Doinița Rotaru,1005
+1584,Florence Ashton Marshall,1006
+1585,Mrs Julian Marshall,1006
+1586,Mrs Julian Marshall,1006
+1587,Laura Valborg Aulin,1007
+1588,Valborg Aulin,1007
+1589,Valborg Aulin,1007
+1590,Birgitta of Sweden,1008
+1591,Bridget of Sweden,1008
+1592,Saint Bridget,1008
+1593,Heliga Birgitta,1008
+1594,Bridget of Sweden,1008
+1595,Saint Bridget,1008
+1596,Heliga Birgitta,1008
+1597,Pamela J. Marshall,1009
+1598,Barbara Maria Zakrzewska-Nikiporczyk,1010
+1599,Dorothea Anne Franchi,1011
+1600,Lucile Grétry,1012
+1601,Elsa Elene Swartz,1013
+1602,Sophie Gail,1014
+1603,Sophie Garre,1014
+1604,Sophie Garre,1014
+1605,Monica Witni,1015
+1606,Hortense de Beauharnais,1016
+1607,Hortense Eugénie Cécile Bonaparte,1016
+1608,Hortense Eugénie Cécile Bonaparte,1016
+1609,Armande de Polignac,1017
+1610,Maria Antonia of Bavaria,1018
+1611,Maria Antonia Walpurgis Symphorosa,1018
+1612,ETPA,1018
+1613,Maria Antonia Walpurgis Symphorosa,1018
+1614,ETPA,1018
+1615,Beatriz Lockhart,1019
+1616,Hildegard of Bingen,1020
+1617,Hildegard von Bingen,1020
+1618,Hildegard von Bingen,1020
+1619,Chiara Benati,1021
+1620,B. J. Rosco,1022
+1621,Diane Wittry,1023
+1622,Rain Worthington,1024
+1623,Naomi Shemer,1025
+1624,Naomi Sapir,1025
+1625,Naomi Sapir,1025
+1626,Maya Badian,1026
+1627,Teresa Milanollo,1027
+1628,Mademoiselle Adagio,1027
+1629,Mademoiselle Adagio,1027
+1630,Darinka Simic-Mitrovic,1028
+1631,Marjorie Rusche,1029
+1632,Onutė Narbutaitė,1030
+1633,Patricia Jünger,1031
+1634,Cecilia Damström,1032
+1635,Maia Ciobanu,1033
+1636,Maya Ciobanu,1033
+1637,Maya Ciobanu,1033
+1638,Helen Rhodes (Guy d’Hardelot),1034
+1639,Guy d'Hardelot,1034
+1640,Guy d'Hardelot,1034
+1641,Jeanne Behrend,1035
+1642,Leopoldine Blahetka,1036
+1643,Mira J. Spektor,1037
+1644,Fannie Lovering Skinner,1038
+1645,Sarah Lianne Lewis,1039
+1646,Bertha Tapper,1040
+1647,Janet Wheeler,1041
+1648,Violeta Dinescu,1042
+1649,Pauline Hall,1043
+1650,Adriana Basile,1044
+1651,Andreana Basile,1044
+1652,la bella Adriana,1044
+1653,Andreana Basile,1044
+1654,la bella Adriana,1044
+1655,Esther Sommerstein Zweig,1045
+1656,Esther Zweig,1045
+1657,Linda Bouchard,1046
+1658,Hope Squire,1047
+1659,Claire Polin,1048
+1660,Soe Tjen Marching,1049
+1661,Valerie Vonpechy,1050
+1662,Pava Grigorevna Turtygina,1051
+1663,Pava Turtygina,1051
+1664,Charlotte Sporleder,1052
+1665,Melinda Kistétényi,1053
+1666,Maria Schneider,1054
+1667,Madeline Charlotte Moorman,1055
+1668,Charlotte Moorman,1055
+1669,Charlotte Moorman,1055
+1670,Chitra Singh,1056
+1671,Tamara Antonovna Shaverzashvili,1057
+1672,Countess Amalia Catharina of Waldeck,1058
+1673,Amalia Katharina of Waldeck,1058
+1674,"Amalie, Catharina",1058
+1675,Mimi Wagensonner,1059
+1676,Daria Semegen,1060
+1677,Ana Sokolovic,1061
+1678,Nancy Dalberg,1062
+1679,Esther Scliar,1063
+1680,Mildred Weston,1064
+1681,Sophia Maria Westenholz,1065
+1682,Marianna von Martines,1066
+1683,Anna Catherina Martines,1066
+1684,Anna Catherina Martines,1066
+1685,Kerry Andrew,1067
+1686,Olivia Buckley,1068
+1687,Maija Einfelde,1069
+1688,Marion Vree,1070
+1689,Alissa Firsova,1071
+1690,Lillian Fuchs,1072
+1691,Dame Margot,1073
+1692,Dame Maroie,1073
+1693,Dame Maroie,1073
+1694,Margriet Ehlen,1074
+1695,Elodie Lauten,1075
+1696,Genevieve Schecroun,1075
+1697,Genevieve Schecroun,1075
+1698,Jessie Montgomery,1076
+1699,Hilda Sehested,1077
+1700,Elainie Lillios,1078
+1701,Pierrette Mari,1079
+1702,Izabella Kuliffay,1080
+1703,Karin Rehnqvist,1081
+1704,Inna Abramovna Zhvanetskaia,1082
+1705,Inna Zhvanetskaya,1082
+1706,Ann Mounsey,1083
+1707,Ann Mounsey Bartholomew,1083
+1708,Ann Mounsey Bartholomew,1083
+1709,Claude Arrieu,1084
+1710,Ann Callaway,1085
+1711,Maria Lindsay,1086
+1712,Corona Elisabeth Wilhelmine Schröter,1087
+1713,Sara Wennerberg-Reuter,1088
+1714,Maria Teresa Pelegrí i Marimón,1089
+1715,Erna Tauro,1090
+1716,Johanna Kinkel,1091
+1717,Johanna Mockel,1091
+1718,Johanna Mockel,1091
+1719,Diamanda Galás,1092
+1720,Nini Bulterijs,1093
+1721,Beatriz Bilbao,1094
+1722,Nicole Carignan,1095
+1723,Ruth Zechlin,1096
+1724,Ruth Oschatz,1096
+1725,Ruth Oschatz,1096
+1726,Ginette Keller,1097
+1727,Asya Sultanova,1098
+1728,Ruth Erskine Tripp,1099
+1729,Ruth Tripp,1099
+1730,Susan McFarland Parkhurst,1100
+1731,Mrs. E.A. Parkhurst,1100
+1732,Mrs. E.A. Parkhurst,1100
+1733,Dilys Elwyn-Edwards,1101
+1734,Dilys Roberts,1101
+1735,Dilys Roberts,1101
+1736,Susan Cohn Lackman,1102
+1737,H. Servier,1103
+1738,Mme H. Servier,1103
+1739,Mme H. Servier,1103
+1740,Elizabeth Stirling,1104
+1741,Sonja Beets,1105
+1742,Irina Yel'cheva,1106
+1743,Irina Elcheva,1106
+1744,Irina Elcheva,1106
+1745,Margaret Sutherland,1107
+1746,Brunhilde Sonntag,1108
+1747,Jeanette Tillett,1109
+1748,Puchi Balseiro,1110
+1749,Nancy Van de Vate,1111
+1750,Nancy Jean Hayes,1111
+1751,Nancy Jean Hayes,1111
+1752,Caroline Elizabeth Sarah Norton,1112
+1753,Caroline Norton,1112
+1754,Caroline Norton,1112
+1755,Addie Anderson Wilson,1113
+1756,Lycia de Biase Bidart,1114
+1757,Mary Josephine Agnes Wurm,1115
+1758,Mary J. A. Wurm,1115
+1759,Mary Würm,1115
+1760,Mary Würm,1115
+1761,Haruna Miyake,1116
+1762,Ida Gotkovsky,1117
+1763,Josepha Barbara Auernhammer,1118
+1764,Clementine de Bourges,1119
+1765,Dilorom Saidaminova,1120
+1766,Klementyna Grabowska,1121
+1767,Countess Clementine,1121
+1768,Countess Clementine,1121
+1769,Caroline Wiseneder,1122
+1770,Anneli Arho,1123
+1771,Larysa Kuzmenko,1124
+1772,Florence Margaret Spencer Palmer,1125
+1773,Peggy Spencer Palmer,1125
+1774,Peggy Spencer Palmer,1125
+1775,Rose Thisse-Derouette,1126
+1776,María Teresa Oller Benlloch,1127
+1777,Hedwige Chrétien,1128
+1778,Dorothy Geneva Styles,1129
+1779,Jennifer Higdon,1130
+1780,Settimia Caccini,1131
+1781,Luise Schulze-Berghof,1132
+1782,Qu Xixian,1133
+1783,Svea Nordblad Welander,1134
+1784,"Helen Blackwood, Baroness Dufferin and Claneboye",1135
+1785,Helen Selina Hay,1135
+1786,Helen Selina Hay,1135
+1787,Ann Cleare,1136
+1788,Marina Saiz-Salazar,1137
+1789,Deborah Pritchard,1138
+1790,Lucia Ronchetti,1139
+1791,Carrie B. Wilson Adams,1140
+1792,Carrie Belle Wilson Adams,1140
+1793,Carrie Belle Wilson Adams,1140
+1794,Chihchun Chi-sun Lee,1141
+1795,Neva Krasteva,1142
+1796,Neva Krysteva,1142
+1797,Neva Krysteva,1142
+1798,Victoria Borisova-Ollas,1143
+1799,Consuelo Díez,1144
+1800,Louise Siddall,1145
+1801,Helen Tretbar,1146
+1802,Helza Cameu,1147
+1803,Sally Johnston Reid,1148
+1804,Hanna Skalska-Szemioth,1149
+1805,Adriana Hölszky,1150
+1806,Elinor Remick Warren,1151
+1807,Yoko Ono,1152
+1808,Tui St. George Tucker,1153
+1809,Eleni Karaindrou,1154
+1810,Ilse Fromm-Michaels,1155
+1811,Elisabeth Meyer,1156
+1812,Jennifer Thomas,1157
+1813,Lotta Wennäkoski,1158
+1814,Breda Šček,1159
+1815,Breda Scek,1159
+1816,Breda Scek,1159
+1817,Julia Perry,1160
+1818,Julia Amanda Perry,1160
+1819,Julia Amanda Perry,1160
+1820,Helen Camille Stanley,1161
+1821,Kateřina Veronika Anna Dusíkova,1162
+1822,Gabriela Moyseowicz,1163
+1823,Analia Llugdar,1164
+1824,Maria Gustava Schjelderup,1165
+1825,Mon Schjelderup,1165
+1826,Mon Schjelderup,1165
+1827,Joan Mary Last,1166
+1828,Marie Samuelsson,1167
+1829,Beatrice Schroeder Rose,1168
+1830,Lotten Edholm,1169
+1831,Lotten von Edholm-Heijne,1169
+1832,Lotten von Edholm-Heijne,1169
+1833,Suzanne Ciani,1170
+1834,Ida Georgina Moberg,1171
+1835,Evelyn LaRue Pittman,1172
+1836,Anne LeBaron,1173
+1837,Adrienne Clostre,1174
+1838,Kate Moore,1175
+1839,"Amalie, Princess of Saxony",1176
+1840,A. Serena,1176
+1841,Amalie Heiter,1176
+1842,A. Serena,1176
+1843,Amalie Heiter,1176
+1844,Kaija Saariaho,1177
+1845,Jennifer Walshe,1178
+1846,Nora Holt,1179
+1847,Lena Douglas,1179
+1848,Lora Douglas,1179
+1849,Lena Douglas,1179
+1850,Lora Douglas,1179
+1851,Mildred Barnes Royse,1180
+1852,Liu Zhuang,1181
+1853,Kikuko Kanai,1182
+1854,Kikuko Kawahira,1182
+1855,Kikuko Kawahira,1182
+1856,Galina Ustvolskaya,1183
+1857,Rebecca Helferich Clarke,1184
+1858,Harriet Wainwright,1185
+1859,Anna Maria Crouch,1186
+1860,Anna Maria Phillips,1186
+1861,Anna Maria Phillips,1186
+1862,Louise Bertin,1187
+1863,Marianna von Auenbrugger,1188
+1864,Verdina Shlonsky,1189
+1865,Verdina (Rosa) Shlonsky,1189
+1866,Verdina (Rosa) Shlonsky,1189
+1867,Yardena Alotin,1190
+1868,Margaret Hoberg Turrell,1191
+1869,Margaret Hoberg,1191
+1870,Margaret Hoberg,1191
+1871,Kristi Anne Allik,1192
+1872,Teresa Seneke,1193
+1873,Catherine Lamb,1194
+1874,Elena Romero Barbosa,1195
+1875,Elena Romero,1195
+1876,Elena Romero,1195
+1877,Anna Schuppe,1196
+1878,Lili Wieruszowski,1197
+1879,Margaret Buechner,1198
+1880,Vera Baeva,1199
+1881,Margarete Schweikert,1200
+1882,Voigt-Schweikert,1200
+1883,Voigt-Schweikert,1200
+1884,Elizabeth Ogonek,1201
+1885,Janine Charbonnier,1202
+1886,Clara Wildschut,1203
+1887,Helen Searles Westbrook,1204
+1888,Loïsa Puget,1205
+1889,Louise Françoise Puget,1205
+1890,Louise Françoise Puget,1205
+1891,Avril Anderson,1206
+1892,Ute Wassermann,1207
+1893,Claudia Rusca,1208
+1894,Karen Tanaka,1209
+1895,Louise Farrenc,1210
+1896,Jeanne-Louise Dumont,1210
+1897,Jeanne-Louise Dumont,1210
+1898,Marta Ptaszynska,1211
+1899,Denise Kelly,1212
+1900,Alice Samter,1213
+1901,Sarah Hutchings,1214
+1902,Emily Bear,1215
+1903,Dora Draganova,1216
+1904,Kerstin Jeppsson,1217
+1905,Alice Shields,1218
+1906,Liliʻuokalani,1219
+1907,Lydia Liliʻu Loloku Walania Kamakaʻeha,1219
+1908,Lydia Kamakaʻeha Dominis,1219
+1909,Lydia Kamakaʻeha Pākī,1219
+1910,Lydia Kamakaʻeha Dominis,1219
+1911,Dorothy C. Wanderman,1220
+1912,Grace LeBoy,1221
+1913,Grace Kahn,1221
+1914,Grace Kahn,1221
+1915,Hélène Fleury-Roy,1222
+1916,Katharine Faulkner Swift,1223
+1917,Kay Swift,1223
+1918,Kay Swift,1223
+1919,Adelheid Wette,1224
+1920,Caroline Sawath,1225
+1921,Emilia Gubitosi,1226
+1922,Diane Thome,1227
+1923,Eliza Mazzucato Young,1228
+1924,Elisa Mazzucato,1228
+1925,Elisa Mazzucato,1228
+1926,Evelyn Ruth Anderson,1229
+1927,Ruth Anderson,1229
+1928,Lūcija Garūta,1230
+1929,Janice Giteck,1231
+1930,Lola Carrier Worrell,1232
+1931,Julie von Webenau,1233
+1932,Julie Baroni-Cavalcabò,1233
+1933,Julie Baroni-Cavalcabò,1233
+1934,Erika Radermacher,1234
+1935,Beatrice Siegrist,1235
+1936,Ekaterina Likoshin,1236
+1937,Lera Auerbach,1237
+1938,Eleanor Joanne Daley,1238
+1939,Marguerite Canal,1239
+1940,Angela Ro Ro,1240
+1941,Zara Levina,1241
+1942,Maria Anna Stubenberg,1242
+1943,Maria Anna Herrin und Gräfin Treusch von Buttlar-Brandenfels,1242
+1944,Maria Anna Remekhazy von Gurahoncz,1242
+1945,Maria Anna von Zichy de Zich und Vásonykeö,1242
+1946,Maria Anna Remekhazy von Gurahoncz,1242
+1947,Maria Anna von Zichy de Zich und Vásonykeö,1242
+1948,Maria Anna Herrin und Gräfin Treusch von Buttlar-Brandenfels,1242
+1949,Calliope Tsoupaki,1243
+1950,María Matilde Alea Fernández,1244
+1951,Ann Loomis Silsbee,1245
+1952,Deborah Lurie,1246
+1953,Ida Vivado,1247
+1954,Kyla Greenbaum,1248
+1955,Mirjana Živković,1249
+1956,Ika Peyron,1250
+1957,Albertina Fredrika Peyron,1250
+1958,Albertina Fredrika Asp,1250
+1959,Jane O'Leary,1251
+1960,Jane Strong,1251
+1961,Jane Strong,1251
+1962,Abbie Gerrish-Jones,1252
+1963,Abbie Gerrish,1252
+1964,Abbie Genung,1252
+1965,Abbie Gerrish,1252
+1966,Abbie Genung,1252
+1967,Mathilde Kralik von Mayerswalden,1253
+1968,Mathilde Kralik,1253
+1969,Mathilde Kralik,1253
+1970,Joanídia Sodré,1254
+1971,Shafiga Akhundova,1255
+1972,Yukie Nishimura,1256
+1973,Margaret Ruthven Lang,1257
+1974,Dorothy Howell,1258
+1975,Alma Elizabeth Deutscher,1259
+1976,Bunita Marcus,1260
+1977,Jean Coulthard,1261
+1978,Marianne Sessi,1262
+1979,Elżbieta Sikora,1263
+1980,Herrad of Landsberg,1264
+1981,Herrad von Landsberg,1264
+1982,Herrad von Landsberg,1264
+1983,Jitka Snížková,1265
+1984,Marjo Tal,1266
+1985,Esther Cox Todd,1267
+1986,Emmy Wegener,1268
+1987,Mana-Zucca,1269
+1988,Gussie Zuckermann,1269
+1989,Augusta,1269
+1990,Gussie Zuckermann,1269
+1991,Augusta,1269
+1992,Mme Sicard,1270
+1993,Agnes Marie Jacobina Zimmermann,1271
+1994,Agnes Zimmermann,1271
+1995,Francesca Campana,1272
+1996,Mary McDonald,1273
+1997,Anna Caroline Oury,1274
+1998,Ninette,1274
+1999,Ninette,1274
+2000,Claire Liddell,1275
+2001,Beatriz Ferreyra,1276
+2002,Aleksandra Pakhmutova,1277
+2003,Sophie Lebrun Dülken,1278
+2004,Sophie Lebrun,1278
+2005,Sophie Lebrun,1278
+2006,Maria Malibran,1279
+2007,María Felicitas García Sitches,1279
+2008,María Felicitas García Sitches,1279
+2009,Cécile Chaminade,1280
+2010,Isabella Leonarda,1281
+2011,Elizabeth Walton Vercoe,1282
+2012,Victoria Bond,1283
+2013,Gertrude Ina Robinson,1284
+2014,Matilde Salvador i Segarra,1285
+2015,Matilde Salvador,1285
+2016,Kyungsun Suh,1286
+2017,Valentine Yanovna Zhubinskaya,1287
+2018,Isabel Güell i López,1288
+2019,Isabel María Francisca de Paula Luisa Clementina Güell y López,1288
+2020,Isabel María Francisca de Paula Luisa Clementina Güell y López,1288
+2021,Louise Farrenc,1289
+2022,Jeanne-Louise Dumont,1289
+2023,Jeanne-Louise Dumont,1289
+2024,Claudia Sessa,1290
+2025,Micheline Coulombe Saint-Marcoux,1291
+2026,Rodica Sutzu,1292
+2027,Luise Adelgunda Gottsched,1293
+2028,Irma Urteaga,1294
+2029,Ana Serrano Redonnet,1295
+2030,Bettina von Arnim,1296
+2031,Bettina Brentano,1296
+2032,Bettina Brentano,1296
+2033,Dorothy Whitson Freed,1297
+2034,Yevgania Yosifovna Yakhina,1298
+2035,Liona Boyd,1299
+2036,Amada Santos Ocampo,1300
+2037,Amado Santos Ocampo,1300
+2038,Amado Santos Ocampo,1300
+2039,Anaïs Perrière-Pilte,1301
+2040,Alex Shapiro,1302
+2041,Diana Pereira Hay,1303
+2042,Joanna Bruzdowicz,1304
+2043,Julia Gomelskaya,1305
+2044,Iwonka Bogumila Szymanska,1306
+2045,Johanne Amelie Fenger,1307
+2046,Annesley Black,1308
+2047,Frida Kern,1309
+2048,Morfydd Llwyn Owen,1310
+2049,Leokadiya Kashperova,1311
+2050,Bernadetta Matuszczak,1312
+2051,Carmela Mackenna,1313
+2052,Mary McCarty Snow,1314
+2053,Zanetta Farussi,1315
+2054,Maria Giovanna Farussi,1315
+2055,Maria Giovanna Farussi,1315
+2056,Anna Amalia of Prussia,1316
+2057,"Anna Amalia, Abbess of Quedlinburg",1316
+2058,"Anna Amalia, Abbess of Quedlinburg",1316
+2059,Constance Walton,1317
+2060,María Enma Botet Dubois,1318
+2061,Elizabeth Hayden Pizer,1319
+2062,Alma Mahler,1320
+2063,Alma Maria Schindler,1320
+2064,Alma Mahler-Werfel,1320
+2065,Alma Maria Schindler-Mahler,1320
+2066,Alma Maria Mahler,1320
+2067,Eugénie-Emilie Juliette Folville,1321
+2068,Juliette Folville,1321
+2069,Juliette Folville,1321
+2070,Fannie Charles Dillon,1322
+2071,Gloria Roe,1323
+2072,Rosephanye Dunn Powell,1324
+2073,Bebe Barron,1325
+2074,Charlotte May Wind,1325
+2075,Charlotte May Wind,1325
+2076,Jane Sinclair Wells,1326
+2077,Josephine Trott,1327
+2078,Lucia Contini Anselmi,1328
+2079,Anne Louise Brillon de Jouy,1329
+2080,Anne Louise Boyvin d'Hardancourt,1329
+2081,Anne Louise Boyvin d'Hardancourt,1329
+2082,Alice Mary Smith,1330
+2083,Sasha Siem,1331
+2084,Claire Renard,1332
+2085,Marta Canales,1333
+2086,"Sophie Elisabeth, Duchess of Brunswick-Lüneburg",1334
+2087,Duchess Elisabeth Sophie of Mecklenburg,1334
+2088,Duchess Elisabeth Sophie of Mecklenburg,1334
+2089,Consuelo Velázquez,1335
+2090,Shiva Feshareki,1336
+2091,Lucja Miller Rucinska,1337
+2092,Lucja Rucinska,1337
+2093,Lucja Rucinska,1337
+2094,Sneha Khanwalkar,1338
+2095,Bára Gísladóttir,1339
+2096,Freda Swain,1340
+2097,Shakhida Shaimardanova,1341
+2098,Lydia Boucher,1342
+2099,Sister Marie-Thérèse,1342
+2100,Sister Marie-Thérèse,1342
+2101,Dalit Hadass Warshaw,1343
+2102,Charlotte Wilhelmina Franziska Brandes,1344
+2103,Lena McLin,1345
+2104,Lena Mae Johnson,1345
+2105,Lena Mae Johnson,1345
+2106,Alliene Brandon Webb,1346
+2107,Elizabeth Masson,1347
+2108,Emily Howard,1348
+2109,Elisabetta de Gambarini,1349
+2110,Elizabeth Gambarini,1349
+2111,Elisabetta Gambarini,1349
+2112,Elisabetta Gamberini,1349
+2113,Elizabeth Gambarini,1349
+2114,Elisabetta Gambarini,1349
+2115,Elisabetta Gamberini,1349
+2116,Wang Ying,1350
+2117,Emily Bruce Roelofson,1351
+2118,Pauline Duchambge,1352
+2119,Pauline Duchambge (Montet),1352
+2120,Pauline Duchambge (Montet),1352
+2121,Virginia Gabriel,1353
+2122,Aleksandra Vrebalov,1354
+2123,Susie Frances Harrison,1355
+2124,Seranus,1355
+2125,Gilbert King,1355
+2126,Medusa,1355
+2127,Seranus,1355
+2128,Gilbert King,1355
+2129,Medusa,1355
+2130,Anna Cramer,1356
+2131,Katharine Lucke,1357
+2132,Gayane Č'ebotaryan,1358
+2133,Gayane Chebotaryan,1358
+2134,Gayane Chebotaryan,1358
+2135,Eva Dell'Acqua,1359
+2136,Catherine Murphy Urner,1360
+2137,Norma Wendelburg,1361
+2138,Chiquinha Gonzaga,1362
+2139,Francisca Edwiges Neves Gonzaga,1362
+2140,Francisca Edwiges Neves Gonzaga,1362
+2141,Giuseppina Vitali Augusti,1363
+2142,Giuseppina Vitali-Augusti,1363
+2143,Giuseppina Vitali,1363
+2144,Giuseppina Vitali-Augusti,1363
+2145,Giuseppina Vitali,1363
+2146,Vanessa-Mae,1364
+2147,Vanessa Vanakorn,1364
+2148,Vanessa Vanakorn,1364
+2149,Vincenta Da Ponte,1365
+2150,Tera de Marez Oyens,1366
+2151,Tera de Marez Oyens [née Wansink],1366
+2152,Tera de Marez Oyens [née Wansink],1366
+2153,Stevie Wishart,1367
+2154,Santa della Pietà,1368
+2155,Sanza,1368
+2156,Samaritana,1368
+2157,Sanza,1368
+2158,Samaritana,1368
+2159,Maria Frances Parke,1369
+2160,Annette Vande Gorne,1370
+2161,Helen Glatz,1371
+2162,Helen Sinclair Hunter,1371
+2163,Helen Sinclair Hunter,1371
+2164,Jean Eichelberger Ivey,1372
+2165,Lotte Backes,1373
+2166,Harriet Anne Smart,1374
+2167,Harriet Smart Callow,1374
+2168,Harriet Smart Callow,1374
+2169,Maria Schüppel,1375
+2170,Ingeborg Bronsart von Schellendorf,1376
+2171,Ingeborg von Bronsart,1376
+2172,Ingeborg von Bronsart,1376
+2173,Usha Khanna,1377
+2174,Elisabeth Kuyper,1378
+2175,Sarah Peebles,1379
+2176,Elisabeth Wintzer,1380
+2177,Tina Davidson,1381
+2178,Ivana Loudová,1382
+2179,Gloria González Pérez,1383
+2180,Huguang Xin,1384
+2181,Lalla Ryckoff,1385
+2182,Gertrude van den Bergh,1386
+2183,Lourdes Pérez,1387
+2184,Meri von KleinSmid,1388
+2185,Sook-Ja Oh,1389
+2186,Oh Sook-ja,1389
+2187,Oh Sook-ja,1389
+2188,Mary Finsterer,1390
+2189,Jane Roeckel,1391
+2190,Amy X Neuburg,1392
+2191,Regina Hansen Willman,1393
+2192,Marilyn J. Ziffrin,1394
+2193,Jacqueline Fontyn,1395
+2194,Margit Sztáray de Nagymihály,1396
+2195,Margit Sztaray,1396
+2196,Margit Sztaray,1396
+2197,Gertrude of Dagsburg,1397
+2198,Hilda Paredes,1398
+2199,Helen Francis Hood,1399
+2200,Adele Bloesch-Stöcker,1400
+2201,Rossini Waugh Stewart Vrionides,1401
+2202,Gypsy Rossini,1401
+2203,Gypsy Rossini,1401
+2204,Adelaide Pereira da Silva,1402
+2205,Young-ja Lee,1403
+2206,Runa Laila,1404
+2207,Emma Roberto Steiner,1405
+2208,Marian Arkwright,1406
+2209,Amalia Redec,1407
+2210,Enid Luff,1408
+2211,Betty Roe,1409
+2212,Shirley Walker,1410
+2213,Barbara Kolb,1411
+2214,Michiru Ōshima,1412
+2215,Kalitha Dorothy Fox,1413
+2216,Else Marie Pade,1414
+2217,Anne-Marie Krumpholtz,1415
+2218,Anne-Marie Steckler,1415
+2219,Anne-Marie Steckler,1415
+2220,Tatyana Voronina,1416
+2221,Maria Anna de Raschenau,1417
+2222,Elise Fellows White,1418
+2223,Olive Nelson Russell,1419
+2224,Julia Wolfe,1420
+2225,Pamela Z,1421
+2226,Pam Brooks,1421
+2227,Pam Brooks,1421
+2228,Bernadette Speach,1422
+2229,Mary Helena Synge,1423
+2230,Hsiung-Zee Wong,1424
+2231,Ludmila Anatolievna Yaroshevskaya,1425
+2232,Eloísa María Dolores Juana de la Santísima Trinidad D'Herbil,1426
+2233,Eloísa d'Herbil de Romany,1426
+2234,Eloisa D. de Silva,1426
+2235,Eloísa d'Herbil de Romany,1426
+2236,Eloisa D. de Silva,1426
+2237,Odaline de la Martinez,1427
+2238,Iryna Kyrylina,1428
+2239,Sylvia Constantinidis,1429
+2240,Kati Agócs,1430
+2241,Fanny Krumpholtz Pittar,1431
+2242,Priti Paintal,1432
+2243,Kerani,1433
+2244,Else Streit,1434
+2245,Yvonne Desportes,1435
+2246,Alicia Adélaide Needham,1436
+2247,María Joaquina de la Portilla Torres,1437
+2248,María Grever,1437
+2249,María Grever,1437
+2250,Pauline Thys,1438
+2251,Hanna Vollenhoven,1439
+2252,Hanna van Vollenhoven Wolff,1439
+2253,Hanna van Vollenhoven Wolff,1439
+2254,Vera Vinogradova,1440
+2255,Katherine Lacey Hoover,1441
+2256,Miya Masaoka,1442
+2257,Marie Bigot,1443
+2258,Marie Kiéné,1443
+2259,Marie Kiéné,1443
+2260,Cecilie Ore,1444
+2261,Maria Vespermann,1445
+2262,Harriett Abrams,1446
+2263,Henriëtte Bosmans,1447
+2264,Natalia Janotha,1448
+2265,Natalie Janotha,1448
+2266,Natalie Janotha,1448
+2267,Anna Lemmer Badenhorst Rudolph,1449
+2268,Nadezhda Rimskaya-Korsakova,1450
+2269,Nadezhda Nikolayevna Purgold,1450
+2270,Nadezhda Nikolayevna Purgold,1450
+2271,Jane Vignery,1451
+2272,Annelies Van Parys,1452
+2273,Andrée Bonhomme,1453
+2274,Sara Opal Search,1454
+2275,Elena Kats-Chernin,1455
+2276,Elena Kats,1455
+2277,Elena Kats,1455
+2278,Lori Laitman,1456
+2279,Marguerite Béclard d'Harcourt,1457
+2280,Elizabeth Swados,1458
+2281,Elna Sherman,1459
+2282,Alla Pavlova,1460
+2283,Ann Millikan,1461
+2284,Maria Scheepers van Dommelen,1462
+2285,Mit Scapus,1462
+2286,Mit Scapus,1462
+2287,Virginia Mariani Campolieti,1463
+2288,Édith Lejet,1464
+2289,Eve de Castro-Robinson,1465
+2290,Katerina Maier-Schiatti,1466
+2291,Katerina Maier,1466
+2292,Katerina Maier,1466
+2293,Ėta Mayseyewna Tïrmand,1467
+2294,Eta Tyrmand,1467
+2295,Eta Tyrmand,1467
+2296,Ruth Gipps,1468
+2297,Wid(dy) Gipps,1468
+2298,Wid(dy) Gipps,1468
+2299,Thea Musgrave,1469
+2300,Margherita Galeotti,1470
+2301,Mildred Souers,1471
+2302,Alice Mills Palmer Streatch,1472
+2303,Alice Streatch,1472
+2304,Linda Martinez,1473
+2305,Betsy Jolas,1474
+2306,Dinorá de Carvalho,1475
+2307,Emma Maria Macfarren,1476
+2308,Jules Brissac,1476
+2309,Jules Brissac,1476
+2310,Zlata Tkach,1477
+2311,Zlata Beyrihman,1477
+2312,Zlata Beyrihman,1477
+2313,Marie Antoinette Jeannine Vanier,1478
+2314,Jeannine Vanier,1478
+2315,Silvana Di Lotti,1479
+2316,Katia Tiutiunnik,1480
+2317,María de las Mercedes Adam de Aróstegui,1481
+2318,Josima Feldschuh,1482
+2319,Els Aarne,1483
+2320,Elze Janovna Paemurru,1483
+2321,Elze Janovna Paemurru,1483
+2322,Sulpitia Cesis,1484
+2323,Hana Vejvodová,1485
+2324,Pozzi Escot,1486
+2325,Marina Marta Vlad,1487
+2326,Hermine Küchenmeister-Rudersdorf,1488
+2327,Hermine Rudersdorff,1488
+2328,Hermine Rudersdorff,1488
+2329,Margrit Zimmermann,1489
+2330,Tansy Davies,1490
+2331,Galina Konstantinovna Smirnova,1491
+2332,Judith Ann Clingan,1492
+2333,Helen Wing,1493
+2334,Ann-Elise Hannikainen,1494
+2335,Josefina Benedetti,1495
+2336,Alice Tegnér,1496
+2337,Alice Charlotta Sandström,1496
+2338,Alice Charlotta Sandström,1496
+2339,Minuetta Kessler,1497
+2340,Minuetta Shumiatcher,1497
+2341,Minuetta Shumiatcher,1497
+2342,Adelheid Maria Eichner,1498
+2343,Kay Gardner,1499
+2344,Elsa Stuart-Bergstrom,1500
+2345,Barbara Giuranna,1501
+2346,Ellen Fullman,1502
+2347,Lila Lalauni,1503
+2348,Charlotte Alington Barnard,1504
+2349,Claribel,1504
+2350,Claribel,1504
+2351,Mieko Shiomi,1505
+2352,Chieko Shiomi,1505
+2353,Chieko Shiomi,1505
+2354,Younghi Pagh-Paan,1506
+2355,Clotilde Kainerstorfer,1507
+2356,Ernestina Lecuona y Casado,1508
+2357,Guirne Creith,1509
+2358,Guirne Javal,1509
+2359,Guirne Van Zuylen,1509
+2360,Guirne Javal,1509
+2361,Guirne Van Zuylen,1509
+2362,Sinta Wullur,1510
+2363,Evelyn Faltis,1511
+2364,Keiko Fujiie,1512
+2365,Gao Hong,1513
+2366,Agata Della Pietà,1514
+2367,Anna Sick,1515
+2368,Laura Constance Netzel,1516
+2369,N Lago,1516
+2370,N Lago,1516
+2371,Pınar Köksal,1517
+2372,Hanna Brooman,1518
+2373,Teresa Carreño,1519
+2374,María Teresa Carreño García de Sena,1519
+2375,María Teresa Carreño García de Sena,1519
+2376,Eve Beglarian,1520
+2377,Cecilia Arizti,1521
+2378,Veronika Krausas,1522
+2379,Eva Schorr,1523
+2380,Eva Weiler,1523
+2381,Eva Weiler,1523
+2382,Oliveria Louisa Prescott,1524
+2383,Barbara Strozzi,1525
+2384,Barbara Valle,1525
+2385,Barbara Valle,1525
+2386,Susan Frykberg,1526
+2387,Jane Vieu,1527
+2388,Jeanne Fabre,1527
+2389,Pierre Valette,1527
+2390,Jeanne Fabre,1527
+2391,Pierre Valette,1527
+2392,Malika Kishino,1528
+2393,Jadwiga Sarnecka,1529
+2394,Carin Bartosch Edström,1530
+2395,Gisella Delle Grazie,1531
+2396,Leonora Baroni,1532
+2397,Eleonora Baroni,1532
+2398,Lionora Baroni,1532
+2399,l'Adrianella,1532
+2400,l'Adrianetta,1532
+2401,Eleonora Baroni,1532
+2402,Lionora Baroni,1532
+2403,l'Adrianella,1532
+2404,l'Adrianetta,1532
+2405,Rosalie Marie Wertheim,1533
+2406,Rosy Wertheim,1533
+2407,Rosy Wertheim,1533
+2408,Emma Lou Diemer,1534
+2409,Elisabet Wentz-Janacek,1535
+2410,Charlotte Caroline Wilhelmine Bachmann,1536
+2411,Therese Wittman,1537
+2412,Linda Catlin Smith,1538
+2413,Maude Valérie White,1539
+2414,Signe Lund,1540
+2415,Jean E. Williams,1541
+2416,Eunice Katunda,1542
+2417,Eunice Catunda,1542
+2418,Eunice Catunda,1542
+2419,Roxanna Panufnik,1543
+2420,Jocy de Oliveira,1544
+2421,Grażyna Krzanowska,1545
+2422,Maria Agata Szymanowska,1546
+2423,Marianna Agata Wołowska,1546
+2424,Marianna Agata Wołowska,1546
+2425,Helen Gifford,1547
+2426,Antoinette Kirkwood,1548
+2427,Evelyn Glennie,1549
+2428,Ann Carr-Boyd,1550
+2429,Ann Kirsten Wentzel,1550
+2430,Ann Kirsten Wentzel,1550
+2431,Maroie de Dregnau de Lille,1551
+2432,Dame Maroie,1551
+2433,Dame Maroie,1551
+2434,Mary Wiggins,1552
+2435,Miriam Hyde,1553
+2436,Jennifer Fowler,1554
+2437,Josepha Duschek,1555
+2438,Josefa Duschek,1555
+2439,Josepha Hambacher,1555
+2440,Josefa Duschek,1555
+2441,Josepha Hambacher,1555
+2442,Hedda Wrangel,1556
+2443,Shena Fraser,1557
+2444,Anna Teichmüller,1558
+2445,Nancy Laird Chance,1559
+2446,Arlene Buckneberg Ydstie,1560
+2447,Eugénie-Victorine-Jeanne Alombert,1561
+2448,Rhoda Coghill,1562
+2449,Siegrid Ernst,1563
+2450,Anne Stratton,1564
+2451,Sylvia Fine,1565
+2452,Sylvia Fine Kaye,1565
+2453,Mildred Cozzens Turner,1566
+2454,Helvi Leiviskä,1567
+2455,Grace Williams,1568
+2456,Arlene Sierra,1569
+2457,Tamara Maliukova Sidorenko,1570
+2458,Mabel Wheeler Daniels,1571
+2459,Joelle Wallach,1572
+2460,Agnes Tschetschulin,1573
+2461,Margaret Ann Shelley Vance,1574
+2462,Peg Shelley Vance,1574
+2463,Peg Shelley Vance,1574
+2464,Diana Burrell,1575
+2465,Ella May Dunning Smith,1576
+2466,Ethel Rosalie Harraden,1577
+2467,Ethel R. Harraden,1577
+2468,Wendy Mae Chambers,1578
+2469,Mara Petrova,1579
+2470,Adaline Shepherd,1580
+2471,Addie Shepherd Olson,1580
+2472,Addie Shepherd Olson,1580
+2473,Jocelyn Morlock,1581
+2474,Catherine Kontz,1582
+2475,Irene Skovgaard,1583
+2476,Viola Van Katwijk,1584
+2477,Germaine Tailleferre,1585
+2478,Marcelle Germaine Taillefesse,1585
+2479,Marcelle Germaine Taillefesse,1585
+2480,Clarisse Leite,1586
+2481,Caterina Benedicta Grazianini,1587
+2482,Bertha Tideman-Wijers,1588
+2483,Louise Cooper Spindle,1589
+2484,Bertha Frensel Wegener,1590
+2485,Bertha Koopman,1590
+2486,Bertha Koopman,1590
+2487,Ester Mägi,1591
+2488,Gladys Nordenstrom,1592
+2489,Emilie Mayer,1593
+2490,Vivian Adelberg Rudow,1594
+2491,Castelloza,1595
+2492,Nannette Streicher,1596
+2493,Nanette Streicher,1596
+2494,Nanette Streicher,1596
+2495,Shuxian Xiao,1597
+2496,Xiao Shuxian,1597
+2497,Xiao Shuxian,1597
+2498,Julie Reisserová,1598
+2499,Georgie Boyden St. John,1599
+2500,Denise Tolkowsky,1600
+2501,Graziella Concas,1601
+2502,Rosalina Abejo,1602
+2503,Isidora Žebeljan,1603
+2504,Margarethe Danzi,1604
+2505,Maria Margarethe Marchand Danzi,1604
+2506,Maria Margarethe Marchand Danzi,1604
+2507,Azalais de Porcairagues,1605
+2508,Gitta Hana Steiner,1606
+2509,Nicole Lachartre,1607
+2510,Françoise Barrière,1608
+2511,Else Schmitz-Gohr,1609
+2512,Ivana Marburger Themmen,1610
+2513,Jeanne Beijerman-Walraven,1611
+2514,Filipina Brzezińska-Szymanowska,1612
+2515,Hannah Lash,1613
+2516,Han Lash,1613
+2517,Han Lash,1613
+2518,Marcelle Henriette Marie Villin,1614
+2519,Ann Sandifur,1615
+2520,Elizabeth Joanetta Catherine von Hagen,1616
+2521,Alice Parker,1617
+2522,Baronne Almaury de Maistre,1618
+2523,Henriette-Marie de Sainte-Marie,1618
+2524,Baroness Almaury de Maistre,1618
+2525,Henriette-Marie de Sainte-Marie,1618
+2526,Baroness Almaury de Maistre,1618
+2527,Amber Ferenz,1619
+2528,Fanny Mendelssohn,1620
+2529,Fanny Cäcilie Mendelssohn Bartholdy,1620
+2530,Fanny Hensel,1620
+2531,Fanny Cäcilie Mendelssohn Bartholdy,1620
+2532,Fanny Hensel,1620
+2533,Annette von Droste-Hülshoff,1621
+2534,Cristina Spinei,1622
+2535,Jessica Grace Wing,1623
+2536,Maria Theresa Bland,1624
+2537,Maria Romanzini,1624
+2538,Maria Romanzini,1624
+2539,Irena Pfeiffer,1625
+2540,Andrea Clearfield,1626
+2541,Ana-Maria Avram,1627
+2542,Ana Lara,1628
+2543,Pauline Volkstein,1629
+2544,Rosa Giacinta Badalla,1630
+2545,Alice Sauvrezis,1631
+2546,Elsa Laura Seemann von Mangern von Wolzogen,1632
+2547,Elsa Laura Wolzogen,1632
+2548,Elsa Laura Wolzogen,1632
+2549,Åse Hedstrøm,1633
+2550,Mary Lucas,1634
+2551,Joelle Khoury,1635
+2552,Hilary Tann,1636
+2553,Edwina Florence Wills,1637
+2554,Edwina Florence Wheeler Wills,1637
+2555,Du Yun,1638
+2556,Nanna Magdalene Liebmann,1639
+2557,Nanna Lehmann,1639
+2558,Nanna Lehmann,1639
+2559,Helene Alexander Pollak,1640
+2560,Leni Alexander,1640
+2561,Leni Alexander,1640
+2562,Liz Phillips,1641
+2563,Karola Obermueller,1642
+2564,Leonora Duarte,1643
+2565,Anna Maria Klechniowska,1644
+2566,Mira Sulpizi,1645
+2567,Moya Henderson,1646
+2568,Amy Beach,1647
+2569,Amy Marcy Cheney,1647
+2570,Mrs. H. H. A. Beach,1647
+2571,Amy Marcy Cheney,1647
+2572,Mrs. H. H. A. Beach,1647
+2573,Gertrud Elisabeth Mara,1648
+2574,Gertrude Elisabeth Mara,1648
+2575,Gertrude Elisabeth Mara,1648
+2576,Teresa Borràs i Fornell,1649
+2577,Ailís Ní Ríain,1650
+2578,Frances Tarbox,1651
+2579,Cecile Paul Simon,1652
+2580,Ilona Sekacz,1653
+2581,Roslyn Brogue,1654
+2582,Koharik Gazarossian,1655
+2583,Gabriela Ortiz Torres,1656
+2584,Maria Carolina Wolf,1657
+2585,Maria Benda,1657
+2586,Maria Benda,1657
+2587,Marcelle de Manziarly,1658
+2588,Toni Beaulieu,1659
+2589,Leone Florence Perry,1659
+2590,Leone Perry Allen,1659
+2591,Leone Florence Perry,1659
+2592,Leone Perry Allen,1659
+2593,Makiko Kinoshita,1660
+2594,Teresa Tanco Cordovez de Herrera,1661
+2595,Ljubica Marić,1662
+2596,Maria de Ventadorn,1663
+2597,Isabel Soveral,1664
+2598,Iseut de Capio,1665
+2599,Élisabeth Jacquet de La Guerre,1666
+2600,Élisabeth-Claude Jacquet,1666
+2601,Élisabeth-Claude Jacquet,1666
+2602,Eleanor Alberga,1667
+2603,Hope Temple,1668
+2604,Alice Davis,1668
+2605,Alice Davis,1668
+2606,Jeanne-Hippolyte Devismes,1669
+2607,Elise Schlick,1670
+2608,Yelena Sergeyevna Konshina,1671
+2609,Wu Fei,1672
+2610,Annette Schlünz,1673
+2611,Johanna Beyer,1674
+2612,Roberta Geddes-Harvey,1675
+2613,Karen Tarlow,1676
+2614,Piera Pistono,1677
+2615,Martha Alter,1678
+2616,Hélène-Frédérique de Faye-Jozin,1679
+2617,Fréd. de Faye-Jozin,1679
+2618,Fréd. de Faye-Jozin,1679
+2619,Helena Tulve,1680
+2620,Eliza Woods,1681
+2621,Julie Giroux,1682
+2622,Dina Appeldoorn,1683
+2623,Maria de Lourdes Martins,1684
+2624,"Wilhelmine, Margravine of Brandenburg-Bayreuth",1685
+2625,Wilhelmine of Bayreuth,1685
+2626,Princess Wilhelmine of Prussia,1685
+2627,Wilhelmine of Bayreuth,1685
+2628,Princess Wilhelmine of Prussia,1685
+2629,Grace Walls Linn,1686
+2630,Caroline Wichern,1687
+2631,Annie Patterson,1688
+2632,Hazel Ghazarian Skaggs,1689
+2633,Rosalie Balmer Smith Cale,1690
+2634,Clara Ross,1691
+2635,Edith Weiss-Mann,1692
+2636,Beth Denisch,1693
+2637,Vittoria Aleotti,1694
+2638,Raffaella Aleotti,1694
+2639,Raffaella Aleotti,1694
+2640,Micki Grant,1695
+2641,Perkins,1695
+2642,Chen Yi,1696
+2643,Margaret Lucy Wilkins,1697
+2644,Maria Dziewulska,1698
+2645,Maria Rosa Coccia,1699
+2646,Esther Ballou,1700
+2647,Esther Williamson Ballou,1700
+2648,Esther Williamson Ballou,1700
+2649,Caroline Adelaide Shaw,1701
+2650,Marta Lambertini,1702
+2651,Mary Rosselli Nissim,1703
+2652,Pamela Harrison,1704
+2653,Elena Karastoyanova,1705
+2654,Helene Karastoyanova,1705
+2655,Helene Karastoyanova,1705
+2656,Melanie Ruth Daiken,1706
+2657,Nellie Bangs Skelton,1707
+2658,Shirley Thompson,1708
+2659,Charlotte von Brandenstein,1709
+2660,Sally Beamish,1710
+2661,Sarah Frances Beamish,1710
+2662,Sarah Frances Beamish,1710
+2663,Lila-Gene George,1711
+2664,Susanna Nerantzi,1712
+2665,Ellen Dickson,1713
+2666,Dolores,1713
+2667,Dolores,1713
+2668,Patsy Rogers,1714
+2669,Isabelle Aboulker,1715
+2670,Melinda Wagner,1716
+2671,Marga Richter,1717
+2672,Jessica Curry,1718
+2673,Dee Libbey,1719
+2674,Bun-Ching Lam,1720
+2675,Lam Bun-Ching,1720
+2676,Selma Björnsdóttir,1721
