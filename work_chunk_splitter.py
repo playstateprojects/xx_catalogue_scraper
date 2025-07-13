@@ -14,7 +14,7 @@ client = OpenAI(
 )
 
 # Directories and files
-INPUT_DIR = "markdown_chunks"
+INPUT_DIR = "chunks_structured"
 OUTPUT_DIR = "individual_works"
 PROCESSED_LOG = "processed_chunks.txt"
 

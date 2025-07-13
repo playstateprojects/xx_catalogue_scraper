@@ -11,13 +11,13 @@ from google.cloud import storage
 project_id = "opus-xx"
 location = "eu" # Format is "us" or "eu"
 processor_id = "94a82e4e9e57b04e" # Create processor before running sample
-gcs_output_uri = "gs://xx_catalogues/parsed" # Must end with a trailing slash `/`. Format: gs://bucket/directory/subdirectory/
+gcs_output_uri = "gs://xx_catalogues/raw/An annotated catalog of works by women composers for the double b.pdf" # Must end with a trailing slash `/`. Format: gs://bucket/directory/subdirectory/
 # processor_version_id = "YOUR_PROCESSOR_VERSION_ID" # Optional. Example: pretrained-ocr-v1.0-2020-09-23
 
 # TODO(developer): You must specify either `gcs_input_uri` and `mime_type` or `gcs_input_prefix`
-gcs_input_uri = "gs://xx_catalogues/Gesamtkatalog_vokal_screen.pdf" # Format: gs://bucket/directory/file.pdf
+# gcs_input_uri = "gs://xx_catalogues/raw/Women-Composers.pdf" # Format: gs://bucket/directory/file.pdf
 input_mime_type = "application/pdf"
-# gcs_input_prefix = "YOUR_INPUT_URI_PREFIX" # Format: gs://bucket/directory/
+gcs_input_prefix = "gs://xx_catalogues/raw/" # Format: gs://bucket/directory/
 # field_mask = "text,entities,pages.pageNumber"  # Optional. The fields to return in the Document object.
 
 
@@ -155,7 +155,7 @@ if __name__ == "__main__":
         project_id=project_id,
         location=location,
         processor_id=processor_id,
-        gcs_output_uri=gcs_output_uri,
-        gcs_input_uri=gcs_input_uri,
-        input_mime_type=input_mime_type
+        gcs_output_uri="gs://xx_catalogues/outputs/annotated-catalog/",  # must end with slash
+        gcs_input_prefix="gs://xx_catalogues/raw/",                      # input folder
+        input_mime_type="application/pdf"                                # optional with prefix, but safe
     )

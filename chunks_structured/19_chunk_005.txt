@@ -1,0 +1,57 @@
+A GUIDE TO SCORING
+Orchestra and ensemble instrumentation appear in score order as follows:
+flute.oboe.clarinet.saxophone.bassoon/
+horn.trumpet.trombone.tuba/
+percussion/
+harp.keyboard/
+other plucked strings/
+violin1.violin2.viola.cello.doublebass;
+continuo;
+electronic tape;
+voice(s) treated as an instrument
+The numbers between the slashes indicate the number of instruments in each group. Sometimes within each group, instruments are separated by dots for clarity.
+"str" without indication of number indicates that a string group, without any specific demands as to the number of strings, is involved.
+Instruments in an ordinary bracket indicate doubling: 1(pic)111 thus signifies that the flute player also plays the piccolo.
+Doublings separated by a comma indicate that the doublings are taken by one player:
+2(afl, pic)111 signifies that one of the flutes doubles both alto flute and piccolo.
+Doublings separated by a colon indicate that the doublings are taken by different players:
+2(afl:pic)111 signifies that one flute doubles alto flute and the other doubles piccolo.
+Instruments preceded by an equals sign in square brackets indicate alternatives:
+11[=ca]11 signifies that the oboe can be replaced by a cor anglais.
+Instruments in square brackets indicates that the instrument is optional:
+111[bcl]1 signifies that the bass clarinet part is optional
+A plus in front of the instrument indicates use of an additional instrument:
+1+pic.111 signifies that there is a piccolo player as well as a flute player.
+A plus in brackets indicates that additional instruments can be used, if desired:
+213[+]2 signifies that three or more clarinets can be used.
+Example 1:
+solo: 2 violins, oboe
+2(pic:afl)2.2(Ebcl,bcl).
+2/4331/2perc/hp.2pf/
+str(14.12.10.8.6)
+2 solo violins
+1 solo oboe
+and an orchestra with:
+2 flutes (1 player doubling piccolo, the other doubling alto)
+2 oboes
+2 clarinets (one player doubling both E♭ clarinet and bass clarinet)
+2 bassoons
+4 horns
+3 trumpets
+3 trombones
+1 tuba
+2 percussionists
+harp
+2 pianos
+and a string group consisting of 14 first violins, 12 second violins, 10 violas, 8 cellos, and 6 basses.
+Example 2:
+afl.1[=ca].1.1/1000/perc. timp/str
+1 alto flute
+1 oboe or cor anglais
+2 clarinets
+1 bassoon
+1 horn
+1 percussionist
+1 timpanist
+strings
+6

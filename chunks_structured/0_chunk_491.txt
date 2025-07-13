@@ -1,0 +1,73 @@
+Saariaho, Kaija
+Ciel étoilé
+Date of Composition: 1999
+Date of Publication: 2000
+Instrumentation: db; perc
+Duration: 5'
+Publisher: Chester Music
+Number of Performers: 2
+Annotations: Double bass sounding harmonics and multiphonics. 36 bars. Playing Techniques: s.p.; s.t.; nat. harmonic; tr.; multiphonics; trem.; pizz
+OCLC number: 52369914
+Online suggested recordings: https://youtu.be/VACedKjwWD0
+Source: OCLC; CW; SC
+Bosun's cheer
+Date of Composition: 2014
+Date of Publication: 2015
+Instrumentation: fl; vc; db; narr
+Duration: 4'
+Publisher: Chester Music
+Number of Performers: 4
+Annotations: Energetic. Moments of speaking while playing and ad lib. repetition. Playing Techniques: s.p.; s.t.; increase bow pressure into scratch tone; breath tone; multiphonics; gliss; chords;
+pizz; tr.
+OCLC number: 928399754
+Source: OCLC; CW; SC
+Miranda's lament
+Date of Composition: 1997
+Instrumentation: S; cl; hp; vn; db
+Duration: 6'
+Publisher: Chester Music
+161
+Number of Performers: 5
+Annotations: Text from "The Tempest" by William Shakespeare.
+Playing Techniques: tr.; no vibrato; s.p.; s.t.; add bow pressure to produce a distorted sound
+Dedication: Paavo Heininen
+OCLC number: 84375952
+Recordings: From the grammar of dreams
+Online suggested recordings: https://youtu.be/SEeC3bxn9xQ
+Source: OCLC; CW; SC
+Sombre
+Date of Publication: 2012
+Instrumentation: bfl; perc; hp; db
+Duration: 18'
+Publisher: Chester Music
+Number of Performers: 5
+Annotations: Texts by Ezra Pound from his "Cantos."
+Playing Techniques: s.p.; s.t.; on the bridge; increase bow pressure into scratch tone; trill between harmonic and normal pressure; gliss; trem.; artificial harmonics; pizz; vibrato
+Commission: The Serge Koussevitzky Music Foundation and Da Camera of Houston
+Dedication: The memory of Serge and Natalie Koussevitzky
+OCLC number: 903002658
+Online suggested recordings: https://youtu.be/XE_HCEHdhoY Source: OCLC; CW; SC
+Prospero's vision
+Date of Publication: 2002
+Instrumentation: Bar; cl; hp; vn; db
+Duration: 5'
+Publisher: Chester Music
+Number of Performers: 5
+Annotations: Text from "The Tempest" by William Shakespeare.
+Playing Techniques: s.p.; s.t.; harmonics; trem.; vibrato; trill between harmonic and normal pressure
+Dedication: Peter Sellars
+OCLC number: 84376438
+Source: OCLC; CW; SC
+Folia
+Date of Publication: 1995 Instrumentation: db; tape Duration: 10'
+Publisher: Chester Music
+Number of Performers: 2
+Annotations: Relevant piece for the bass repertoire that displays live electronics and timbre explorations on the double bass by strong usage of extended techniques and harmonics. The piece has two types of notation, when marked lento, it is free from pulsation and during more rhythmic passages, there is a precise notation and tempo recommendation. The sound engineer should read the score and adjust the relative levels of the double bass and electronics on the mixing desk.
+Playing Techniques: L.H. pizz; art. harmonics; nat. harmonics; specific bow pressure; micro intervals; sp.; s.t.; trem.; tr.; vibrato; sfz
+Technical Requirements: Macintosh computer equipped with an external audio interface compatible with Max. Microphone for the Double Bass. Mixer & stereo diffusion. Electronics part can be run with a Max patch including all effects.
+Technique Level: Advanced Commission: GRAME
+162
+Dedication: Jean-Pierre Robert
+OCLC number: 51956733
+Recordings: Une Contrabasse, un Humain - Jean-Pierre Robert
+Online suggested recordings: 1 - https://www.youtube.com/watch?v=OeMns5H2eCk; 2- https://www.youtube.com/watch?v=529TmBykJRY Source: OCLC; CW; SC

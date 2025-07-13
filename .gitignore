@@ -1,1 +1,9 @@
 .env
+wiki-scraper/
+markdown_chunks/
+markdown_chunks_w/
+individual_works/
+doc_json/
+chunks/
+chuunks_structured/
+

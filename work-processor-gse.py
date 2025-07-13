@@ -76,7 +76,7 @@ Create a complete and accurate JSON object with the following structure:
     "tags": ["descriptive property not covered elsewhere"],
     "Catalog Number": "for example BWV 846 or fue 5320",
     "ISMN": "for example 979-0-50012-332-3",
-    "publisher": "always use Furore if not explicitly stated otherwise",
+    "publisher": "",
     "name of source":"the filename osuplied by the user."
 }
 
@@ -88,7 +88,6 @@ Focus on accuracy:
 5. For dates, use DD.MM.YYYY format when full dates are available, or just YYYY when only the year is known
 6. Pay special attention to any catalog numbers (BWV, K, Op., fue, etc.) and put them in the "Catalog Number" field
 7. If you find an ISMN, put it in the "ISMN" field
-8. Always set the publisher to "Furore" unless explicitly stated otherwise in the text
 9. Instrumentation must be accurate, comprehensive, and translated to English.
 Use the following abbreviation reference when decoding instruments:
 Abkürzungen * Abbreviations
@@ -301,7 +300,7 @@ def search_for_ismn(work_data):
                     
                     # Check if link is relevant (e.g., sheet music, score, publication)
                     relevant_terms = ['score', 'sheet music', 'publication', 'music library', 
-                                     'imslp', 'petrucci', 'musescore', 'musicnotes', 'furore']
+                                     'imslp', 'petrucci', 'musescore', 'musicnotes']
                     
                     is_relevant = any(term.lower() in title.lower() or term.lower() in link.lower() 
                                       for term in relevant_terms)
@@ -466,8 +465,7 @@ def process_work_files():
                 
                 if work_data:
                     # Make sure publisher is set to Furore if it's empty
-                    if not work_data.get("publisher") or work_data.get("publisher") == "always use Furore if not explicitly stated otherwise":
-                        work_data["publisher"] = "Furore"
+                   
                             
                     # Search for ISMN and add links
                     try:
