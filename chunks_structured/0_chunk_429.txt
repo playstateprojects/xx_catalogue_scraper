@@ -1,7 +1,0 @@
-Cypress
-Date of Composition: 2002
-Instrumentation: db; bcl
-Publisher: Centre for New Zealand Music
-Number of Performers: 2
-OCLC number: 84543609
-Source: OCLC; CW

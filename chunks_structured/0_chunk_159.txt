@@ -1,6 +1,0 @@
-Nightscapes
-Instrumentation: db; pf
-Duration: 8'
-Number of Performers: 2
-Online suggested recordings: https://youtu.be/CnHyle0yEA0
-Source: C
