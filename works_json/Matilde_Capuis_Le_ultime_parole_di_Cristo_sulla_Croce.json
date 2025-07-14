@@ -1,30 +1,30 @@
 {
-  "Name": "Le ultime parole di Cristo sulla Croce",
-  "Composer": "Matilde Capuis",
-  "Source/Collection": "",
-  "Publication Year": "",
-  "First Performance": "",
-  "Duration": "",
-  "Availability": "Published",
-  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
-  "links": [
-    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf"
-  ],
-  "Status": "Complete",
-  "Notes": "",
   "Genre": "Vocal",
-  "SubGenre": "Oratorio",
-  "Period": "20th Century",
+  "name of source": "Matilde_Capuis_Le_ultime_parole_di_Cristo_sulla_Croce.txt",
+  "Availability": "Published",
+  "Source/Collection": "",
+  "Duration": "",
   "Instrumentation": [
     "baritone",
     "piano or orchestra"
   ],
-  "Related Works": [],
-  "Long Description": "",
   "Short Description": "Le ultime parole di Cristo sulla Croce für Bar, Klav oder Orch",
   "tags": [],
-  "Catalog Number": "fue 2563",
-  "ISMN": "979-0-50012-000-1",
+  "Composer": "Matilde Capuis",
+  "First Performance": "",
+  "Notes": "",
   "publisher": "Furore",
-  "name of source": "Matilde_Capuis_Le_ultime_parole_di_Cristo_sulla_Croce.txt"
+  "Catalog Number": "fue 2563",
+  "Publication Year": "",
+  "ISMN": "979-0-50012-000-1",
+  "Related Works": [],
+  "links": [
+    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf"
+  ],
+  "Name": "Le ultime parole di Cristo sulla Croce",
+  "Period": "20th Century",
+  "Long Description": "",
+  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+  "Status": "Complete",
+  "SubGenre": "Oratorio"
 }

@@ -6,6 +6,7 @@ import glob
 import requests
 from openai import OpenAI
 from dotenv import load_dotenv
+import difflib
 
 load_dotenv()
 
@@ -22,7 +23,7 @@ GOOGLE_CSE_ID = os.environ.get("GOOGLE_CSE_ID")  # Custom Search Engine ID
 
 # Directories and files
 INDIVIDUAL_WORKS_DIR = "individual_works"  # Directory with individual work txt files
-ORIGINAL_CHUNKS_DIR = "markdown_chunks"             # Directory with original chunk files
+ORIGINAL_CHUNKS_DIR = "chunks_structured"             # Directory with original chunk files
 OUTPUT_DIR = "works_json"                  # Output directory for JSON files
 PROCESSED_LOG = "processed_individual_works_json.txt"
 WORK_TO_CHUNK_MAP = "work_to_chunk_map.json"  # Maps each work file to its original chunk
@@ -139,9 +140,9 @@ def build_work_to_chunk_map():
     This is done by searching for text matches between work files and chunk files."""
     print("Building work to chunk mapping...")
     
-    # Get all individual work files and chunk files
-    work_files = glob.glob(os.path.join(INDIVIDUAL_WORKS_DIR, "*.txt"))
-    chunk_files = glob.glob(os.path.join(ORIGINAL_CHUNKS_DIR, "*.txt")) + glob.glob(os.path.join(ORIGINAL_CHUNKS_DIR, "*.md"))
+     # Get all individual work files and chunk files
+    work_files = glob.glob(os.path.join(INDIVIDUAL_WORKS_DIR, "*.{txt,md}"))
+    chunk_files = glob.glob(os.path.join(ORIGINAL_CHUNKS_DIR, "*.{txt,md}"))
     
     # Initialize the mapping
     mapping = {}
@@ -155,12 +156,19 @@ def build_work_to_chunk_map():
     # For each work file, find which chunk file it came from
     for work_file in work_files:
         work_filename = os.path.basename(work_file)
-        work_content = read_text_file(work_file).strip()
-        
+        full_work_content = read_text_file(work_file).strip()
+
+        # Use only the last paragraph for matching
+        paragraphs = [p.strip() for p in full_work_content.split("\n\n") if p.strip()]
+        if not paragraphs:
+            continue
+        work_content = paragraphs[-1]  # Last non-empty paragraph
+
         # Skip very short content (it might match many chunks)
         if len(work_content) < 10:
             continue
         
+      
         # Try to find a match in the chunks
         matched_chunk = None
         for chunk_filename, chunk_content in chunk_contents.items():
@@ -234,6 +242,10 @@ def extract_work_info(work_text, work_filename, chunk_context):
     
     return None
 
+def is_meaningful_query(query):
+    tokens = re.findall(r'\b\w+\b', query)
+    return any(not token.isdigit() for token in tokens)
+
 def search_for_ismn(work_data):
     """
     Search for ISMN and other identifiers using Google Search API
@@ -275,6 +287,10 @@ def search_for_ismn(work_data):
     # Perform searches
     found_links = []
     for term in search_terms:
+        if not is_meaningful_query(term):
+            print(f"  ⚠ Skipping meaningless query (just numbers): {term}")
+            continue
+
         try:
             print(f"  Searching for: {term}")
             url = "https://www.googleapis.com/customsearch/v1"
@@ -284,31 +300,37 @@ def search_for_ismn(work_data):
                 'q': term,
                 'num': 5  # Number of results to return
             }
-            
+
             response = requests.get(url, params=params)
             if response.status_code != 200:
                 print(f"  ⚠ Search API error: {response.status_code}")
                 continue
-                
+
             results = response.json()
-            
+
             # Extract relevant links
             if 'items' in results:
                 for item in results['items']:
                     title = item.get('title', '')
                     link = item.get('link', '')
-                    
-                    # Check if link is relevant (e.g., sheet music, score, publication)
-                    relevant_terms = ['score', 'sheet music', 'publication', 'music library', 
-                                     'imslp', 'petrucci', 'musescore', 'musicnotes']
-                    
+
+                    # Updated relevant terms
+                    relevant_terms = [
+                        'score', 'sheet music', 'publication', 'music library',
+                        'imslp', 'petrucci', 'musescore', 'musicnotes',
+                        'edition', 'partitur', 'manuscript', 'facsimile',
+                        'musikdruck', 'ueberlieferung', 'druck', 'urtext', 'verlag',
+                        'boosey', 'breitkopf', 'schott', 'ricordi', 'allegro',
+                        'worldcat', 'naxos', 'arkiv', 'catalogue', 'catalog',
+                        'digital library', 'archive.org', 'public domain'
+                    ]
+
                     is_relevant = any(term.lower() in title.lower() or term.lower() in link.lower() 
-                                      for term in relevant_terms)
-                    
-                    # Add relevant links
+                                    for term in relevant_terms)
+
                     if is_relevant and link not in found_links:
                         found_links.append(link)
-            
+
         except Exception as e:
             print(f"  ⚠ Error during search: {type(e).__name__}: {e}")
     
@@ -496,24 +518,57 @@ def process_work_files():
                         out_filename = out_filename[:100]
                     
                     # Add a numeric suffix if a file with this name already exists
-                    counter = 1
                     final_filename = f"{out_filename}.json"
                     out_path = os.path.join(OUTPUT_DIR, final_filename)
-                    
-                    while os.path.exists(out_path):
-                        final_filename = f"{out_filename}_{counter}.json"
-                        out_path = os.path.join(OUTPUT_DIR, final_filename)
-                        counter += 1
-                    
-                    # Save work data as JSON
-                    with open(out_path, 'w', encoding='utf-8') as f:
-                        json.dump(work_data, f, indent=2, ensure_ascii=False)
-                    
-                    print(f"  ✓ Saved work data to {out_path}")
-                    successful_count += 1
-                else:
-                    print(f"  ✗ Failed to extract data for {work_filename}")
-                
+
+                    merge_log = []
+
+                    if os.path.exists(out_path):
+                        print(f"  ⚠ Duplicate detected. Attempting to merge with existing: {final_filename}")
+                        try:
+                            with open(out_path, 'r', encoding='utf-8') as f:
+                                existing_data = json.load(f)
+                        except Exception as e:
+                            print(f"  ✗ Failed to read existing JSON: {e}")
+                            existing_data = {}
+
+                        # Merge fields
+                        merged_data = {}
+                        all_keys = set(existing_data.keys()).union(set(work_data.keys()))
+                        for key in all_keys:
+                            old_val = existing_data.get(key, "")
+                            new_val = work_data.get(key, "")
+
+                            if isinstance(old_val, list) and isinstance(new_val, list):
+                                combined = sorted(list(set(old_val + new_val)))
+                                if combined != old_val:
+                                    merge_log.append(f"    • Field '{key}' extended from {old_val} → {combined}")
+                                merged_data[key] = combined
+
+                            elif isinstance(old_val, str) and isinstance(new_val, str):
+                                if not old_val and new_val:
+                                    merge_log.append(f"    • Field '{key}' was empty, updated to: '{new_val}'")
+                                    merged_data[key] = new_val
+                                else:
+                                    merged_data[key] = old_val  # preserve existing
+                            else:
+                                # fallback: prefer existing non-empty
+                                merged_data[key] = old_val if old_val else new_val
+
+                        work_data = merged_data
+
+                        if merge_log:
+                            print("  📝 Merge log:")
+                            for line in merge_log:
+                                print(line)
+                        else:
+                            print("  ✓ No changes made during merge.")
+                # Save merged or new work_data to JSON
+                with open(out_path, 'w', encoding='utf-8') as f:
+                    json.dump(work_data, f, indent=2, ensure_ascii=False)
+
+                print(f"  ✓ Saved work data to {out_path}")
+                successful_count += 1
                 # Mark as processed regardless of success (to avoid getting stuck)
                 processed_files.add(work_filename)
                 

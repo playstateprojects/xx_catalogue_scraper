@@ -1,29 +1,38 @@
 {
-  "Name": "Das Jahr",
-  "Composer": "Fanny Hensel",
-  "Source/Collection": "",
-  "Publication Year": "",
-  "First Performance": "",
-  "Duration": "",
-  "Availability": "Published",
-  "Link to Score": "https://furore-verlag.de/en/produkt/das-jahr-ein-klavierzyklus-faksimile-2/",
-  "links": [
-    "https://furore-verlag.de/en/produkt/das-jahr-ein-klavierzyklus-faksimile-2/"
+  "Instrumentation": [
+    "Piano"
   ],
-  "Status": "Complete",
-  "Notes": "DEUTSCHER MUSIKEDITIONSPREI BEST EDITION",
-  "Genre": "Orchestral",
-  "SubGenre": "",
   "Period": "Romantic",
-  "Instrumentation": [],
-  "Related Works": [],
-  "Long Description": "",
-  "Short Description": "",
-  "tags": [
-    "BEST EDITION"
-  ],
+  "Notes": "DEUTSCHER MUSIKEDITIONSPREI BEST EDITION",
+  "Short Description": "12 Charakterstücke für das Fortepiano",
+  "ISMN": "979-0-50012-038-2",
   "Catalog Number": "fue 8920",
-  "ISMN": "",
+  "Source/Collection": "",
+  "Genre": "Orchestral",
+  "name of source": "Fanny_Hensel_Das_Jahr.txt",
+  "links": [
+    "https://furore-verlag.de/en/product-category/books/books-books/facsimile/",
+    "https://furore-verlag.de/en/produkt/das-jahr-ein-klavierzyklus-faksimile-2/",
+    "https://furore-verlag.de/en/produkt/das-jahr-moderne-notenedition-2/",
+    "https://juilliardstore.com/products/hensel-mendelssohn-das-jahr-fue-8920",
+    "https://www.sheetmusicplus.com/en/product/das-jahr-16335506.html"
+  ],
+  "Publication Year": "1841",
+  "Duration": "45'",
+  "Related Works": [],
+  "Composer": "Fanny Hensel",
+  "tags": [
+    "BEST EDITION",
+    "Character Piece",
+    "Piano Cycle",
+    "Romantic"
+  ],
+  "Availability": "Published",
   "publisher": "Furore",
-  "name of source": "Fanny_Hensel_Das_Jahr.txt"
+  "First Performance": "",
+  "Long Description": "The piano cycle 'The Year' - quite an obvious subject but still without example in the history of music when it was composed in 1841 was published for the first time in 1989. During the preparation of the 2nd edition presented here, we were surprised to find another source in the form of an illustrated fair copy. This revised version could be used as a valuable basis for the revision. Both the structure of composition, highlighting particularly the contours of the cyclic course of the year, and the piano setting are examples of the composer's mature personal style. By changing between virtuoso, lyric, song-like and solemn characters, the piece combines various levels of difficulty in an overall demanding piano work.",
+  "SubGenre": "Character Piece",
+  "Link to Score": "https://furore-verlag.de/en/produkt/das-jahr-ein-klavierzyklus-faksimile-2/",
+  "Status": "Complete",
+  "Name": "Das Jahr"
 }

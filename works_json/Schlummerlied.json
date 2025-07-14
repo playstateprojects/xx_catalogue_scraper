@@ -1,30 +1,30 @@
 {
-  "Name": "Schlummerlied",
-  "Composer": "",
-  "Source/Collection": "",
-  "Publication Year": "",
-  "First Performance": "",
-  "Duration": "",
+  "Genre": "Vocal",
+  "name of source": "Schlummerlied_op_31.txt",
   "Availability": "Published",
-  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+  "Source/Collection": "",
+  "Duration": "",
+  "Instrumentation": [
+    "piano",
+    "soprano/alto"
+  ],
+  "Short Description": "für S/A und Klav",
+  "tags": [],
+  "Composer": "",
+  "First Performance": "",
+  "Notes": "",
+  "publisher": "Furore",
+  "Catalog Number": "fue 7200",
+  "Publication Year": "",
+  "ISMN": "979-0-50012-720-8",
+  "Related Works": [],
   "links": [
     "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf"
   ],
-  "Status": "Complete",
-  "Notes": "",
-  "Genre": "Vocal",
-  "SubGenre": "Lieder",
+  "Name": "Schlummerlied",
   "Period": "",
-  "Instrumentation": [
-    "soprano/alto",
-    "piano"
-  ],
-  "Related Works": [],
   "Long Description": "",
-  "Short Description": "für S/A und Klav",
-  "tags": [],
-  "Catalog Number": "fue 7200",
-  "ISMN": "979-0-50012-720-8",
-  "publisher": "Furore",
-  "name of source": "Schlummerlied_op_31.txt"
+  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+  "Status": "Complete",
+  "SubGenre": "Lieder"
 }

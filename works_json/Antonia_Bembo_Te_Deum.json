@@ -1,39 +1,42 @@
 {
-  "Name": "Te Deum",
-  "Composer": "Antonia Bembo",
-  "Source/Collection": "",
-  "Publication Year": "",
-  "First Performance": "",
-  "Duration": "30'",
-  "Availability": "Published",
-  "Link to Score": "https://furore-verlag.de/produkt/te-deum/",
-  "links": [
-    "https://furore-verlag.de/produkt/te-deum/",
-    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
-    "https://furore-verlag.de/en/shop/?filtering=1&filter_product_brand=1132118474068197164%2C5488%2C1132%2C7148%2C1328%2C1248%2C848%2C1200%2C724%2C1212%2C7184%2C760&product_order=desc",
-    "https://furore-verlag.de/en/shop/?filtering=1&filter_product_brand=1132118474068197164,5488,1268,728,760",
-    "https://www.sheetmusicplus.com/en/explore?q=Antonia%20Bembo"
-  ],
-  "Status": "Complete",
-  "Notes": "Interessante, sehr gute praktische Ausgaben mit der Musik einer genialen Komponistin des Barock und dazu aus dem schmalen Bereich der französischen Solo-Kantate. Lobenswert die gute stilistisch einfühlsame Generalbaßausetzung. Ein- und ausdrucksfreudige Werke über biblische Inhalte, die sich für jedes Kirchenkonzert bestens eignen.",
   "Genre": "Choral",
-  "SubGenre": "Cantata",
-  "Period": "Baroque",
+  "name of source": "Antonia_Bembo_Te_Deum.txt",
+  "Availability": "Published",
+  "Source/Collection": "",
+  "Duration": "30'",
   "Instrumentation": [
     "2 sopranos",
-    "bass",
     "2 violins",
+    "bass",
     "basso continuo"
   ],
-  "Related Works": [],
-  "Long Description": "The Italian composer and singer was active in Paris during the later part of Louis XIV's reign. In 1654 she was studying with Francesco Cavalli. She married a nobleman, Lorenzo Bembo, in 1655; they had three children, Andrea, Giacomo and Diana. Before 1676 Antonia Bembo left Venice and went to Paris. Bembo's music can be dated from 1697 to 1707 and includes sacred and secular vocal compositions which she dedicated to Louis XIV and other members of the royal family.",
   "Short Description": "Te Deum for 2 sopranos, bass, 2 violins and basso continuo",
   "tags": [
+    "Baroque",
+    "French",
     "sacred",
     "vocal"
   ],
-  "Catalog Number": "fue 6700",
-  "ISMN": "979-0-50012-670-6",
+  "Composer": "Antonia Bembo",
+  "First Performance": "",
+  "Notes": "Interessante, sehr gute praktische Ausgaben mit der Musik einer genialen Komponistin des Barock und dazu aus dem schmalen Bereich der französischen Solo-Kantate. Lobenswert die gute stilistisch einfühlsame Generalbaßausetzung. Ein- und ausdrucksfreudige Werke über biblische Inhalte, die sich für jedes Kirchenkonzert bestens eignen.",
   "publisher": "Furore",
-  "name of source": "Antonia_Bembo_Te_Deum.txt"
+  "Catalog Number": "fue 6700",
+  "Publication Year": "",
+  "ISMN": "979-0-50012-670-6",
+  "Related Works": [],
+  "links": [
+    "https://furore-verlag.de/en/shop/?filtering=1&filter_product_brand=1132118474068197164%2C5488%2C1132%2C7148%2C1328%2C1248%2C848%2C1200%2C724%2C1212%2C7184%2C760&product_order=desc",
+    "https://furore-verlag.de/en/shop/?filtering=1&filter_product_brand=1132118474068197164%2C5488%2C1132%2C7148%2C1328%2C1248%2C848%2C1200%2C724%2C1212%2C760&product_order=desc",
+    "https://furore-verlag.de/en/shop/?filtering=1&filter_product_brand=1132118474068197164,5488,1268,728,760",
+    "https://furore-verlag.de/produkt/te-deum/",
+    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+    "https://www.sheetmusicplus.com/en/explore?q=Antonia%20Bembo"
+  ],
+  "Name": "Te Deum",
+  "Period": "Baroque",
+  "Long Description": "The Italian composer and singer was active in Paris during the later part of Louis XIV's reign. In 1654 she was studying with Francesco Cavalli. She married a nobleman, Lorenzo Bembo, in 1655; they had three children, Andrea, Giacomo and Diana. Before 1676 Antonia Bembo left Venice and went to Paris. Bembo's music can be dated from 1697 to 1707 and includes sacred and secular vocal compositions which she dedicated to Louis XIV and other members of the royal family.",
+  "Link to Score": "https://furore-verlag.de/produkt/te-deum/",
+  "Status": "Complete",
+  "SubGenre": "Cantata"
 }

@@ -1,35 +1,40 @@
 {
-  "Name": "Waldruhe",
-  "Composer": "Fanny Hensel",
-  "Source/Collection": "",
-  "Publication Year": "1841",
-  "First Performance": "",
-  "Duration": "5'",
-  "Availability": "Published",
   "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/11/Fanny-Hensel-Katalog-2022-1.pdf",
-  "links": [
-    "https://furore-verlag.de/wp-content/uploads/2021/11/Fanny-Hensel-Katalog-2022-1.pdf",
-    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
-    "https://furore-verlag.de/en/product-category/music-publications/vocal-music/ensembles-with-accompaniment/",
-    "https://furore-verlag.de/produkt/waldruhe-partitur/",
-    "https://furore-verlag.de/produkt/waldruhe-chorpartitur-sat/"
-  ],
-  "Status": "Complete",
-  "Notes": "The trio with piano accompaniment describes in a poetic way (eternal) sleep and dream as an entering into guarded nature. All of Fanny Hensel's vocal trios are written for two female voices and tenor. The performance by S1, A1 and A2, as well as S1, S2 and A, is however just as well possible without problems.",
-  "Genre": "Vocal",
-  "Period": "Early Romantic",
-  "Instrumentation": [
-    "soprano",
-    "alto",
-    "tenor",
-    "piano"
-  ],
-  "Related Works": [],
-  "Long Description": "<div>The trio with piano accompaniment describes in a poetic way (eternal) sleep and dream as an entering into guarded nature. All of Fanny Hensel's vocal trios are written for two female voices and tenor. The performance by S1, A1 and A2, as well as S1, S2 and A, is however just as well possible without problems.</div>",
-  "Short Description": "Waldruhe (1841) (5') Terzett für S, A, T und Klav",
-  "tags": [],
   "Catalog Number": "fue 5500, fue 5501, fue 5502",
-  "ISMN": "979-0-50012-550-1, 979-0-50012-269-2, 979-0-50012-268-5",
+  "Availability": "Published",
   "publisher": "Furore",
-  "name of source": "Fanny_Hensel_Waldruhe.txt"
+  "name of source": "Fanny_Hensel_Waldruhe.txt",
+  "Related Works": [],
+  "SubGenre": "Trio",
+  "Short Description": "Waldruhe (1841) (5') Terzett für S, A, T und Klav",
+  "Notes": "The trio with piano accompaniment describes in a poetic way (eternal) sleep and dream as an entering into guarded nature. All of Fanny Hensel's vocal trios are written for two female voices and tenor. The performance by S1, A1 and A2, as well as S1, S2 and A, is however just as well possible without problems.",
+  "links": [
+    "https://furore-verlag.de/en/product-category/music-publications/vocal-music/ensembles-with-accompaniment/",
+    "https://furore-verlag.de/produkt/waldruhe-chorpartitur-sat/",
+    "https://furore-verlag.de/produkt/waldruhe-partitur/",
+    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+    "https://furore-verlag.de/wp-content/uploads/2021/11/Fanny-Hensel-Katalog-2022-1.pdf",
+    "https://www.stretta-music.net/hensel-waldruhe-nr-207600.html?afl=17c013e4f8e0df2e4089e92397bca5ba"
+  ],
+  "Name": "Waldruhe",
+  "Publication Year": "1841",
+  "tags": [
+    "piano accompaniment",
+    "vocal trio"
+  ],
+  "ISMN": "979-0-50012-550-1, 979-0-50012-269-2, 979-0-50012-268-5",
+  "First Performance": "",
+  "Composer": "Fanny Hensel",
+  "Period": "Early Romantic",
+  "Genre": "Vocal",
+  "Duration": "5'",
+  "Source/Collection": "",
+  "Instrumentation": [
+    "alto",
+    "piano",
+    "soprano",
+    "tenor"
+  ],
+  "Long Description": "<div>The trio with piano accompaniment describes in a poetic way (eternal) sleep and dream as an entering into guarded nature. All of Fanny Hensel's vocal trios are written for two female voices and tenor. The performance by S1, A1 and A2, as well as S1, S2 and A, is however just as well possible without problems.</div>",
+  "Status": "Complete"
 }

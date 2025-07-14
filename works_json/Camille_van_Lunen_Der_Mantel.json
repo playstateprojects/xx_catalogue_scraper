@@ -1,39 +1,40 @@
 {
-  "Name": "Der Mantel",
-  "Composer": "Camille van Lunen",
-  "Source/Collection": "",
-  "Publication Year": "",
-  "First Performance": "",
-  "Duration": "90'",
+  "Genre": "Opera",
+  "name of source": "Camille_van_Lunen_Der_Mantel.txt",
   "Availability": "Published",
-  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+  "Source/Collection": "",
+  "Duration": "90'",
+  "Instrumentation": [
+    "Alto (seine Frau)",
+    "Baritone (Akakij Akakiewitsch)",
+    "Bass (die bedeutende Persönlichkeit)",
+    "Choir (SATB)",
+    "Countertenor/Mezzo-soprano (Petrowitsch, Hosenrolle)",
+    "Electronic music",
+    "Soprano (Stimme der verstorbenen Mutter)"
+  ],
+  "Short Description": "An opera based on Nikolai Gogol's 'The Cloak', exploring social hierarchies and the absurdity of societal structures.",
+  "tags": [
+    "absurd",
+    "grotesque",
+    "social commentary",
+    "social critique"
+  ],
+  "Composer": "Camille van Lunen",
+  "First Performance": "",
+  "Notes": "Opera composed on the short story 'The Cloak' by Nikolai Gogol, published in 1842. A consistent theme in the work of the composer is to expose hierarchies by grotesque and absurd situations.",
+  "publisher": "Furore",
+  "Catalog Number": "fue 2584",
+  "Publication Year": "",
+  "ISMN": "979-0-50012-493-1",
+  "Related Works": [],
   "links": [
     "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf"
   ],
-  "Status": "Complete",
-  "Notes": "Opera composed on the short story 'The Cloak' by Nikolai Gogol, published in 1842. A consistent theme in the work of the composer is to expose hierarchies by grotesque and absurd situations.",
-  "Genre": "Opera",
-  "SubGenre": "Opera",
+  "Name": "Der Mantel",
   "Period": "Contemporary",
-  "Instrumentation": [
-    "Baritone (Akakij Akakiewitsch)",
-    "Countertenor/Mezzo-soprano (Petrowitsch, Hosenrolle)",
-    "Alto (seine Frau)",
-    "Bass (die bedeutende Persönlichkeit)",
-    "Soprano (Stimme der verstorbenen Mutter)",
-    "Choir (SATB)",
-    "Electronic music"
-  ],
-  "Related Works": [],
   "Long Description": "Der Mantel is an opera in 2 acts based on the story by Nikolai Gogol. It explores themes of social hierarchy and the absurdity of societal structures through the story of Akakij Akakiewitsch, a lowly clerk who dreams of social acceptance through the acquisition of a new coat. After his coat is stolen, he dies and haunts St. Petersburg, raising questions about identity and social justice.",
-  "Short Description": "An opera based on Nikolai Gogol's 'The Cloak', exploring social hierarchies and the absurdity of societal structures.",
-  "tags": [
-    "social commentary",
-    "grotesque",
-    "absurd"
-  ],
-  "Catalog Number": "fue 2584",
-  "ISMN": "979-0-50012-493-1",
-  "publisher": "Furore",
-  "name of source": "Camille_van_Lunen_Der_Mantel.txt"
+  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+  "Status": "Complete",
+  "SubGenre": "Opera"
 }

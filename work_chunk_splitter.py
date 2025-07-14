@@ -138,51 +138,46 @@ def parse_works_from_text(text):
     return works
 
 def save_individual_work(work_data, chunk_filename, work_index):
-    """Save a single work's text to its own file."""
-    # Generate a filename using work title and composer if available
+    """Save a single work's text to its own file, only if composer and meaningful content exist."""
     title = work_data.get("work_title", "").strip()
     composer = work_data.get("composer", "").strip()
-    
+    work_text = work_data.get("work_text", "").strip()
+
+    # Skip if no composer
+    if not composer:
+        print(f"  Skipping work #{work_index}: No composer")
+        return None
+
+    # Skip if content is too short or just title
+    if len(work_text) < 30:
+        print(f"  Skipping work #{work_index}: Content too short")
+        return None
+
+    # Generate base filename
     if title and composer:
         filename_base = f"{composer}_{title}"
-    elif title:
-        filename_base = title
-    elif composer:
-        filename_base = f"{composer}_work_{work_index}"
     else:
-        # If neither title nor composer are available, use the chunk filename and work index
-        filename_base = f"{os.path.splitext(chunk_filename)[0]}_work_{work_index}"
+        filename_base = f"{composer}_work_{work_index}"
     
-    # Clean the filename
     filename_base = re.sub(r'[^\w\s-]', '', filename_base)
     filename_base = re.sub(r'\s+', '_', filename_base.strip())
-    
-    # Ensure the filename is not too long
     if len(filename_base) > 100:
         filename_base = filename_base[:100]
-    
-    # Add a numeric suffix if a file with this name already exists
+
+    # Ensure unique filename
     counter = 1
     filename = f"{filename_base}.txt"
     file_path = os.path.join(OUTPUT_DIR, filename)
-    
     while os.path.exists(file_path):
         filename = f"{filename_base}_{counter}.txt"
         file_path = os.path.join(OUTPUT_DIR, filename)
         counter += 1
-    
-    # Save the work text to the file
-    work_text = work_data.get("work_text", "")
-    composer = work_data.get("composer", "").strip()
 
-    # Append composer name at the top if not already present
-    if composer and composer.lower() not in work_text.lower():
-        work_text = f"Composer: {composer}\n\n" + work_text
+    # Add composer name if not already present
+    if composer.lower() not in work_text.lower():
+        work_text = f"Composer: {composer}\n\n{work_text}"
 
-    if not work_text:
-        print(f"  Warning: No work text found for {filename}")
-        return None
-    
+    # Save file
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(work_text)
     

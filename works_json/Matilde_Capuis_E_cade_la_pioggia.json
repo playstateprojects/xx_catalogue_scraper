@@ -1,26 +1,33 @@
 {
-  "Name": "E cade la pioggia",
-  "Composer": "Matilde Capuis",
-  "Source/Collection": "",
-  "Publication Year": "",
-  "First Performance": "",
+  "Availability": "Published",
+  "SubGenre": "Lieder",
   "Duration": "",
-  "Availability": "",
   "Link to Score": "https://ocp.dc.gov/sites/default/files/dc/sites/ocp/publication/attachments/Report%20of%20Contracting%20Activity%20-%20Part%20I%20-%20January%2015%202018_0.pdf",
-  "links": [
-    "https://ocp.dc.gov/sites/default/files/dc/sites/ocp/publication/attachments/Report%20of%20Contracting%20Activity%20-%20Part%20I%20-%20January%2015%202018_0.pdf"
-  ],
-  "Status": "",
-  "Notes": "",
-  "Genre": "",
-  "Period": "",
-  "Instrumentation": [],
-  "Related Works": [],
-  "Long Description": "",
-  "Short Description": "",
-  "tags": [],
-  "Catalog Number": "fue 7550, S. 12",
-  "ISMN": "",
   "publisher": "Furore",
-  "name of source": "Matilde_Capuis_E_cade_la_pioggia_1.txt"
+  "name of source": "Matilde_Capuis_E_cade_la_pioggia_1.txt",
+  "Instrumentation": [
+    "piano",
+    "violoncello",
+    "voice"
+  ],
+  "Related Works": [],
+  "Composer": "Matilde Capuis",
+  "Notes": "",
+  "Catalog Number": "fue 7550, S. 12",
+  "Publication Year": "",
+  "Name": "E cade la pioggia",
+  "Genre": "Vocal",
+  "Period": "20th Century",
+  "Source/Collection": "",
+  "Status": "Complete",
+  "Short Description": "",
+  "Long Description": "",
+  "links": [
+    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+    "https://ocp.dc.gov/sites/default/files/dc/sites/ocp/publication/attachments/Report%20of%20Contracting%20Activity%20-%20Part%20I%20-%20January%2015%202018_0.pdf",
+    "https://ocp.dc.gov/sites/default/files/dc/sites/ocp/publication/attachments/Report-of-Contracting-Activity-Part-I.pdf"
+  ],
+  "tags": [],
+  "First Performance": "",
+  "ISMN": "979-0-50012-755-0"
 }

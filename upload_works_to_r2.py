@@ -153,6 +153,11 @@ def process_json_file(json_path: Path, name_to_id: Dict[str, str]):
     markdown = make_markdown(data)
     metadata = extract_metadata(data, name_to_id)
 
+    # Only upload if composer_id is present
+    if "composer_id" not in metadata:
+        print(f"❌ Skipping (no composer_id): {title}")
+        return
+
     upload_markdown(markdown, metadata, genre, subgenre, title)
 
 if __name__ == "__main__":
