@@ -78,7 +78,7 @@ Create a complete and accurate JSON object with the following structure:
     "Catalog Number": "for example BWV 846 or fue 5320",
     "ISMN": "for example 979-0-50012-332-3",
     "publisher": "",
-    "name of source":"the filename osuplied by the user."
+    "name of source":"the filename supplied by the user."
 }
 
 Focus on accuracy:
