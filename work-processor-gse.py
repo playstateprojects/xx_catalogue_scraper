@@ -140,9 +140,15 @@ def build_work_to_chunk_map():
     This is done by searching for text matches between work files and chunk files."""
     print("Building work to chunk mapping...")
     
-     # Get all individual work files and chunk files
-    work_files = glob.glob(os.path.join(INDIVIDUAL_WORKS_DIR, "*.{txt,md}"))
-    chunk_files = glob.glob(os.path.join(ORIGINAL_CHUNKS_DIR, "*.{txt,md}"))
+    # Get all individual work files and chunk files
+    work_files = (
+        glob.glob(os.path.join(INDIVIDUAL_WORKS_DIR, "*.txt"))
+        + glob.glob(os.path.join(INDIVIDUAL_WORKS_DIR, "*.md"))
+    )
+    chunk_files = (
+        glob.glob(os.path.join(ORIGINAL_CHUNKS_DIR, "*.txt"))
+        + glob.glob(os.path.join(ORIGINAL_CHUNKS_DIR, "*.md"))
+    )
     
     # Initialize the mapping
     mapping = {}
