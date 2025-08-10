@@ -1,34 +1,36 @@
 {
-  "Name": "Les sept Psaumes de David Psalm 50: Miserere mei",
-  "Composer": "Antonia Bembo",
-  "Source/Collection": "",
-  "Publication Year": "",
-  "First Performance": "",
-  "Duration": "9'",
-  "Availability": "Published",
-  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
-  "links": [
-    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
-    "https://furore-verlag.de/en/shop/?filtering=1&filter_product_brand=1240%2C1132%2C7252%2C7136%2C904%2C880%2C1188%2C1396%2C7244%2C7192%2C760&product_count=150",
-    "https://www.sheetmusicplus.com/en/explore?q=Antonia%20Bembo",
-    "https://furore-verlag.de/en/shop/?filtering=1&filter_product_brand=1240%2C1132%2C7252%2C7136%2C904%2C880%2C1188%2C1396%2C7244%2C7192%2C760&product_orderby=date",
-    "https://furore-verlag.de/en/produkt/les-sept-psaumes-de-david-vol-1-2-3-4-5-6-and-7/"
-  ],
-  "Status": "Complete",
-  "Notes": "Erstveröffentlichung/First publication",
-  "Genre": "Vocal",
-  "Period": "Baroque",
-  "Instrumentation": [
-    "soprano",
-    "2 melody instruments",
-    "basso continuo"
-  ],
-  "Related Works": [],
-  "Long Description": "",
-  "Short Description": "Psalm 50: Miserere mei for soprano, 2 melody instruments, and basso continuo",
-  "tags": [],
+  "name of source": "Antonia_Bembo_Les_sept_Psaumes_de_David_Psalm_50_Miserere_mei.txt",
   "Catalog Number": "fue 6630",
-  "ISMN": "979-0-50012-663-8",
+  "Composer": "Antonia Bembo",
+  "Instrumentation": [
+    "2 melody instruments",
+    "basso continuo",
+    "soprano"
+  ],
+  "Duration": "9'",
+  "Publication Year": "",
+  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+  "Notes": "Erstveröffentlichung/First publication",
+  "Long Description": "",
+  "Genre": "Vocal",
+  "tags": [],
+  "Period": "Baroque",
+  "links": [
+    "https://furore-verlag.de/en/produkt/les-sept-psaumes-de-david-vol-1-2-3-4-5-6-and-7/",
+    "https://furore-verlag.de/en/shop/?filtering=1&filter_product_brand=1240%2C1132%2C7252%2C7136%2C904%2C880%2C1188%2C1396%2C7244%2C7192%2C760&product_count=150",
+    "https://furore-verlag.de/en/shop/?filtering=1&filter_product_brand=1240%2C1132%2C7252%2C7136%2C904%2C880%2C1188%2C1396%2C7244%2C7192%2C760&product_orderby=date",
+    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+    "https://www.sheetmusicplus.com/en/explore?q=Antonia%20Bembo"
+  ],
+  "Availability": "Published",
   "publisher": "Furore",
-  "name of source": "Antonia_Bembo_Les_sept_Psaumes_de_David_Psalm_50_Miserere_mei.txt"
+  "Source/Collection": "",
+  "ISMN": "979-0-50012-663-8",
+  "First Performance": "",
+  "SubGenre": "Psalm",
+  "Related Works": [],
+  "Name": "Les sept Psaumes de David Psalm 50: Miserere mei",
+  "Status": "Complete",
+  "Short Description": "Psalm 50: Miserere mei for soprano, 2 melody instruments, and basso continuo",
+  "composer_id": 98
 }

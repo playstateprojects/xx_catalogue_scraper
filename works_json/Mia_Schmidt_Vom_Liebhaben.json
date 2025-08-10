@@ -1,34 +1,35 @@
 {
-  "Name": "Vom Liebhaben",
+  "name of source": "Mia_Schmidt_Vom_Liebhaben.txt",
+  "Catalog Number": "fue 5770",
   "Composer": "Mia Schmidt",
-  "Source/Collection": "",
-  "Publication Year": "",
-  "First Performance": "",
+  "Instrumentation": [
+    "children's choir (1-2 parts)",
+    "children's choir (1-2 voices)",
+    "percussion ad libitum"
+  ],
   "Duration": "16'30",
-  "Availability": "Published",
+  "Publication Year": "",
   "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+  "Notes": "The four songs of this little cycle on 'caring for' speak about: affection, ambivalence, dislike. They were written for children from 6 to 12 years, mostly unisono supported by easy accompaniment with Orff-Instruments played by children.",
+  "Long Description": "Die vier Lieder des kleinen Zyklus vom Liebhaben thematisieren Zuneigung, Ambivalenz, Ablehnung. Gedacht sind sie für Kinder von 6-12 Jahren, in der Regel einstimmig gesetzt und gestützt durch eine einfache Begleitung, die von Kindern mit den Orff'schen Instrumenten gespielt werden kann.",
+  "Genre": "Choral",
+  "tags": [
+    "Liebhaben",
+    "Orff-Instruments",
+    "children's music"
+  ],
+  "Period": "Contemporary",
   "links": [
     "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf"
   ],
-  "Status": "Complete",
-  "Notes": "The four songs of this little cycle on 'caring for' speak about: affection, ambivalence, dislike. They were written for children from 6 to 12 years, mostly unisono supported by easy accompaniment with Orff-Instruments played by children.",
-  "Genre": "Choral",
-  "SubGenre": "Children's Opera",
-  "Period": "Contemporary",
-  "Instrumentation": [
-    "children's choir (1-2 parts)",
-    "percussion ad libitum"
-  ],
-  "Related Works": [],
-  "Long Description": "Die vier Lieder des kleinen Zyklus vom Liebhaben thematisieren Zuneigung, Ambivalenz, Ablehnung. Gedacht sind sie für Kinder von 6-12 Jahren, in der Regel einstimmig gesetzt und gestützt durch eine einfache Begleitung, die von Kindern mit den Orff'schen Instrumenten gespielt werden kann.",
-  "Short Description": "4 Chorlieder für KiCh (1-2 St) und Perc ad libitum; Text: Jürgen Spohn (2)",
-  "tags": [
-    "Liebhaben",
-    "children's music",
-    "Orff-Instruments"
-  ],
-  "Catalog Number": "fue 5770",
-  "ISMN": "979-0-50012-577-8",
+  "Availability": "Published",
   "publisher": "Furore",
-  "name of source": "Mia_Schmidt_Vom_Liebhaben.txt"
+  "Source/Collection": "",
+  "ISMN": "979-0-50012-577-8",
+  "First Performance": "",
+  "SubGenre": "Children's Opera",
+  "Related Works": [],
+  "Name": "Vom Liebhaben",
+  "Status": "Complete",
+  "Short Description": "4 Chorlieder für KiCh (1-2 St) und Perc ad libitum; Text: Jürgen Spohn (2)"
 }

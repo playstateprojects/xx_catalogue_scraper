@@ -1,34 +1,34 @@
 {
-  "Name": "...QUE DES ÂMES",
+  "name of source": "Carmen_Maria_Cârneci_QUE_DES_ÂMES.txt",
+  "Catalog Number": "fue 6170",
   "Composer": "Carmen Maria Cârneci",
-  "Source/Collection": "",
-  "Publication Year": "1990/91",
-  "First Performance": "",
+  "Instrumentation": [
+    "6 female voices (SSMsMsAA)",
+    "alto",
+    "mezzo-soprano",
+    "soprano"
+  ],
   "Duration": "12'",
-  "Availability": "Published",
+  "Publication Year": "1990/91",
   "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+  "Notes": "",
+  "Long Description": "",
+  "Genre": "Vocal",
+  "tags": [
+    "a cappella"
+  ],
+  "Period": "Contemporary",
   "links": [
     "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf"
   ],
-  "Status": "Complete",
-  "Notes": "",
-  "Genre": "Vocal",
-  "SubGenre": "Ensemble",
-  "Period": "Contemporary",
-  "Instrumentation": [
-    "soprano",
-    "soprano",
-    "mezzo-soprano",
-    "mezzo-soprano",
-    "alto",
-    "alto"
-  ],
-  "Related Works": [],
-  "Long Description": "",
-  "Short Description": "QUARTETTE UND ENSEMBLES A CAPPELLA Quartets and Ensembles unaccompanied",
-  "tags": [],
-  "Catalog Number": "fue 6170",
-  "ISMN": "979-0-50012-617-1",
+  "Availability": "Published",
   "publisher": "Furore",
-  "name of source": "Carmen_Maria_Cârneci_QUE_DES_ÂMES.txt"
+  "Source/Collection": "",
+  "ISMN": "979-0-50012-617-1",
+  "First Performance": "",
+  "SubGenre": "Ensemble",
+  "Related Works": [],
+  "Name": "...QUE DES ÂMES",
+  "Status": "Complete",
+  "Short Description": "QUARTETTE UND ENSEMBLES A CAPPELLA Quartets and Ensembles unaccompanied"
 }

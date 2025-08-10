@@ -1,33 +1,33 @@
 {
-  "Name": "Of broken wings and artificial flowers",
+  "name of source": "Vivienne_Olive_Of_broken_wings_and_artificial_flowers.txt",
+  "Catalog Number": "fue 7440, fue 7450",
   "Composer": "Vivienne Olive",
-  "Source/Collection": "",
-  "Publication Year": "2004",
-  "First Performance": "",
-  "Duration": "10'",
-  "Availability": "Published",
-  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
-  "links": [
-    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
-    "https://furore-verlag.de/en/produkt/creature-of-the-night-tango-fuer-sopran-und-klavier/"
-  ],
-  "Status": "Complete",
-  "Notes": "Text: Anna Kerdijk Nischolson",
-  "Genre": "Vocal",
-  "SubGenre": "Lieder",
-  "Period": "Contemporary",
   "Instrumentation": [
-    "Mezzo soprano",
-    "Piano",
     "Baritone",
+    "Mezzo soprano",
     "Piano"
   ],
-  "Related Works": [],
+  "Duration": "10'",
+  "Publication Year": "2004",
+  "Link to Score": "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf",
+  "Notes": "Text: Anna Kerdijk Nischolson",
   "Long Description": "",
-  "Short Description": "Of broken wings and artificial flowers (2004) (10')",
+  "Genre": "Vocal",
   "tags": [],
-  "Catalog Number": "fue 7440, fue 7450",
-  "ISMN": "979-0-50012-744-4, 979-0-50012-745-1",
+  "Period": "Contemporary",
+  "links": [
+    "https://furore-verlag.de/en/produkt/creature-of-the-night-tango-fuer-sopran-und-klavier/",
+    "https://furore-verlag.de/wp-content/uploads/2021/01/Gesamtkatalog_vokal_screen.pdf"
+  ],
+  "Availability": "Published",
   "publisher": "Furore",
-  "name of source": "Vivienne_Olive_Of_broken_wings_and_artificial_flowers.txt"
+  "Source/Collection": "",
+  "ISMN": "979-0-50012-744-4, 979-0-50012-745-1",
+  "First Performance": "",
+  "SubGenre": "Lieder",
+  "Related Works": [],
+  "Name": "Of broken wings and artificial flowers",
+  "Status": "Complete",
+  "Short Description": "Of broken wings and artificial flowers (2004) (10')",
+  "composer_id": 223
 }
