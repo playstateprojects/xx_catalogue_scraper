@@ -1,0 +1,91 @@
+---
+source_file: Elena_Firsova.md
+chunk_number: 1
+total_chunks: 11
+chunk_size: 7945
+context_included: no
+context_size: 3661
+created_by: Enhanced Markdown Chunker with Comprehensive Context
+processing_timestamp: 2025-08-10 23:41:54
+---
+
+---
+source_file: 8.json
+processed_date: 1752352523.1801286
+total_pages: 0
+total_characters: 72293
+processing_tool: Document AI to Markdown Converter
+---
+SIKORSKI
+
+Elena Firsova
+
+SIKORSKI
+
+S
+
+E
+
+L
+
+E
+
+N
+
+A
+
+FIRSOVA
+
+Елена Фирсовоз
+
+SIKORSKI MUSIKVERLAGE HAMBURG
+
+SIK 4/5610
+
+# CONTENTS
+
+SIKORSKI MUSIKVERLAGE
+
+20139 HAMBURG
+
+phone: (+ 49) (0)40 / 41 41 00-0 · fax: (+ 49) (0)40 / 41 41 00-41
+
+www.sikorski.de contact@sikorski.de
+
+8 OCTOBER 2020
+
+COVER PHOTO DMITRI SMIRNOV
+
+# ELENA FIRSOVA
+
+The essential qualities of Elena Firsova's music were established almost from the very beginning of her composing life. Even in her student days she was already an unashamed- ly confessional artist, whose clear intention was to give utterance to intimate personal feelings. From her earliest works she favoured smaller, more delicate combinations of instruments, and deployed a distinctive and at that time unfashionable musical language centred on the subtle manipulation of an emotionally expressive melodic line, often sup- ported on a delicate web of post-romantic harmony. She showed no interest at all in the noisily conventional rhetoric so characteristic of most of the Soviet music being written and played around her.
+
+Firsova was born in Leningrad on 21 March 1950. Her parents were both physicists, and she grew up in an atmosphere where education was taken seriously. When she was still quite young, her family moved to Moscow, and there she received her musical training, entering music college in 1966 and the Moscow Conservatoire in 1970. During five years at the Conservatoire, she studied composition with Alexander Pirumov and analysis with the distinguished Yuri Kholopov. But it was her unofficial contacts during her student years that she regards as having had a crucial influence on her later development. The most important of these were with the composer Edison Denisov and the teacher and Webern- pupil, Philip Gershkovich [Hershkovitz]. It was at this time too that she met her husband, the composer Dmitri Smirnov.
+
+In 1970, when she was still at music college, she wrote her first settings of Osip Mandelstam, who died in the Stalinist camps in 1938. Though now regarded as one of the greatest Russian poets of the 20^{th} century, Mandelstam was unpublished in the Soviet Union in the period when Firsova first fell in love with his work, and was to remain so until Glasnost in the late 1980s. Her contact with the luminous world of this writer's imagination could come only through carefully hidden and preserved old editions or through unofficial samizdat publica- tions. Firsova has written more than a dozen settings of Mandelstam's verse and a series of instrumental compositions inspired by his words. She has said that “Had I been a poet, his is the poetry I would like to have written”. For a composer who dislikes talking about music, the Mandelstam texts she has chosen come closest to describing the inner nature of Firsova's art. Particularly suggestive are lines set in one of her most appealing and characteristic pieces, the chamber cantata Earthly Life of 1984.
+
+Although Elena Firsova never sought political conflict, it was in the nature of the society to which she belonged that such conflict inevitably materialised. The music she wrote placed her from the beginning among the 'unofficial' Soviet composers (of whom the most well- known were Denisov, Schnittke and Gubaidulina). This led in 1979 to her being included
+
+6
+
+with her husband in the ‘Seven' who were publicly castigated by the notorious head of the Composers' Union, Tikhon Khrennikov, for having allowed their music (which he described as 'not representative of the work of Soviet composers') to be played in a festival in Colo- gne. This rebuke had no effect on Firsova's confidence, but it markedly increased Western interest in her music, which was certainly not the effect Khrennikov had intended.
+
+Unsurprisingly, and more recently, the collapse of Soviet power in the late 1980s and the troubled conditions of the new Russia have had a considerable effect on Elena Firsova's life and music. The rate of her musical output acquired a new urgency, with no less than 29 pieces written between 1991 and 1993, and its range broadened as if through poetic ne- cessity with her attention turning to the composition of music on a larger scale. Between 1988 and 1992 she completed four pieces for full orchestra which, taken together as a cycle, make up what is perhaps her most important creative statement to date.
+
+The first of these orchestral works, Augury, composed in 1988 and premiered at the 1992 BBC Proms in London by the BBC Symphony Orchestra under Andrew Davis, culminates in a choral setting of Blake's famous lines beginning ‘To see the world in a grain of sand ...' Although the text is by Blake, Augury seems to sum up many of the characteristic preoccupations and moods of Firsova's settings of Mandelstam; the music rises and falls on the waves of a romantic and lyrical reaching after ecstasy. The composition of Au- gury was followed in 1989 by Nostalgia, where both title and music seem to reflect the composer's growing anxiety about the future and the increasing pressure to consider a period spent outside Russia. In 1991 the decisive break was made: Elena Firsova and her husband and children moved to Britain where they made brief stays at Cambridge Univer- sity and Dartington Hall in Devon, before being appointed as joint composers-in-residence at Keele University.
+
+Early in 1992, Firsova completed one of her most ambitious works, an uncommissioned setting for soprano and full orchestra of poems by her beloved Mandelstam entitled Secret Way, commissioned by WDR and premiered by the Moscow Radio Orchestra under Vla- dimir Fedoseyev at the Musikverein in Vienna in 1996. The human voice, as in Augury, here fulfils a summarising role towards the end of the work, singing a text which explores a bleak and broken world in which verbal memory is lost amidst the tolling of Stygian bells. The fourth and last of this cycle of recent orchestral works is Cassandra, commissi- oned, premiered and recorded by the BBC National Orchestra of Wales under Tadaaki Otaka. It is named after the prophetess of impending doom who, for Firsova, spoke not only of Troy but also of contemporary Russia.
+
+7
+
+Despite her newfound commitment to orchestral music, Firsova has continued to produce a large body of chamber music, both for purely instrumental forces as seen in her ongoing series of string quartets, and for the idiomatic combination of solo voice and chamber en- semble which has been so central to Firsova's output. In 1992 she composed Distance for the Birmingham Contemporary Music Group, a setting of poems by Marina Tsvetayeva which depicts the same loneliness and desperation as the contemporary Secret Way, Firsova's 1994 chamber cantata.
+
+Before the Thunderstorm returns to Mandelstam and is an impressive successor to Earthly Life and Forest Walks. All three chamber cantatas were given their premiere by the Nash Ensemble who, together with the BBC, have been the most stalwart of champions for her music. New departures for Firsova in recent years have included a chamber opera, The Nightingale and the Rose, premiered at the 1994 Almeida Opera Festival, and an a cappella setting of Pushkin for WDR and The Hilliard Ensemble, entitled Insomnia.
+
+Through all the various changes that have taken place over the last decade, both in her outside life and in the inner life of her music, Elena Firsova has clung tenaciously to her distinctive musical voice and to her fiercely held musical ideals. In each new piece we can be sure to hear the characteristic qualities that emerged so early in her career, the same singing line and supple harmonies, and the same sense that this is an artist telling us about what she herself has felt, about what she would have us feel too.
+
+Gerard McBurney, 1996
+
+8
+
+# OPERA

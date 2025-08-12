@@ -1,0 +1,747 @@
+2025-08-10 23:44:17,175 - INFO - ============================================================
+2025-08-10 23:44:17,176 - INFO - CHUNKED MARKDOWN TO JSON PROCESSOR
+2025-08-10 23:44:17,176 - INFO - ============================================================
+2025-08-10 23:44:17,176 - INFO - Testing Kimi API connection...
+2025-08-10 23:44:18,445 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:44:18,448 - INFO - ✅ Kimi API connection successful!
+2025-08-10 23:44:18,448 - INFO - Found 12 chunk files to process
+2025-08-10 23:44:18,448 - INFO - [1/12] Processing: Elena_Firsova_CONTEXT.md
+2025-08-10 23:44:18,449 - INFO -   Chunk size: 3,938 characters
+2025-08-10 23:44:18,449 - INFO -   Source: Elena_Firsova.md
+2025-08-10 23:44:18,449 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-10 23:44:24,905 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:44:26,910 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-10 23:44:33,464 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:44:37,472 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-10 23:44:43,788 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:44:43,790 - INFO -     ✅ Extracted 0 works from chunk
+2025-08-10 23:44:43,790 - INFO -   No works found in chunk
+2025-08-10 23:44:44,794 - INFO - [2/12] Processing: Elena_Firsova_chunk_001.md
+2025-08-10 23:44:44,796 - INFO -   Chunk size: 7,947 characters
+2025-08-10 23:44:44,796 - INFO -   Source: Elena_Firsova.md
+2025-08-10 23:44:44,796 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-10 23:46:44,806 - INFO - Retrying request to /chat/completions in 0.464784 seconds
+2025-08-10 23:48:45,322 - INFO - Retrying request to /chat/completions in 0.918642 seconds
+2025-08-10 23:48:51,517 - INFO - 
+Script interrupted by user.
+2025-08-11 10:24:47,538 - INFO - ============================================================
+2025-08-11 10:24:47,539 - INFO - CHUNKED MARKDOWN TO JSON PROCESSOR
+2025-08-11 10:24:47,539 - INFO - ============================================================
+2025-08-11 10:24:47,539 - INFO - Testing Kimi API connection...
+2025-08-11 10:24:49,395 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 10:24:49,403 - INFO - ✅ Kimi API connection successful!
+2025-08-11 10:24:49,404 - INFO - Found 180 chunk files to process
+2025-08-11 10:24:49,404 - INFO - [1/180] Processing: Elena_Firsova_CONTEXT.md
+2025-08-11 10:24:49,405 - INFO -   Chunk size: 3,938 characters
+2025-08-11 10:24:49,405 - INFO -   Source: Elena_Firsova.md
+2025-08-11 10:24:49,405 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 10:25:02,147 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 10:25:04,152 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 10:25:17,180 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 10:25:21,186 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 10:25:28,500 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 10:25:28,503 - INFO -     ✅ Extracted 0 works from chunk
+2025-08-11 10:25:28,503 - INFO -   No works found in chunk
+2025-08-11 10:25:29,508 - INFO - [2/180] Processing: Elena_Firsova_chunk_001.md
+2025-08-11 10:25:29,509 - INFO -   Chunk size: 7,947 characters
+2025-08-11 10:25:29,509 - INFO -   Source: Elena_Firsova.md
+2025-08-11 10:25:29,509 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 10:27:29,517 - INFO - Retrying request to /chat/completions in 0.378606 seconds
+2025-08-11 10:27:33,366 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 10:27:33,367 - INFO - Retrying request to /chat/completions in 0.882320 seconds
+2025-08-11 10:27:37,677 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 10:27:37,679 - ERROR -     API error: Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}
+2025-08-11 10:27:39,685 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 10:27:43,088 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 10:27:43,089 - INFO - Retrying request to /chat/completions in 0.491234 seconds
+2025-08-11 10:29:43,593 - INFO - Retrying request to /chat/completions in 0.895014 seconds
+2025-08-11 10:29:47,968 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 10:29:47,971 - ERROR -     API error: Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}
+2025-08-11 10:29:51,973 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 10:31:51,988 - INFO - Retrying request to /chat/completions in 0.392086 seconds
+2025-08-11 10:33:52,466 - INFO - Retrying request to /chat/completions in 0.990648 seconds
+2025-08-11 10:35:53,513 - ERROR -     API error: Request timed out.
+2025-08-11 10:35:53,515 - INFO -   No works found in chunk
+2025-08-11 10:35:54,515 - INFO - [3/180] Processing: Elena_Firsova_chunk_002.md
+2025-08-11 10:35:54,526 - INFO -   Chunk size: 10,553 characters
+2025-08-11 10:35:54,527 - INFO -   Source: Elena_Firsova.md
+2025-08-11 10:35:54,528 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 10:37:51,877 - INFO - 
+Script interrupted by user.
+2025-08-11 10:50:35,222 - INFO - ============================================================
+2025-08-11 10:50:35,222 - INFO - CHUNKED MARKDOWN TO JSON PROCESSOR
+2025-08-11 10:50:35,222 - INFO - ============================================================
+2025-08-11 10:50:35,222 - INFO - Testing Kimi API connection...
+2025-08-11 10:50:37,233 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 10:50:37,239 - INFO - ✅ Kimi API connection successful!
+2025-08-11 10:50:37,241 - INFO - Found 180 chunk files to process
+2025-08-11 10:50:37,242 - INFO - [1/180] Processing: Elena_Firsova_CONTEXT.md
+2025-08-11 10:50:37,242 - INFO -   Chunk size: 3,938 characters
+2025-08-11 10:50:37,242 - INFO -   Source: Elena_Firsova.md
+2025-08-11 10:50:37,242 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 10:50:48,055 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 10:50:50,063 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 10:50:57,914 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 10:51:01,919 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 10:51:12,274 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 10:51:12,277 - INFO -     ✅ Extracted 0 works from chunk
+2025-08-11 10:51:12,278 - INFO -   No works found in chunk
+2025-08-11 10:51:13,280 - INFO - [2/180] Processing: Elena_Firsova_chunk_001.md
+2025-08-11 10:51:13,282 - INFO -   Chunk size: 7,947 characters
+2025-08-11 10:51:13,282 - INFO -   Source: Elena_Firsova.md
+2025-08-11 10:51:13,282 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 10:53:13,190 - INFO - Retrying request to /chat/completions in 0.477756 seconds
+2025-08-11 10:53:45,118 - INFO - 
+Script interrupted by user.
+2025-08-11 10:56:25,556 - INFO - ============================================================
+2025-08-11 10:56:25,556 - INFO - CHUNKED MARKDOWN TO JSON PROCESSOR
+2025-08-11 10:56:25,556 - INFO - ============================================================
+2025-08-11 10:56:25,556 - INFO - Testing Kimi API connection...
+2025-08-11 10:56:28,044 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 10:56:28,050 - INFO - ✅ Kimi API connection successful!
+2025-08-11 10:56:28,052 - INFO - Found 175 chunk files to process
+2025-08-11 10:56:28,052 - INFO - [1/175] Processing: Elena_Firsova_chunk_002.md
+2025-08-11 10:56:28,053 - INFO -   Chunk size: 10,553 characters
+2025-08-11 10:56:28,053 - INFO -   Source: Elena_Firsova.md
+2025-08-11 10:56:28,053 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 10:58:28,056 - INFO - Retrying request to /chat/completions in 0.456043 seconds
+2025-08-11 11:00:28,586 - INFO - Retrying request to /chat/completions in 0.794574 seconds
+2025-08-11 11:02:29,449 - ERROR -     API error: Request timed out.
+2025-08-11 11:02:31,457 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 11:04:31,538 - INFO - Retrying request to /chat/completions in 0.487455 seconds
+2025-08-11 11:06:32,080 - INFO - Retrying request to /chat/completions in 0.802099 seconds
+2025-08-11 11:08:32,942 - ERROR -     API error: Request timed out.
+2025-08-11 11:08:36,946 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 11:10:36,992 - INFO - Retrying request to /chat/completions in 0.381141 seconds
+2025-08-11 11:12:37,429 - INFO - Retrying request to /chat/completions in 0.756292 seconds
+2025-08-11 11:14:38,247 - ERROR -     API error: Request timed out.
+2025-08-11 11:14:38,250 - INFO -   No works found in chunk
+2025-08-11 11:14:39,258 - INFO - [2/175] Processing: Elena_Firsova_chunk_003.md
+2025-08-11 11:14:39,264 - INFO -   Chunk size: 11,318 characters
+2025-08-11 11:14:39,264 - INFO -   Source: Elena_Firsova.md
+2025-08-11 11:14:39,264 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 11:16:39,304 - INFO - Retrying request to /chat/completions in 0.405063 seconds
+2025-08-11 11:18:39,769 - INFO - Retrying request to /chat/completions in 0.863711 seconds
+2025-08-11 11:20:40,723 - ERROR -     API error: Request timed out.
+2025-08-11 11:20:42,729 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 11:22:42,779 - INFO - Retrying request to /chat/completions in 0.442805 seconds
+2025-08-11 11:24:43,280 - INFO - Retrying request to /chat/completions in 0.754872 seconds
+2025-08-11 11:26:44,112 - ERROR -     API error: Request timed out.
+2025-08-11 11:26:48,120 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 11:28:14,958 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-08-11 11:28:14,965 - INFO - Retrying request to /chat/completions in 0.432284 seconds
+2025-08-11 11:30:15,413 - INFO - Retrying request to /chat/completions in 0.928801 seconds
+2025-08-11 11:32:16,427 - ERROR -     API error: Request timed out.
+2025-08-11 11:32:16,429 - INFO -   No works found in chunk
+2025-08-11 11:32:17,435 - INFO - [3/175] Processing: Elena_Firsova_chunk_004.md
+2025-08-11 11:32:17,438 - INFO -   Chunk size: 10,628 characters
+2025-08-11 11:32:17,439 - INFO -   Source: Elena_Firsova.md
+2025-08-11 11:32:17,439 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 11:34:17,486 - INFO - Retrying request to /chat/completions in 0.496765 seconds
+2025-08-11 11:36:18,043 - INFO - Retrying request to /chat/completions in 0.928502 seconds
+2025-08-11 11:38:19,029 - ERROR -     API error: Request timed out.
+2025-08-11 11:38:21,040 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 11:40:21,096 - INFO - Retrying request to /chat/completions in 0.471922 seconds
+2025-08-11 11:49:20,681 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 11:49:20,776 - INFO -     ✅ Extracted 12 works from chunk
+2025-08-11 11:49:20,776 - INFO -   ✅ Added 12 works
+2025-08-11 11:49:21,793 - INFO - [4/175] Processing: Elena_Firsova_chunk_005.md
+2025-08-11 11:49:21,795 - INFO -   Chunk size: 10,617 characters
+2025-08-11 11:49:21,795 - INFO -   Source: Elena_Firsova.md
+2025-08-11 11:49:21,795 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 11:51:21,819 - INFO - Retrying request to /chat/completions in 0.469792 seconds
+2025-08-11 11:53:22,383 - INFO - Retrying request to /chat/completions in 0.759124 seconds
+2025-08-11 11:55:23,203 - ERROR -     API error: Request timed out.
+2025-08-11 11:55:25,210 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 11:57:25,269 - INFO - Retrying request to /chat/completions in 0.456143 seconds
+2025-08-11 11:59:25,783 - INFO - Retrying request to /chat/completions in 0.796436 seconds
+2025-08-11 12:01:26,639 - ERROR -     API error: Request timed out.
+2025-08-11 12:01:30,646 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 12:03:30,700 - INFO - Retrying request to /chat/completions in 0.495471 seconds
+2025-08-11 12:05:31,250 - INFO - Retrying request to /chat/completions in 0.914564 seconds
+2025-08-11 12:07:32,250 - ERROR -     API error: Request timed out.
+2025-08-11 12:07:32,253 - INFO -   No works found in chunk
+2025-08-11 12:07:33,257 - INFO - [5/175] Processing: Elena_Firsova_chunk_006.md
+2025-08-11 12:07:33,259 - INFO -   Chunk size: 11,069 characters
+2025-08-11 12:07:33,259 - INFO -   Source: Elena_Firsova.md
+2025-08-11 12:07:33,260 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 12:09:33,309 - INFO - Retrying request to /chat/completions in 0.486226 seconds
+2025-08-11 12:11:33,843 - INFO - Retrying request to /chat/completions in 0.985708 seconds
+2025-08-11 12:13:34,882 - ERROR -     API error: Request timed out.
+2025-08-11 12:13:36,887 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 12:15:36,936 - INFO - Retrying request to /chat/completions in 0.383770 seconds
+2025-08-11 12:16:52,603 - INFO - 
+Script interrupted by user.
+2025-08-11 12:56:40,174 - INFO - ============================================================
+2025-08-11 12:56:40,174 - INFO - CHUNKED MARKDOWN TO JSON PROCESSOR
+2025-08-11 12:56:40,174 - INFO - ============================================================
+2025-08-11 12:56:40,174 - INFO - Testing Kimi API connection...
+2025-08-11 12:56:41,541 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 12:56:41,547 - INFO - ✅ Kimi API connection successful!
+2025-08-11 12:56:41,549 - INFO - Found 175 chunk files to process
+2025-08-11 12:56:41,549 - INFO - [1/175] Processing: Elena_Firsova_chunk_002.md
+2025-08-11 12:56:41,550 - INFO -   Chunk size: 10,553 characters
+2025-08-11 12:56:41,550 - INFO -   Source: Elena_Firsova.md
+2025-08-11 12:56:41,550 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 12:59:41,561 - INFO - Retrying request to /chat/completions in 0.395725 seconds
+2025-08-11 13:02:42,014 - INFO - Retrying request to /chat/completions in 0.806727 seconds
+2025-08-11 13:04:36,046 - INFO - 
+Script interrupted by user.
+2025-08-11 14:24:19,140 - INFO - ============================================================
+2025-08-11 14:24:19,140 - INFO - CHUNKED MARKDOWN TO JSON PROCESSOR
+2025-08-11 14:24:19,140 - INFO - ============================================================
+2025-08-11 14:24:19,140 - INFO - Testing Kimi API connection...
+2025-08-11 14:24:20,224 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 14:24:20,232 - INFO - ✅ Kimi API connection successful!
+2025-08-11 14:24:20,233 - INFO - Found 175 chunk files to process
+2025-08-11 14:24:20,233 - INFO - [1/175] Processing: Elena_Firsova_chunk_002.md
+2025-08-11 14:24:20,234 - INFO -   Chunk size: 10,553 characters
+2025-08-11 14:24:20,234 - INFO -   Source: Elena_Firsova.md
+2025-08-11 14:24:20,234 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 14:30:09,981 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 14:30:09,991 - INFO -     ✅ Extracted 19 works from chunk
+2025-08-11 14:30:09,991 - INFO -   ✅ Added 19 works
+2025-08-11 14:30:10,998 - INFO - [2/175] Processing: Elena_Firsova_chunk_003.md
+2025-08-11 14:30:10,999 - INFO -   Chunk size: 11,318 characters
+2025-08-11 14:30:10,999 - INFO -   Source: Elena_Firsova.md
+2025-08-11 14:30:10,999 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 14:34:36,383 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 14:34:36,391 - INFO -     ✅ Extracted 16 works from chunk
+2025-08-11 14:34:36,391 - INFO -   ✅ Added 16 works
+2025-08-11 14:34:37,399 - INFO - [3/175] Processing: Elena_Firsova_chunk_004.md
+2025-08-11 14:34:37,400 - INFO -   Chunk size: 10,628 characters
+2025-08-11 14:34:37,400 - INFO -   Source: Elena_Firsova.md
+2025-08-11 14:34:37,400 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 14:38:28,086 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 14:38:28,093 - INFO -     ✅ Extracted 12 works from chunk
+2025-08-11 14:38:28,093 - INFO -   ✅ Added 12 works
+2025-08-11 14:38:29,101 - INFO - [4/175] Processing: Elena_Firsova_chunk_005.md
+2025-08-11 14:38:29,102 - INFO -   Chunk size: 10,617 characters
+2025-08-11 14:38:29,102 - INFO -   Source: Elena_Firsova.md
+2025-08-11 14:38:29,102 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 14:43:23,122 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 14:43:23,130 - INFO -     ✅ Extracted 17 works from chunk
+2025-08-11 14:43:23,130 - INFO -   ✅ Added 17 works
+2025-08-11 14:43:24,138 - INFO - [5/175] Processing: Elena_Firsova_chunk_006.md
+2025-08-11 14:43:24,140 - INFO -   Chunk size: 11,069 characters
+2025-08-11 14:43:24,140 - INFO -   Source: Elena_Firsova.md
+2025-08-11 14:43:24,140 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 14:48:28,818 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 14:48:28,826 - INFO -     ✅ Extracted 19 works from chunk
+2025-08-11 14:48:28,826 - INFO -   ✅ Added 19 works
+2025-08-11 14:48:29,830 - INFO - [6/175] Processing: Elena_Firsova_chunk_007.md
+2025-08-11 14:48:29,831 - INFO -   Chunk size: 11,706 characters
+2025-08-11 14:48:29,831 - INFO -   Source: Elena_Firsova.md
+2025-08-11 14:48:29,831 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 14:55:18,843 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 14:55:18,848 - INFO -     ✅ Extracted 26 works from chunk
+2025-08-11 14:55:18,848 - INFO -   ✅ Added 26 works
+2025-08-11 14:55:19,850 - INFO - [7/175] Processing: Elena_Firsova_chunk_008.md
+2025-08-11 14:55:19,852 - INFO -   Chunk size: 11,480 characters
+2025-08-11 14:55:19,852 - INFO -   Source: Elena_Firsova.md
+2025-08-11 14:55:19,852 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:01:04,181 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:01:04,191 - INFO -     ✅ Extracted 24 works from chunk
+2025-08-11 15:01:04,191 - INFO -   ✅ Added 24 works
+2025-08-11 15:01:05,194 - INFO - [8/175] Processing: Elena_Firsova_chunk_009.md
+2025-08-11 15:01:05,195 - INFO -   Chunk size: 10,889 characters
+2025-08-11 15:01:05,195 - INFO -   Source: Elena_Firsova.md
+2025-08-11 15:01:05,195 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:06:43,943 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:06:43,955 - INFO -     ✅ Extracted 24 works from chunk
+2025-08-11 15:06:43,955 - INFO -   ✅ Added 24 works
+2025-08-11 15:06:44,959 - INFO - [9/175] Processing: Elena_Firsova_chunk_010.md
+2025-08-11 15:06:44,960 - INFO -   Chunk size: 10,781 characters
+2025-08-11 15:06:44,960 - INFO -   Source: Elena_Firsova.md
+2025-08-11 15:06:44,960 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:14:06,029 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:14:06,040 - INFO -     ✅ Extracted 32 works from chunk
+2025-08-11 15:14:06,041 - INFO -   ✅ Added 32 works
+2025-08-11 15:14:07,047 - INFO - [10/175] Processing: Elena_Firsova_chunk_011.md
+2025-08-11 15:14:07,048 - INFO -   Chunk size: 6,721 characters
+2025-08-11 15:14:07,048 - INFO -   Source: Elena_Firsova.md
+2025-08-11 15:14:07,048 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:17:38,076 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:17:38,084 - INFO -     ✅ Extracted 20 works from chunk
+2025-08-11 15:17:38,085 - INFO -   ✅ Added 20 works
+2025-08-11 15:17:39,088 - INFO - [11/175] Processing: Ilse_Fromm-Michaels_chunk_001.md
+2025-08-11 15:17:39,091 - INFO -   Chunk size: 7,841 characters
+2025-08-11 15:17:39,091 - INFO -   Source: Ilse_Fromm-Michaels.md
+2025-08-11 15:17:39,092 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:19:13,020 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:19:13,025 - INFO -     ✅ Extracted 9 works from chunk
+2025-08-11 15:19:13,025 - INFO -   ✅ Added 9 works
+2025-08-11 15:19:14,028 - INFO - [12/175] Processing: Ilse_Fromm-Michaels_chunk_002.md
+2025-08-11 15:19:14,029 - INFO -   Chunk size: 10,032 characters
+2025-08-11 15:19:14,029 - INFO -   Source: Ilse_Fromm-Michaels.md
+2025-08-11 15:19:14,029 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:22:26,015 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:22:26,020 - INFO -     ✅ Extracted 17 works from chunk
+2025-08-11 15:22:26,020 - INFO -   ✅ Added 17 works
+2025-08-11 15:22:27,027 - INFO - [13/175] Processing: Lera_Auerbach_CONTEXT.md
+2025-08-11 15:22:27,028 - INFO -   Chunk size: 4,477 characters
+2025-08-11 15:22:27,028 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 15:22:27,029 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:22:36,825 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:22:38,831 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 15:24:26,012 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:24:26,026 - INFO -     ✅ Extracted 7 works from chunk
+2025-08-11 15:24:26,028 - INFO -   ✅ Added 7 works
+2025-08-11 15:24:27,035 - INFO - [14/175] Processing: Lera_Auerbach_chunk_003.md
+2025-08-11 15:24:27,036 - INFO -   Chunk size: 11,177 characters
+2025-08-11 15:24:27,036 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 15:24:27,036 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:27:19,256 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:27:19,262 - INFO -     ✅ Extracted 8 works from chunk
+2025-08-11 15:27:19,263 - INFO -   ✅ Added 8 works
+2025-08-11 15:27:20,270 - INFO - [15/175] Processing: Lera_Auerbach_chunk_004.md
+2025-08-11 15:27:20,271 - INFO -   Chunk size: 11,881 characters
+2025-08-11 15:27:20,271 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 15:27:20,271 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:30:54,180 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:30:54,186 - INFO -     ✅ Extracted 11 works from chunk
+2025-08-11 15:30:54,186 - INFO -   ✅ Added 11 works
+2025-08-11 15:30:55,193 - INFO - [16/175] Processing: Lera_Auerbach_chunk_005.md
+2025-08-11 15:30:55,194 - INFO -   Chunk size: 11,168 characters
+2025-08-11 15:30:55,194 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 15:30:55,195 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:34:47,892 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:34:47,898 - INFO -     ✅ Extracted 11 works from chunk
+2025-08-11 15:34:47,898 - INFO -   ✅ Added 11 works
+2025-08-11 15:34:48,906 - INFO - [17/175] Processing: Lera_Auerbach_chunk_006.md
+2025-08-11 15:34:48,906 - INFO -   Chunk size: 11,822 characters
+2025-08-11 15:34:48,906 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 15:34:48,906 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:37:03,125 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:37:03,130 - INFO -     ✅ Extracted 6 works from chunk
+2025-08-11 15:37:03,131 - INFO -   ✅ Added 6 works
+2025-08-11 15:37:04,138 - INFO - [18/175] Processing: Lera_Auerbach_chunk_007.md
+2025-08-11 15:37:04,139 - INFO -   Chunk size: 12,303 characters
+2025-08-11 15:37:04,139 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 15:37:04,139 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:40:58,165 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:40:58,170 - INFO -     ✅ Extracted 11 works from chunk
+2025-08-11 15:40:58,170 - INFO -   ✅ Added 11 works
+2025-08-11 15:40:59,178 - INFO - [19/175] Processing: Lera_Auerbach_chunk_008.md
+2025-08-11 15:40:59,179 - INFO -   Chunk size: 12,332 characters
+2025-08-11 15:40:59,179 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 15:40:59,179 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 15:44:23,355 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 15:44:23,360 - INFO -     ✅ Extracted 19 works from chunk
+2025-08-11 15:44:23,360 - INFO -   ✅ Added 19 works
+2025-08-11 15:44:24,366 - INFO - [20/175] Processing: Lera_Auerbach_chunk_009.md
+2025-08-11 15:44:24,367 - INFO -   Chunk size: 12,367 characters
+2025-08-11 15:44:24,368 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 15:44:24,368 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 17:14:38,880 - INFO - Retrying request to /chat/completions in 0.484660 seconds
+2025-08-11 17:22:39,478 - INFO - Retrying request to /chat/completions in 0.820940 seconds
+2025-08-11 17:30:40,427 - ERROR -     API error: Request timed out.
+2025-08-11 17:30:42,432 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 17:36:56,948 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 17:36:56,958 - INFO -     ✅ Extracted 14 works from chunk
+2025-08-11 17:36:56,958 - INFO -   ✅ Added 14 works
+2025-08-11 17:36:57,966 - INFO - [21/175] Processing: Lera_Auerbach_chunk_010.md
+2025-08-11 17:36:57,969 - INFO -   Chunk size: 12,329 characters
+2025-08-11 17:36:57,969 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 17:36:57,969 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 17:42:17,361 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 17:42:17,370 - INFO -     ✅ Extracted 15 works from chunk
+2025-08-11 17:42:17,371 - INFO -   ✅ Added 15 works
+2025-08-11 17:42:18,376 - INFO - [22/175] Processing: Lera_Auerbach_chunk_011.md
+2025-08-11 17:42:18,377 - INFO -   Chunk size: 11,780 characters
+2025-08-11 17:42:18,377 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 17:42:18,377 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 17:45:34,669 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 17:45:34,676 - INFO -     ✅ Extracted 21 works from chunk
+2025-08-11 17:45:34,676 - INFO -   ✅ Added 21 works
+2025-08-11 17:45:35,683 - INFO - [23/175] Processing: Lera_Auerbach_chunk_012.md
+2025-08-11 17:45:35,684 - INFO -   Chunk size: 12,275 characters
+2025-08-11 17:45:35,684 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 17:45:35,684 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 17:48:07,077 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 17:48:07,085 - INFO -     ✅ Extracted 5 works from chunk
+2025-08-11 17:48:07,085 - INFO -   ✅ Added 5 works
+2025-08-11 17:48:08,091 - INFO - [24/175] Processing: Lera_Auerbach_chunk_013.md
+2025-08-11 17:48:08,092 - INFO -   Chunk size: 12,261 characters
+2025-08-11 17:48:08,092 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 17:48:08,092 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 17:52:49,206 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-08-11 17:52:49,209 - INFO - Retrying request to /chat/completions in 0.432415 seconds
+2025-08-11 17:56:58,787 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 17:56:58,796 - INFO -     ✅ Extracted 13 works from chunk
+2025-08-11 17:56:58,796 - INFO -   ✅ Added 13 works
+2025-08-11 17:56:59,803 - INFO - [25/175] Processing: Lera_Auerbach_chunk_014.md
+2025-08-11 17:56:59,805 - INFO -   Chunk size: 8,318 characters
+2025-08-11 17:56:59,805 - INFO -   Source: Lera_Auerbach.md
+2025-08-11 17:56:59,805 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:04:59,893 - INFO - Retrying request to /chat/completions in 0.406772 seconds
+2025-08-11 18:12:24,560 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:12:24,566 - ERROR -     JSON decode error: Expecting property name enclosed in double quotes: line 829 column 32 (char 22420)
+2025-08-11 18:12:26,571 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 18:17:12,353 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:17:12,358 - INFO -     ✅ Extracted 15 works from chunk
+2025-08-11 18:17:12,358 - INFO -   ✅ Added 15 works
+2025-08-11 18:17:13,366 - INFO - [26/175] Processing: Musik_für_Orchester_Music_for_Orchestra_CONTEXT.md
+2025-08-11 18:17:13,368 - INFO -   Chunk size: 5,452 characters
+2025-08-11 18:17:13,368 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:17:13,368 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:17:20,704 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:17:22,712 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 18:17:40,275 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:17:44,284 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 18:17:51,047 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:17:51,048 - INFO -     ✅ Extracted 0 works from chunk
+2025-08-11 18:17:51,048 - INFO -   No works found in chunk
+2025-08-11 18:17:52,053 - INFO - [27/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_001.md
+2025-08-11 18:17:52,054 - INFO -   Chunk size: 7,906 characters
+2025-08-11 18:17:52,054 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:17:52,054 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:19:05,443 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:19:05,446 - INFO -     ✅ Extracted 2 works from chunk
+2025-08-11 18:19:05,446 - INFO -   ✅ Added 2 works
+2025-08-11 18:19:06,451 - INFO - [28/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_002.md
+2025-08-11 18:19:06,452 - INFO -   Chunk size: 10,076 characters
+2025-08-11 18:19:06,452 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:19:06,453 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:22:28,030 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:22:28,036 - INFO -     ✅ Extracted 7 works from chunk
+2025-08-11 18:22:28,036 - INFO -   ✅ Added 7 works
+2025-08-11 18:22:29,039 - INFO - [29/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_003.md
+2025-08-11 18:22:29,040 - INFO -   Chunk size: 11,061 characters
+2025-08-11 18:22:29,040 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:22:29,040 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:22:33,516 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 18:22:33,517 - INFO - Retrying request to /chat/completions in 0.477674 seconds
+2025-08-11 18:24:46,110 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:24:46,115 - INFO -     ✅ Extracted 5 works from chunk
+2025-08-11 18:24:46,116 - INFO -   ✅ Added 5 works
+2025-08-11 18:24:47,116 - INFO - [30/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_004.md
+2025-08-11 18:24:47,117 - INFO -   Chunk size: 11,569 characters
+2025-08-11 18:24:47,117 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:24:47,117 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:27:56,963 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:27:56,970 - INFO -     ✅ Extracted 6 works from chunk
+2025-08-11 18:27:56,970 - INFO -   ✅ Added 6 works
+2025-08-11 18:27:57,979 - INFO - [31/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_005.md
+2025-08-11 18:27:57,985 - INFO -   Chunk size: 11,707 characters
+2025-08-11 18:27:57,985 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:27:57,985 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:32:11,324 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:32:11,331 - INFO -     ✅ Extracted 8 works from chunk
+2025-08-11 18:32:11,331 - INFO -   ✅ Added 8 works
+2025-08-11 18:32:12,335 - INFO - [32/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_006.md
+2025-08-11 18:32:12,338 - INFO -   Chunk size: 11,563 characters
+2025-08-11 18:32:12,338 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:32:12,339 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:34:43,946 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:34:43,952 - INFO -     ✅ Extracted 5 works from chunk
+2025-08-11 18:34:43,952 - INFO -   ✅ Added 5 works
+2025-08-11 18:34:44,958 - INFO - [33/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_007.md
+2025-08-11 18:34:44,959 - INFO -   Chunk size: 10,987 characters
+2025-08-11 18:34:44,959 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:34:44,959 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:39:34,730 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:39:34,736 - INFO -     ✅ Extracted 10 works from chunk
+2025-08-11 18:39:34,737 - INFO -   ✅ Added 10 works
+2025-08-11 18:39:35,745 - INFO - [34/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_008.md
+2025-08-11 18:39:35,747 - INFO -   Chunk size: 11,945 characters
+2025-08-11 18:39:35,747 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:39:35,747 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:39:40,336 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 18:39:40,337 - INFO - Retrying request to /chat/completions in 0.434183 seconds
+2025-08-11 18:42:58,283 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:42:58,289 - INFO -     ✅ Extracted 6 works from chunk
+2025-08-11 18:42:58,290 - INFO -   ✅ Added 6 works
+2025-08-11 18:42:59,294 - INFO - [35/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_009.md
+2025-08-11 18:42:59,297 - INFO -   Chunk size: 11,860 characters
+2025-08-11 18:42:59,297 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:42:59,297 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:47:00,191 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:47:00,197 - INFO -     ✅ Extracted 8 works from chunk
+2025-08-11 18:47:00,197 - INFO -   ✅ Added 8 works
+2025-08-11 18:47:01,205 - INFO - [36/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_010.md
+2025-08-11 18:47:01,207 - INFO -   Chunk size: 13,225 characters
+2025-08-11 18:47:01,207 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:47:01,207 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:49:52,617 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:49:52,621 - INFO -     ✅ Extracted 6 works from chunk
+2025-08-11 18:49:52,622 - INFO -   ✅ Added 6 works
+2025-08-11 18:49:53,628 - INFO - [37/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_011.md
+2025-08-11 18:49:53,629 - INFO -   Chunk size: 11,205 characters
+2025-08-11 18:49:53,629 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:49:53,629 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:49:58,491 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 18:49:58,491 - INFO - Retrying request to /chat/completions in 0.384971 seconds
+2025-08-11 18:52:27,347 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:52:27,353 - INFO -     ✅ Extracted 5 works from chunk
+2025-08-11 18:52:27,354 - INFO -   ✅ Added 5 works
+2025-08-11 18:52:28,366 - INFO - [38/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_012.md
+2025-08-11 18:52:28,372 - INFO -   Chunk size: 10,351 characters
+2025-08-11 18:52:28,372 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:52:28,372 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 18:57:37,055 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:57:37,059 - INFO -     ✅ Extracted 13 works from chunk
+2025-08-11 18:57:37,060 - INFO -   ✅ Added 13 works
+2025-08-11 18:57:38,075 - INFO - [39/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_013.md
+2025-08-11 18:57:38,077 - INFO -   Chunk size: 10,653 characters
+2025-08-11 18:57:38,077 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 18:57:38,077 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:00:21,215 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:00:21,224 - INFO -     ✅ Extracted 7 works from chunk
+2025-08-11 19:00:21,224 - INFO -   ✅ Added 7 works
+2025-08-11 19:00:22,228 - INFO - [40/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_014.md
+2025-08-11 19:00:22,229 - INFO -   Chunk size: 11,593 characters
+2025-08-11 19:00:22,229 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:00:22,229 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:03:09,700 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:03:09,706 - INFO -     ✅ Extracted 8 works from chunk
+2025-08-11 19:03:09,706 - INFO -   ✅ Added 8 works
+2025-08-11 19:03:10,714 - INFO - [41/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_015.md
+2025-08-11 19:03:10,715 - INFO -   Chunk size: 11,470 characters
+2025-08-11 19:03:10,715 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:03:10,715 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:06:17,277 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:06:17,283 - INFO -     ✅ Extracted 8 works from chunk
+2025-08-11 19:06:17,284 - INFO -   ✅ Added 8 works
+2025-08-11 19:06:18,298 - INFO - [42/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_016.md
+2025-08-11 19:06:18,301 - INFO -   Chunk size: 11,462 characters
+2025-08-11 19:06:18,301 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:06:18,301 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:10:04,086 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:10:04,092 - INFO -     ✅ Extracted 9 works from chunk
+2025-08-11 19:10:04,093 - INFO -   ✅ Added 9 works
+2025-08-11 19:10:05,097 - INFO - [43/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_017.md
+2025-08-11 19:10:05,099 - INFO -   Chunk size: 11,384 characters
+2025-08-11 19:10:05,099 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:10:05,099 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:13:02,377 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:13:02,382 - INFO -     ✅ Extracted 7 works from chunk
+2025-08-11 19:13:02,382 - INFO -   ✅ Added 7 works
+2025-08-11 19:13:03,388 - INFO - [44/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_018.md
+2025-08-11 19:13:03,389 - INFO -   Chunk size: 12,593 characters
+2025-08-11 19:13:03,389 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:13:03,389 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:16:31,539 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:16:31,546 - INFO -     ✅ Extracted 9 works from chunk
+2025-08-11 19:16:31,546 - INFO -   ✅ Added 9 works
+2025-08-11 19:16:32,554 - INFO - [45/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_019.md
+2025-08-11 19:16:32,555 - INFO -   Chunk size: 12,397 characters
+2025-08-11 19:16:32,555 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:16:32,555 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:19:00,793 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:19:00,796 - INFO -     ✅ Extracted 6 works from chunk
+2025-08-11 19:19:00,796 - INFO -   ✅ Added 6 works
+2025-08-11 19:19:01,803 - INFO - [46/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_020.md
+2025-08-11 19:19:01,804 - INFO -   Chunk size: 12,536 characters
+2025-08-11 19:19:01,805 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:19:01,805 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:20:41,279 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:20:41,285 - INFO -     ✅ Extracted 9 works from chunk
+2025-08-11 19:20:41,285 - INFO -   ✅ Added 9 works
+2025-08-11 19:20:42,288 - INFO - [47/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_021.md
+2025-08-11 19:20:42,290 - INFO -   Chunk size: 12,483 characters
+2025-08-11 19:20:42,290 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:20:42,290 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:22:48,671 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:22:48,675 - INFO -     ✅ Extracted 7 works from chunk
+2025-08-11 19:22:48,676 - INFO -   ✅ Added 7 works
+2025-08-11 19:22:49,684 - INFO - [48/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_022.md
+2025-08-11 19:22:49,687 - INFO -   Chunk size: 10,400 characters
+2025-08-11 19:22:49,704 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:22:49,704 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:24:17,544 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:24:17,548 - INFO -     ✅ Extracted 5 works from chunk
+2025-08-11 19:24:17,548 - INFO -   ✅ Added 5 works
+2025-08-11 19:24:18,550 - INFO - [49/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_023.md
+2025-08-11 19:24:18,551 - INFO -   Chunk size: 10,352 characters
+2025-08-11 19:24:18,551 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:24:18,551 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:25:35,131 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:25:35,134 - INFO -     ✅ Extracted 4 works from chunk
+2025-08-11 19:25:35,134 - INFO -   ✅ Added 4 works
+2025-08-11 19:25:36,142 - INFO - [50/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_024.md
+2025-08-11 19:25:36,143 - INFO -   Chunk size: 10,727 characters
+2025-08-11 19:25:36,143 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:25:36,144 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:27:11,726 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:27:11,730 - INFO -     ✅ Extracted 6 works from chunk
+2025-08-11 19:27:11,730 - INFO -   ✅ Added 6 works
+2025-08-11 19:27:12,732 - INFO - [51/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_025.md
+2025-08-11 19:27:12,734 - INFO -   Chunk size: 11,956 characters
+2025-08-11 19:27:12,734 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:27:12,734 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:27:17,682 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 19:27:17,683 - INFO - Retrying request to /chat/completions in 0.417127 seconds
+2025-08-11 19:27:21,940 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 19:27:21,941 - INFO - Retrying request to /chat/completions in 0.856015 seconds
+2025-08-11 19:27:52,164 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:27:52,166 - INFO -     ✅ Extracted 1 works from chunk
+2025-08-11 19:27:52,166 - INFO -   ✅ Added 1 works
+2025-08-11 19:27:53,169 - INFO - [52/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_026.md
+2025-08-11 19:27:53,170 - INFO -   Chunk size: 12,017 characters
+2025-08-11 19:27:53,170 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:27:53,170 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:28:00,662 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-08-11 19:28:00,664 - INFO - Retrying request to /chat/completions in 0.472059 seconds
+2025-08-11 19:28:20,922 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:28:20,924 - INFO -     ✅ Extracted 1 works from chunk
+2025-08-11 19:28:20,924 - INFO -   ✅ Added 1 works
+2025-08-11 19:28:21,930 - INFO - [53/175] Processing: Musik_für_Orchester_Music_for_Orchestra_chunk_027.md
+2025-08-11 19:28:21,931 - INFO -   Chunk size: 10,424 characters
+2025-08-11 19:28:21,931 - INFO -   Source: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 19:28:21,931 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:29:24,335 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:29:24,339 - INFO -     ✅ Extracted 4 works from chunk
+2025-08-11 19:29:24,339 - INFO -   ✅ Added 4 works
+2025-08-11 19:29:25,346 - INFO - [54/175] Processing: Sofia_Gubaidulina_CONTEXT.md
+2025-08-11 19:29:25,347 - INFO -   Chunk size: 3,566 characters
+2025-08-11 19:29:25,347 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 19:29:25,347 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:29:30,377 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-08-11 19:29:30,377 - INFO - Retrying request to /chat/completions in 0.452354 seconds
+2025-08-11 19:29:36,577 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:29:38,585 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 19:29:46,453 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:29:50,459 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 19:29:56,671 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:29:56,675 - INFO -     ✅ Extracted 0 works from chunk
+2025-08-11 19:29:56,675 - INFO -   No works found in chunk
+2025-08-11 19:29:57,680 - INFO - [55/175] Processing: Sofia_Gubaidulina_chunk_001.md
+2025-08-11 19:29:57,682 - INFO -   Chunk size: 7,991 characters
+2025-08-11 19:29:57,682 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 19:29:57,682 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:30:05,915 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:30:07,923 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 19:30:16,941 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:30:20,947 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 19:30:27,917 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:30:27,920 - INFO -     ✅ Extracted 0 works from chunk
+2025-08-11 19:30:27,920 - INFO -   No works found in chunk
+2025-08-11 19:30:28,924 - INFO - [56/175] Processing: Sofia_Gubaidulina_chunk_002.md
+2025-08-11 19:30:28,926 - INFO -   Chunk size: 10,512 characters
+2025-08-11 19:30:28,926 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 19:30:28,926 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:34:00,362 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:34:00,368 - INFO -     ✅ Extracted 7 works from chunk
+2025-08-11 19:34:00,368 - INFO -   ✅ Added 7 works
+2025-08-11 19:34:01,381 - INFO - [57/175] Processing: Sofia_Gubaidulina_chunk_003.md
+2025-08-11 19:34:01,385 - INFO -   Chunk size: 11,380 characters
+2025-08-11 19:34:01,385 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 19:34:01,385 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:38:39,568 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:38:39,575 - INFO -     ✅ Extracted 10 works from chunk
+2025-08-11 19:38:39,575 - INFO -   ✅ Added 10 works
+2025-08-11 19:38:40,581 - INFO - [58/175] Processing: Sofia_Gubaidulina_chunk_004.md
+2025-08-11 19:38:40,582 - INFO -   Chunk size: 11,767 characters
+2025-08-11 19:38:40,582 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 19:38:40,582 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:41:45,125 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:41:45,130 - INFO -     ✅ Extracted 8 works from chunk
+2025-08-11 19:41:45,130 - INFO -   ✅ Added 8 works
+2025-08-11 19:41:46,142 - INFO - [59/175] Processing: Sofia_Gubaidulina_chunk_005.md
+2025-08-11 19:41:46,149 - INFO -   Chunk size: 12,519 characters
+2025-08-11 19:41:46,149 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 19:41:46,149 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:46:01,192 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:46:01,198 - INFO -     ✅ Extracted 9 works from chunk
+2025-08-11 19:46:01,199 - INFO -   ✅ Added 9 works
+2025-08-11 19:46:02,212 - INFO - [60/175] Processing: Sofia_Gubaidulina_chunk_006.md
+2025-08-11 19:46:02,232 - INFO -   Chunk size: 12,459 characters
+2025-08-11 19:46:02,232 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 19:46:02,232 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 19:54:02,243 - INFO - Retrying request to /chat/completions in 0.497071 seconds
+2025-08-11 19:54:07,332 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 19:54:07,334 - INFO - Retrying request to /chat/completions in 0.758203 seconds
+2025-08-11 19:59:06,529 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:59:06,535 - INFO -     ✅ Extracted 12 works from chunk
+2025-08-11 19:59:06,535 - INFO -   ✅ Added 12 works
+2025-08-11 19:59:07,552 - INFO - [61/175] Processing: Sofia_Gubaidulina_chunk_007.md
+2025-08-11 19:59:07,554 - INFO -   Chunk size: 12,568 characters
+2025-08-11 19:59:07,554 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 19:59:07,554 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 20:04:22,150 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 20:04:22,154 - INFO -     ✅ Extracted 17 works from chunk
+2025-08-11 20:04:22,154 - INFO -   ✅ Added 17 works
+2025-08-11 20:04:23,161 - INFO - [62/175] Processing: Sofia_Gubaidulina_chunk_008.md
+2025-08-11 20:04:23,162 - INFO -   Chunk size: 12,473 characters
+2025-08-11 20:04:23,163 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 20:04:23,163 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 20:12:23,168 - INFO - Retrying request to /chat/completions in 0.394562 seconds
+2025-08-11 20:15:45,407 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-08-11 20:15:45,410 - INFO - Retrying request to /chat/completions in 0.859457 seconds
+2025-08-11 20:18:44,961 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-08-11 20:18:44,967 - ERROR -     API error: Cloudflare encountered an error processing this request: Bad Gateway
+2025-08-11 20:18:46,973 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 20:21:38,619 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-08-11 20:21:38,623 - INFO - Retrying request to /chat/completions in 0.454417 seconds
+2025-08-11 20:29:39,129 - INFO - Retrying request to /chat/completions in 0.790353 seconds
+2025-08-11 20:37:29,515 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 20:37:29,525 - ERROR -     JSON decode error: Unterminated string starting at: line 459 column 7 (char 16942)
+2025-08-11 20:37:33,525 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-11 20:45:33,534 - INFO - Retrying request to /chat/completions in 0.398447 seconds
+2025-08-11 20:53:34,056 - INFO - Retrying request to /chat/completions in 0.986656 seconds
+2025-08-11 20:58:36,890 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 20:58:36,933 - ERROR -     JSON decode error: Expecting property name enclosed in double quotes: line 458 column 34 (char 16990)
+2025-08-11 20:58:36,937 - INFO -   No works found in chunk
+2025-08-11 20:58:37,954 - INFO - [63/175] Processing: Sofia_Gubaidulina_chunk_009.md
+2025-08-11 20:58:37,960 - INFO -   Chunk size: 12,387 characters
+2025-08-11 20:58:37,960 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 20:58:37,960 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 21:05:43,810 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 21:05:43,817 - ERROR -     JSON decode error: Unterminated string starting at: line 512 column 7 (char 17418)
+2025-08-11 21:05:45,823 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 21:32:22,513 - INFO - Retrying request to /chat/completions in 0.452959 seconds
+2025-08-11 21:40:23,095 - INFO - Retrying request to /chat/completions in 0.909755 seconds
+2025-08-11 21:44:47,277 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 21:44:47,296 - INFO -     ✅ Extracted 20 works from chunk
+2025-08-11 21:44:47,296 - INFO -   ✅ Added 20 works
+2025-08-11 21:44:47,306 - ERROR -   Error processing Sofia_Gubaidulina_chunk_009.md: [Errno 28] No space left on device: 'chunked_works_json/Sofia_Gubaidulina_chunk_009.json'
+2025-08-11 21:44:48,317 - INFO - [64/175] Processing: Sofia_Gubaidulina_chunk_010.md
+2025-08-11 21:44:48,320 - INFO -   Chunk size: 12,358 characters
+2025-08-11 21:44:48,320 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 21:44:48,320 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 21:48:28,805 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-08-11 21:48:28,810 - INFO - Retrying request to /chat/completions in 0.429925 seconds
+2025-08-11 21:49:38,880 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-08-11 21:49:38,886 - INFO - Retrying request to /chat/completions in 0.902183 seconds
+2025-08-11 21:56:47,675 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 21:56:47,690 - ERROR -     JSON decode error: Unterminated string starting at: line 567 column 25 (char 17805)
+2025-08-11 21:56:49,696 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 22:01:56,339 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 22:01:56,343 - INFO -     ✅ Extracted 20 works from chunk
+2025-08-11 22:01:56,343 - INFO -   ✅ Added 20 works
+2025-08-11 22:01:57,356 - INFO - [65/175] Processing: Sofia_Gubaidulina_chunk_011.md
+2025-08-11 22:01:57,357 - INFO -   Chunk size: 12,449 characters
+2025-08-11 22:01:57,357 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 22:01:57,357 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 22:07:17,760 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 22:07:17,762 - INFO -     ✅ Extracted 13 works from chunk
+2025-08-11 22:07:17,762 - INFO -   ✅ Added 13 works
+2025-08-11 22:07:18,768 - INFO - [66/175] Processing: Sofia_Gubaidulina_chunk_012.md
+2025-08-11 22:07:18,768 - INFO -   Chunk size: 12,788 characters
+2025-08-11 22:07:18,768 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 22:07:18,768 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 22:10:18,742 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 22:10:18,746 - INFO -     ✅ Extracted 7 works from chunk
+2025-08-11 22:10:18,746 - INFO -   ✅ Added 7 works
+2025-08-11 22:10:19,748 - INFO - [67/175] Processing: Sofia_Gubaidulina_chunk_013.md
+2025-08-11 22:10:19,749 - INFO -   Chunk size: 10,155 characters
+2025-08-11 22:10:19,749 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-11 22:10:19,749 - INFO -     Processing with Kimi API (attempt 1)...
+2025-08-11 22:18:19,760 - INFO - Retrying request to /chat/completions in 0.431830 seconds
+2025-08-11 22:25:08,778 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 22:25:08,784 - ERROR -     JSON decode error: Unterminated string starting at: line 655 column 7 (char 19573)
+2025-08-11 22:25:10,785 - INFO -     Processing with Kimi API (attempt 2)...
+2025-08-11 22:33:10,807 - INFO - Retrying request to /chat/completions in 0.484768 seconds
+2025-08-11 22:41:11,413 - INFO - Retrying request to /chat/completions in 0.984437 seconds
+2025-08-11 22:48:25,550 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 22:48:25,557 - ERROR -     JSON decode error: Unterminated string starting at: line 665 column 7 (char 19644)
+2025-08-11 22:48:29,558 - INFO -     Processing with Kimi API (attempt 3)...
+2025-08-12 06:20:20,154 - INFO - Retrying request to /chat/completions in 0.471256 seconds
+2025-08-12 06:28:20,713 - INFO - Retrying request to /chat/completions in 0.792877 seconds
+2025-08-12 06:36:21,581 - ERROR -     API error: Request timed out.
+2025-08-12 06:36:21,583 - INFO -   No works found in chunk
+2025-08-12 06:36:22,586 - INFO - [68/175] Processing: Sofia_Gubaidulina_chunk_014.md
+2025-08-12 06:36:22,589 - INFO -   Chunk size: 10,949 characters
+2025-08-12 06:36:22,589 - INFO -   Source: Sofia_Gubaidulina.md
+2025-08-12 06:36:22,589 - INFO -     Processing with Kimi API (attempt 1)...

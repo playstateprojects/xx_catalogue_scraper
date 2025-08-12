@@ -1,0 +1,1453 @@
+2025-08-10 23:16:44,245 - INFO - ============================================================
+2025-08-10 23:16:44,245 - INFO - INTELLIGENT MARKDOWN CHUNKER WITH CONTEXT
+2025-08-10 23:16:44,245 - INFO - ============================================================
+2025-08-10 23:16:44,245 - INFO - Configuration:
+2025-08-10 23:16:44,245 - INFO -   Chunk size: 8,000 characters
+2025-08-10 23:16:44,245 - INFO -   Overlap size: 1,000 characters
+2025-08-10 23:16:44,245 - INFO -   Min chunk size: 2,000 characters
+2025-08-10 23:16:44,245 - INFO -   Input directory: markdown_documents
+2025-08-10 23:16:44,245 - INFO -   Output directory: markdown_chunks
+2025-08-10 23:16:44,245 - INFO - Testing Kimi API connection...
+2025-08-10 23:16:46,332 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:16:46,339 - INFO - ✅ Kimi API connection successful!
+2025-08-10 23:16:46,340 - INFO - Found 19 markdown files to process
+2025-08-10 23:16:46,340 - INFO - [1/19] Processing: Elena_Firsova.md
+2025-08-10 23:16:46,340 - INFO -   File size: 72,446 characters
+2025-08-10 23:16:46,341 - INFO -   Chunk 1: chars 0-7945 (7945 total with context)
+2025-08-10 23:16:46,341 - INFO -   Generating context summary for chunk 1...
+2025-08-10 23:16:56,730 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:16:56,736 - INFO -   Generated summary: The catalogue has introduced Russian-British composer Elena Firsova (b. 1950), outlining her early l...
+2025-08-10 23:16:57,740 - INFO -   Chunk 2: chars 6875-14865 (8524 total with context)
+2025-08-10 23:16:57,741 - INFO -   Generating context summary for chunk 2...
+2025-08-10 23:17:08,947 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:17:08,949 - INFO -   Generated summary: The catalogue has just finished presenting Elena Firsova’s two chamber operas (A Feast in Time of Pl...
+2025-08-10 23:17:09,955 - INFO -   Chunk 3: chars 13807-21799 (8530 total with context)
+2025-08-10 23:17:09,955 - INFO -   Generating context summary for chunk 3...
+2025-08-10 23:17:20,674 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:17:20,677 - INFO -   Generated summary: This section catalogues Elena Firsova’s concertante works for soloist(s) and orchestra, spanning fro...
+2025-08-10 23:17:21,683 - INFO -   Chunk 4: chars 20733-28747 (8600 total with context)
+2025-08-10 23:17:21,683 - INFO -   Generating context summary for chunk 4...
+2025-08-10 23:17:31,140 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:17:31,143 - INFO -   Generated summary: The catalogue is systematically listing Elena Firsova's vocal-orchestral works from 1978 onward, gro...
+2025-08-10 23:17:32,149 - INFO -   Chunk 5: chars 27657-35660 (8593 total with context)
+2025-08-10 23:17:32,149 - INFO -   Generating context summary for chunk 5...
+2025-08-10 23:17:42,282 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:17:42,285 - INFO -   Generated summary: The catalogue has so far presented Elena Firsova’s vocal-chamber output from 1976-2003, grouping wor...
+2025-08-10 23:17:43,288 - INFO -   Chunk 6: chars 34625-42641 (8524 total with context)
+2025-08-10 23:17:43,288 - INFO -   Generating context summary for chunk 6...
+2025-08-10 23:17:51,934 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:17:51,936 - INFO -   Generated summary: This section of Elena Firsova's catalogue documents her extensive output for voice with various inst...
+2025-08-10 23:17:52,939 - INFO -   Chunk 7: chars 41624-49602 (8578 total with context)
+2025-08-10 23:17:52,939 - INFO -   Generating context summary for chunk 7...
+2025-08-10 23:18:01,008 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:18:01,010 - INFO -   Generated summary: The catalogue is systematically listing Elena Firsova’s works in chronological order, having just co...
+2025-08-10 23:18:02,015 - INFO -   Chunk 8: chars 48614-56599 (8494 total with context)
+2025-08-10 23:18:02,016 - INFO -   Generating context summary for chunk 8...
+2025-08-10 23:18:12,033 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:18:12,036 - INFO -   Generated summary: The catalogue is now deep into Elena Firsova’s chamber-music output from the mid-1990s, having just ...
+2025-08-10 23:18:13,038 - INFO -   Chunk 9: chars 55604-63525 (8520 total with context)
+2025-08-10 23:18:13,038 - INFO -   Generating context summary for chunk 9...
+2025-08-10 23:18:23,383 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:18:23,386 - INFO -   Generated summary: This catalogue section documents Elena Firsova's chamber music from 1995-2019, focusing on string qu...
+2025-08-10 23:18:24,389 - INFO -   Chunk 10: chars 62460-70497 (8638 total with context)
+2025-08-10 23:18:24,390 - INFO -   Generating context summary for chunk 10...
+2025-08-10 23:18:31,516 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:18:31,519 - INFO -   Generated summary: The catalogue has just finished listing Elena Firsova’s extensive solo instrumental works (1966–2019...
+2025-08-10 23:18:32,522 - INFO -   Chunk 11: chars 69449-72446 (3436 total with context)
+2025-08-10 23:18:32,523 - INFO -   Created 11 chunks from 72446 character document
+2025-08-10 23:18:32,524 - INFO -   Saved: Elena_Firsova_chunk_001.md
+2025-08-10 23:18:32,525 - INFO -   Saved: Elena_Firsova_chunk_002.md
+2025-08-10 23:18:32,525 - INFO -   Saved: Elena_Firsova_chunk_003.md
+2025-08-10 23:18:32,526 - INFO -   Saved: Elena_Firsova_chunk_004.md
+2025-08-10 23:18:32,526 - INFO -   Saved: Elena_Firsova_chunk_005.md
+2025-08-10 23:18:32,527 - INFO -   Saved: Elena_Firsova_chunk_006.md
+2025-08-10 23:18:32,527 - INFO -   Saved: Elena_Firsova_chunk_007.md
+2025-08-10 23:18:32,528 - INFO -   Saved: Elena_Firsova_chunk_008.md
+2025-08-10 23:18:32,529 - INFO -   Saved: Elena_Firsova_chunk_009.md
+2025-08-10 23:18:32,529 - INFO -   Saved: Elena_Firsova_chunk_010.md
+2025-08-10 23:18:32,529 - INFO -   Saved: Elena_Firsova_chunk_011.md
+2025-08-10 23:18:32,529 - INFO -   ✅ Created 11 chunks from Elena_Firsova.md
+2025-08-10 23:18:34,532 - INFO - [2/19] Processing: Thea _Musgrave_INSTRUMENTAL.md
+2025-08-10 23:18:34,533 - INFO -   File size: 52,470 characters
+2025-08-10 23:18:34,534 - INFO -   Chunk 1: chars 0-8036 (8036 total with context)
+2025-08-10 23:18:34,534 - INFO -   Generating context summary for chunk 1...
+2025-08-10 23:18:41,178 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:18:41,180 - INFO -   Generated summary: This is the celebratory introduction to Thea Musgrave's 95th-birthday catalogue of instrumental work...
+2025-08-10 23:18:42,181 - INFO -   Chunk 2: chars 6948-14911 (8432 total with context)
+2025-08-10 23:18:42,182 - INFO -   Generating context summary for chunk 2...
+2025-08-10 23:18:53,258 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:18:53,259 - INFO -   Generated summary: Thea Musgrave, Scottish-born composer and former Nadia Boulanger pupil, is celebrated for a lifelong...
+2025-08-10 23:18:54,260 - INFO -   Chunk 3: chars 13977-22146 (8849 total with context)
+2025-08-10 23:18:54,260 - INFO -   Generating context summary for chunk 3...
+2025-08-10 23:19:01,904 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:19:01,905 - INFO -   Generated summary: Thea Musgrave, a prolific composer of ten operas and numerous orchestral works, emphasizes drama in ...
+2025-08-10 23:19:02,909 - INFO -   Chunk 4: chars 21137-29202 (8574 total with context)
+2025-08-10 23:19:02,909 - INFO -   Generating context summary for chunk 4...
+2025-08-10 23:19:11,560 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:19:11,563 - INFO -   Generated summary: Thea Musgrave's orchestral catalogue continues with her 1971 Horn Concerto (dedicated to Barry Tuckw...
+2025-08-10 23:19:12,569 - INFO -   Chunk 5: chars 28276-36249 (8568 total with context)
+2025-08-10 23:19:12,569 - INFO -   Generating context summary for chunk 5...
+2025-08-10 23:19:21,777 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:19:21,779 - INFO -   Generated summary: The catalogue continues its survey of Thea Musgrave's orchestral works, having just described the fi...
+2025-08-10 23:19:22,780 - INFO -   Chunk 6: chars 35238-43244 (8582 total with context)
+2025-08-10 23:19:22,781 - INFO -   Generating context summary for chunk 6...
+2025-08-10 23:19:32,224 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:19:32,227 - INFO -   Generated summary: The catalogue has just finished describing Thea Musgrave's programmatic orchestral suite "Turbulent ...
+2025-08-10 23:19:33,232 - INFO -   Chunk 7: chars 42296-50279 (8473 total with context)
+2025-08-10 23:19:33,232 - INFO -   Generating context summary for chunk 7...
+2025-08-10 23:19:40,351 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:19:40,353 - INFO -   Generated summary: This section catalogues Thea Musgrave's instrumental works from 1958–2019, covering orchestral piece...
+2025-08-10 23:19:41,357 - INFO -   Chunk 8: chars 49285-52470 (3648 total with context)
+2025-08-10 23:19:41,358 - INFO -   Created 8 chunks from 52470 character document
+2025-08-10 23:19:41,359 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_001.md
+2025-08-10 23:19:41,360 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_002.md
+2025-08-10 23:19:41,362 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_003.md
+2025-08-10 23:19:41,362 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_004.md
+2025-08-10 23:19:41,364 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_005.md
+2025-08-10 23:19:41,365 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_006.md
+2025-08-10 23:19:41,365 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_007.md
+2025-08-10 23:19:41,365 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_008.md
+2025-08-10 23:19:41,365 - INFO -   ✅ Created 8 chunks from Thea _Musgrave_INSTRUMENTAL.md
+2025-08-10 23:19:43,368 - INFO - [3/19] Processing: Lera_Auerbach.md
+2025-08-10 23:19:43,369 - INFO -   File size: 95,327 characters
+2025-08-10 23:19:43,369 - INFO -   Chunk 1: chars 0-7921 (7921 total with context)
+2025-08-10 23:19:43,369 - INFO -   Generating context summary for chunk 1...
+2025-08-10 23:19:52,092 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:19:52,097 - INFO -   Generated summary: This is the introductory section of the Sikorski catalogue for Russian-American composer Lera Auerba...
+2025-08-10 23:19:53,113 - INFO -   Chunk 2: chars 6944-15142 (8871 total with context)
+2025-08-10 23:19:53,114 - INFO -   Generating context summary for chunk 2...
+2025-08-10 23:20:02,687 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:20:02,689 - INFO -   Generated summary: The catalogue has just finished surveying Lera Auerbach’s large-scale orchestral, choral, and operat...
+2025-08-10 23:20:03,693 - INFO -   Chunk 3: chars 14091-22092 (8630 total with context)
+2025-08-10 23:20:03,694 - INFO -   Generating context summary for chunk 3...
+2025-08-10 23:20:14,446 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:20:14,448 - INFO -   Generated summary: The catalogue has just finished surveying Lera Auerbach’s extensive collaborations with leading Euro...
+2025-08-10 23:20:15,453 - INFO -   Chunk 4: chars 21049-29017 (8523 total with context)
+2025-08-10 23:20:15,453 - INFO -   Generating context summary for chunk 4...
+2025-08-10 23:20:24,840 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:20:24,842 - INFO -   Generated summary: The catalogue is currently documenting Lera Auerbach's orchestral works from the mid-2000s, includin...
+2025-08-10 23:20:25,848 - INFO -   Chunk 5: chars 27990-36064 (8725 total with context)
+2025-08-10 23:20:25,849 - INFO -   Generating context summary for chunk 5...
+2025-08-10 23:20:33,976 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:20:33,977 - INFO -   Generated summary: This section catalogs Lera Auerbach's orchestral works from 2007-2015, including large-scale vocal-o...
+2025-08-10 23:20:34,980 - INFO -   Chunk 6: chars 35150-43245 (8552 total with context)
+2025-08-10 23:20:34,980 - INFO -   Generating context summary for chunk 6...
+2025-08-10 23:20:45,721 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:20:45,724 - INFO -   Generated summary: This section catalogs Lera Auerbach's orchestral works from 2013-2019, focusing on large-scale conce...
+2025-08-10 23:20:46,730 - INFO -   Chunk 7: chars 42325-50300 (8599 total with context)
+2025-08-10 23:20:46,730 - INFO -   Generating context summary for chunk 7...
+2025-08-10 23:20:56,839 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:20:56,841 - INFO -   Generated summary: The catalogue is currently surveying Lera Auerbach’s chamber-music output from the late 1990s–early ...
+2025-08-10 23:20:57,847 - INFO -   Chunk 8: chars 49328-57332 (8613 total with context)
+2025-08-10 23:20:57,847 - INFO -   Generating context summary for chunk 8...
+2025-08-10 23:21:05,831 - INFO - 
+Script interrupted by user.
+2025-08-10 23:26:35,995 - INFO - ============================================================
+2025-08-10 23:26:35,995 - INFO - ENHANCED MARKDOWN CHUNKER WITH COMPREHENSIVE CONTEXT
+2025-08-10 23:26:35,995 - INFO - ============================================================
+2025-08-10 23:26:35,995 - INFO - This chunker extracts and maintains comprehensive context including:
+2025-08-10 23:26:35,995 - INFO -   • Composer information (periods, styles, nationality)
+2025-08-10 23:26:35,996 - INFO -   • Publisher details and catalogue systems
+2025-08-10 23:26:35,996 - INFO -   • Musical genres and instrumentation patterns
+2025-08-10 23:26:35,996 - INFO -   • Technical information (ISMNs, availability)
+2025-08-10 23:26:35,996 - INFO -   • Organizational structure and references
+2025-08-10 23:26:35,996 - INFO - 
+2025-08-10 23:26:35,996 - INFO - Configuration:
+2025-08-10 23:26:35,996 - INFO -   Chunk size: 8,000 characters
+2025-08-10 23:26:35,996 - INFO -   Overlap size: 1,000 characters
+2025-08-10 23:26:35,996 - INFO -   Min chunk size: 2,000 characters
+2025-08-10 23:26:35,996 - INFO -   Input directory: markdown_documents
+2025-08-10 23:26:35,996 - INFO -   Output directory: markdown_chunks
+2025-08-10 23:26:35,996 - INFO - Testing Kimi API connection...
+2025-08-10 23:26:37,351 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:26:37,358 - INFO - ✅ Kimi API connection successful!
+2025-08-10 23:26:37,358 - INFO - Found 19 markdown files to process
+2025-08-10 23:26:37,358 - INFO - [1/19] Processing: Elena_Firsova.md
+2025-08-10 23:26:37,359 - INFO -   File size: 72,446 characters
+2025-08-10 23:26:37,359 - INFO -   Extracting comprehensive context from first chunk...
+2025-08-10 23:27:08,199 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:27:08,201 - INFO -   Updated comprehensive context (1853 chars)
+2025-08-10 23:27:10,201 - INFO -   Chunk 1: chars 0-7945
+2025-08-10 23:27:10,202 - INFO -     With context: 7945 total characters
+2025-08-10 23:27:10,203 - INFO -   Updating comprehensive context with chunk 2...
+2025-08-10 23:28:03,212 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:28:03,216 - INFO -   Updated comprehensive context (2500 chars)
+2025-08-10 23:28:05,216 - INFO -   Chunk 2: chars 6875-14865
+2025-08-10 23:28:05,217 - INFO -     With context: 10551 total characters
+2025-08-10 23:28:05,217 - INFO -   Updating comprehensive context with chunk 3...
+2025-08-10 23:29:12,009 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:29:12,014 - INFO -   Updated comprehensive context (3263 chars)
+2025-08-10 23:29:14,019 - INFO -   Chunk 3: chars 13807-21799
+2025-08-10 23:29:14,019 - INFO -     With context: 11316 total characters
+2025-08-10 23:29:14,020 - INFO -   Updating comprehensive context with chunk 4...
+2025-08-10 23:30:11,948 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:30:11,951 - INFO -   Updated comprehensive context (2551 chars)
+2025-08-10 23:30:13,955 - INFO -   Chunk 4: chars 20733-28747
+2025-08-10 23:30:13,956 - INFO -     With context: 10626 total characters
+2025-08-10 23:30:13,956 - INFO -   Updating comprehensive context with chunk 5...
+2025-08-10 23:31:43,967 - INFO - Retrying request to /chat/completions in 0.379460 seconds
+2025-08-10 23:33:14,420 - INFO - Retrying request to /chat/completions in 0.822568 seconds
+2025-08-10 23:34:45,323 - ERROR -   Error generating context: Request timed out.
+2025-08-10 23:34:47,327 - INFO -   Chunk 5: chars 27657-35660
+2025-08-10 23:34:47,328 - INFO -     With context: 10615 total characters
+2025-08-10 23:34:47,329 - INFO -   Updating comprehensive context with chunk 6...
+2025-08-10 23:35:54,661 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:35:54,666 - INFO -   Updated comprehensive context (2990 chars)
+2025-08-10 23:35:56,676 - INFO -   Chunk 6: chars 34625-42641
+2025-08-10 23:35:56,677 - INFO -     With context: 11067 total characters
+2025-08-10 23:35:56,677 - INFO -   Updating comprehensive context with chunk 7...
+2025-08-10 23:37:14,655 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:37:14,660 - INFO -   Updated comprehensive context (3665 chars)
+2025-08-10 23:37:16,665 - INFO -   Chunk 7: chars 41624-49602
+2025-08-10 23:37:16,666 - INFO -     With context: 11704 total characters
+2025-08-10 23:37:16,666 - INFO -   Updating comprehensive context with chunk 8...
+2025-08-10 23:38:35,535 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:38:35,537 - INFO -   Updated comprehensive context (3432 chars)
+2025-08-10 23:38:37,542 - INFO -   Chunk 8: chars 48614-56599
+2025-08-10 23:38:37,542 - INFO -     With context: 11478 total characters
+2025-08-10 23:38:37,542 - INFO -   Updating comprehensive context with chunk 9...
+2025-08-10 23:39:43,607 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:39:43,611 - INFO -   Updated comprehensive context (2905 chars)
+2025-08-10 23:39:45,613 - INFO -   Chunk 9: chars 55604-63525
+2025-08-10 23:39:45,613 - INFO -     With context: 10887 total characters
+2025-08-10 23:39:45,613 - INFO -   Updating comprehensive context with chunk 10...
+2025-08-10 23:40:41,246 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:40:41,248 - INFO -   Updated comprehensive context (2681 chars)
+2025-08-10 23:40:43,250 - INFO -   Chunk 10: chars 62460-70497
+2025-08-10 23:40:43,250 - INFO -     With context: 10779 total characters
+2025-08-10 23:40:43,250 - INFO -   Updating comprehensive context with chunk 11...
+2025-08-10 23:41:52,200 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:41:52,205 - INFO -   Updated comprehensive context (3661 chars)
+2025-08-10 23:41:54,211 - INFO -   Chunk 11: chars 69449-72446
+2025-08-10 23:41:54,211 - INFO -     With context: 6719 total characters
+2025-08-10 23:41:54,211 - INFO -   Created 11 chunks with comprehensive context
+2025-08-10 23:41:54,211 - INFO -   Final context size: 3661 characters
+2025-08-10 23:41:54,212 - INFO -   Saved: Elena_Firsova_chunk_001.md (8,182 chars)
+2025-08-10 23:41:54,213 - INFO -   Saved: Elena_Firsova_chunk_002.md (10,790 chars)
+2025-08-10 23:41:54,213 - INFO -   Saved: Elena_Firsova_chunk_003.md (11,555 chars)
+2025-08-10 23:41:54,213 - INFO -   Saved: Elena_Firsova_chunk_004.md (10,865 chars)
+2025-08-10 23:41:54,214 - INFO -   Saved: Elena_Firsova_chunk_005.md (10,854 chars)
+2025-08-10 23:41:54,214 - INFO -   Saved: Elena_Firsova_chunk_006.md (11,306 chars)
+2025-08-10 23:41:54,214 - INFO -   Saved: Elena_Firsova_chunk_007.md (11,943 chars)
+2025-08-10 23:41:54,215 - INFO -   Saved: Elena_Firsova_chunk_008.md (11,717 chars)
+2025-08-10 23:41:54,216 - INFO -   Saved: Elena_Firsova_chunk_009.md (11,126 chars)
+2025-08-10 23:41:54,217 - INFO -   Saved: Elena_Firsova_chunk_010.md (11,019 chars)
+2025-08-10 23:41:54,217 - INFO -   Saved: Elena_Firsova_chunk_011.md (6,958 chars)
+2025-08-10 23:41:54,218 - INFO -   Saved context: Elena_Firsova_CONTEXT.md
+2025-08-10 23:41:54,218 - INFO -   ✅ Created 11 chunks from Elena_Firsova.md
+2025-08-10 23:41:54,218 - INFO -      Context: 3661 characters
+2025-08-10 23:41:56,223 - INFO - [2/19] Processing: Thea _Musgrave_INSTRUMENTAL.md
+2025-08-10 23:41:56,225 - INFO -   File size: 52,470 characters
+2025-08-10 23:41:56,225 - INFO -   Extracting comprehensive context from first chunk...
+2025-08-10 23:42:19,529 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:42:19,531 - INFO -   Updated comprehensive context (1552 chars)
+2025-08-10 23:42:21,536 - INFO -   Chunk 1: chars 0-8036
+2025-08-10 23:42:21,536 - INFO -     With context: 8036 total characters
+2025-08-10 23:42:21,536 - INFO -   Updating comprehensive context with chunk 2...
+2025-08-10 23:42:59,604 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:42:59,607 - INFO -   Updated comprehensive context (2470 chars)
+2025-08-10 23:43:01,608 - INFO -   Chunk 2: chars 6948-14911
+2025-08-10 23:43:01,609 - INFO -     With context: 10494 total characters
+2025-08-10 23:43:01,609 - INFO -   Updating comprehensive context with chunk 3...
+2025-08-10 23:43:44,226 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:43:44,228 - INFO -   Updated comprehensive context (2830 chars)
+2025-08-10 23:43:46,234 - INFO -   Chunk 3: chars 13977-22146
+2025-08-10 23:43:46,234 - INFO -     With context: 11060 total characters
+2025-08-10 23:43:46,234 - INFO -   Updating comprehensive context with chunk 4...
+2025-08-10 23:44:46,716 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:44:46,722 - INFO -   Updated comprehensive context (3761 chars)
+2025-08-10 23:44:48,722 - INFO -   Chunk 4: chars 21137-29202
+2025-08-10 23:44:48,723 - INFO -     With context: 11887 total characters
+2025-08-10 23:44:48,723 - INFO -   Updating comprehensive context with chunk 5...
+2025-08-10 23:46:05,238 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:46:05,242 - INFO -   Updated comprehensive context (4729 chars)
+2025-08-10 23:46:07,245 - INFO -   Chunk 5: chars 28276-36249
+2025-08-10 23:46:07,245 - INFO -     With context: 12763 total characters
+2025-08-10 23:46:07,245 - INFO -   Updating comprehensive context with chunk 6...
+2025-08-10 23:47:37,253 - INFO - Retrying request to /chat/completions in 0.491773 seconds
+2025-08-10 23:49:07,801 - INFO - Retrying request to /chat/completions in 0.756605 seconds
+2025-08-10 23:50:38,611 - ERROR -   Error generating context: Request timed out.
+2025-08-10 23:50:40,615 - INFO -   Chunk 6: chars 35238-43244
+2025-08-10 23:50:40,616 - INFO -     With context: 12796 total characters
+2025-08-10 23:50:40,616 - INFO -   Updating comprehensive context with chunk 7...
+2025-08-10 23:52:10,684 - INFO - Retrying request to /chat/completions in 0.453536 seconds
+2025-08-10 23:53:41,190 - INFO - Retrying request to /chat/completions in 0.770486 seconds
+2025-08-10 23:55:12,011 - ERROR -   Error generating context: Request timed out.
+2025-08-10 23:55:14,019 - INFO -   Chunk 7: chars 42296-50279
+2025-08-10 23:55:14,020 - INFO -     With context: 12773 total characters
+2025-08-10 23:55:14,021 - INFO -   Updating comprehensive context with chunk 8...
+2025-08-10 23:56:40,940 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:56:40,945 - INFO -   Updated comprehensive context (5465 chars)
+2025-08-10 23:56:42,955 - INFO -   Chunk 8: chars 49285-52470
+2025-08-10 23:56:42,956 - INFO -     With context: 8711 total characters
+2025-08-10 23:56:42,956 - INFO -   Created 8 chunks with comprehensive context
+2025-08-10 23:56:42,956 - INFO -   Final context size: 5465 characters
+2025-08-10 23:56:42,960 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_001.md (8,286 chars)
+2025-08-10 23:56:42,961 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_002.md (10,746 chars)
+2025-08-10 23:56:42,962 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_003.md (11,312 chars)
+2025-08-10 23:56:42,963 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_004.md (12,139 chars)
+2025-08-10 23:56:42,963 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_005.md (13,015 chars)
+2025-08-10 23:56:42,964 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_006.md (13,048 chars)
+2025-08-10 23:56:42,964 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_007.md (13,025 chars)
+2025-08-10 23:56:42,965 - INFO -   Saved: Thea _Musgrave_INSTRUMENTAL_chunk_008.md (8,962 chars)
+2025-08-10 23:56:42,965 - INFO -   Saved context: Thea _Musgrave_INSTRUMENTAL_CONTEXT.md
+2025-08-10 23:56:42,965 - INFO -   ✅ Created 8 chunks from Thea _Musgrave_INSTRUMENTAL.md
+2025-08-10 23:56:42,965 - INFO -      Context: 5465 characters
+2025-08-10 23:56:44,966 - INFO - [3/19] Processing: Lera_Auerbach.md
+2025-08-10 23:56:44,969 - INFO -   File size: 95,327 characters
+2025-08-10 23:56:44,970 - INFO -   Extracting comprehensive context from first chunk...
+2025-08-10 23:57:10,957 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:57:10,961 - INFO -   Updated comprehensive context (1247 chars)
+2025-08-10 23:57:12,966 - INFO -   Chunk 1: chars 0-7921
+2025-08-10 23:57:12,966 - INFO -     With context: 7921 total characters
+2025-08-10 23:57:12,967 - INFO -   Updating comprehensive context with chunk 2...
+2025-08-10 23:58:06,332 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:58:06,336 - INFO -   Updated comprehensive context (2822 chars)
+2025-08-10 23:58:08,340 - INFO -   Chunk 2: chars 6944-15142
+2025-08-10 23:58:08,340 - INFO -     With context: 11081 total characters
+2025-08-10 23:58:08,341 - INFO -   Updating comprehensive context with chunk 3...
+2025-08-10 23:59:08,307 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-10 23:59:08,312 - INFO -   Updated comprehensive context (3113 chars)
+2025-08-10 23:59:10,314 - INFO -   Chunk 3: chars 14091-22092
+2025-08-10 23:59:10,315 - INFO -     With context: 11175 total characters
+2025-08-10 23:59:10,315 - INFO -   Updating comprehensive context with chunk 4...
+2025-08-11 00:00:26,234 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:00:26,240 - INFO -   Updated comprehensive context (3850 chars)
+2025-08-11 00:00:28,250 - INFO -   Chunk 4: chars 21049-29017
+2025-08-11 00:00:28,250 - INFO -     With context: 11879 total characters
+2025-08-11 00:00:28,251 - INFO -   Updating comprehensive context with chunk 5...
+2025-08-11 00:01:21,535 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:01:21,538 - INFO -   Updated comprehensive context (3031 chars)
+2025-08-11 00:01:23,546 - INFO -   Chunk 5: chars 27990-36064
+2025-08-11 00:01:23,547 - INFO -     With context: 11166 total characters
+2025-08-11 00:01:23,548 - INFO -   Updating comprehensive context with chunk 6...
+2025-08-11 00:02:53,560 - INFO - Retrying request to /chat/completions in 0.493675 seconds
+2025-08-11 00:04:07,409 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:04:07,415 - INFO -   Updated comprehensive context (3664 chars)
+2025-08-11 00:04:09,415 - INFO -   Chunk 6: chars 35150-43245
+2025-08-11 00:04:09,416 - INFO -     With context: 11820 total characters
+2025-08-11 00:04:09,417 - INFO -   Updating comprehensive context with chunk 7...
+2025-08-11 00:05:39,426 - INFO - Retrying request to /chat/completions in 0.378368 seconds
+2025-08-11 00:07:09,865 - INFO - Retrying request to /chat/completions in 0.967937 seconds
+2025-08-11 00:08:35,535 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:08:35,540 - INFO -   Updated comprehensive context (4265 chars)
+2025-08-11 00:08:37,548 - INFO -   Chunk 7: chars 42325-50300
+2025-08-11 00:08:37,548 - INFO -     With context: 12301 total characters
+2025-08-11 00:08:37,550 - INFO -   Updating comprehensive context with chunk 8...
+2025-08-11 00:10:07,576 - INFO - Retrying request to /chat/completions in 0.444001 seconds
+2025-08-11 00:11:38,101 - INFO - Retrying request to /chat/completions in 0.851987 seconds
+2025-08-11 00:13:09,042 - ERROR -   Error generating context: Request timed out.
+2025-08-11 00:13:11,049 - INFO -   Chunk 8: chars 49328-57332
+2025-08-11 00:13:11,049 - INFO -     With context: 12330 total characters
+2025-08-11 00:13:11,050 - INFO -   Updating comprehensive context with chunk 9...
+2025-08-11 00:14:41,097 - INFO - Retrying request to /chat/completions in 0.453973 seconds
+2025-08-11 00:16:11,603 - INFO - Retrying request to /chat/completions in 0.904300 seconds
+2025-08-11 00:17:42,580 - ERROR -   Error generating context: Request timed out.
+2025-08-11 00:17:44,592 - INFO -   Chunk 9: chars 56342-64381
+2025-08-11 00:17:44,592 - INFO -     With context: 12365 total characters
+2025-08-11 00:17:44,593 - INFO -   Updating comprehensive context with chunk 10...
+2025-08-11 00:19:14,642 - INFO - Retrying request to /chat/completions in 0.385208 seconds
+2025-08-11 00:20:45,079 - INFO - Retrying request to /chat/completions in 0.899128 seconds
+2025-08-11 00:22:16,024 - ERROR -   Error generating context: Request timed out.
+2025-08-11 00:22:18,036 - INFO -   Chunk 10: chars 63385-71386
+2025-08-11 00:22:18,037 - INFO -     With context: 12327 total characters
+2025-08-11 00:22:18,037 - INFO -   Updating comprehensive context with chunk 11...
+2025-08-11 00:23:48,085 - INFO - Retrying request to /chat/completions in 0.458201 seconds
+2025-08-11 00:25:18,596 - INFO - Retrying request to /chat/completions in 0.880784 seconds
+2025-08-11 00:26:41,159 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:26:41,164 - INFO -   Updated comprehensive context (3724 chars)
+2025-08-11 00:26:43,172 - INFO -   Chunk 11: chars 70379-78372
+2025-08-11 00:26:43,172 - INFO -     With context: 11778 total characters
+2025-08-11 00:26:43,173 - INFO -   Updating comprehensive context with chunk 12...
+2025-08-11 00:28:11,842 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:28:11,847 - INFO -   Updated comprehensive context (4200 chars)
+2025-08-11 00:28:13,849 - INFO -   Chunk 12: chars 77277-85289
+2025-08-11 00:28:13,849 - INFO -     With context: 12273 total characters
+2025-08-11 00:28:13,850 - INFO -   Updating comprehensive context with chunk 13...
+2025-08-11 00:29:43,857 - INFO - Retrying request to /chat/completions in 0.457285 seconds
+2025-08-11 00:31:14,381 - INFO - Retrying request to /chat/completions in 0.999467 seconds
+2025-08-11 00:32:45,425 - ERROR -   Error generating context: Request timed out.
+2025-08-11 00:32:47,433 - INFO -   Chunk 13: chars 84270-92268
+2025-08-11 00:32:47,433 - INFO -     With context: 12259 total characters
+2025-08-11 00:32:47,434 - INFO -   Updating comprehensive context with chunk 14...
+2025-08-11 00:34:17,477 - INFO - Retrying request to /chat/completions in 0.449469 seconds
+2025-08-11 00:35:47,983 - INFO - Retrying request to /chat/completions in 0.911956 seconds
+2025-08-11 00:37:18,951 - ERROR -   Error generating context: Request timed out.
+2025-08-11 00:37:20,961 - INFO -   Chunk 14: chars 91272-95327
+2025-08-11 00:37:20,962 - INFO -     With context: 8316 total characters
+2025-08-11 00:37:20,962 - INFO -   Created 14 chunks with comprehensive context
+2025-08-11 00:37:20,962 - INFO -   Final context size: 4200 characters
+2025-08-11 00:37:20,966 - INFO -   Saved: Lera_Auerbach_chunk_001.md (8,158 chars)
+2025-08-11 00:37:20,967 - INFO -   Saved: Lera_Auerbach_chunk_002.md (11,320 chars)
+2025-08-11 00:37:20,968 - INFO -   Saved: Lera_Auerbach_chunk_003.md (11,414 chars)
+2025-08-11 00:37:20,969 - INFO -   Saved: Lera_Auerbach_chunk_004.md (12,118 chars)
+2025-08-11 00:37:20,969 - INFO -   Saved: Lera_Auerbach_chunk_005.md (11,405 chars)
+2025-08-11 00:37:20,969 - INFO -   Saved: Lera_Auerbach_chunk_006.md (12,059 chars)
+2025-08-11 00:37:20,970 - INFO -   Saved: Lera_Auerbach_chunk_007.md (12,540 chars)
+2025-08-11 00:37:20,970 - INFO -   Saved: Lera_Auerbach_chunk_008.md (12,569 chars)
+2025-08-11 00:37:20,970 - INFO -   Saved: Lera_Auerbach_chunk_009.md (12,604 chars)
+2025-08-11 00:37:20,970 - INFO -   Saved: Lera_Auerbach_chunk_010.md (12,567 chars)
+2025-08-11 00:37:20,971 - INFO -   Saved: Lera_Auerbach_chunk_011.md (12,018 chars)
+2025-08-11 00:37:20,971 - INFO -   Saved: Lera_Auerbach_chunk_012.md (12,513 chars)
+2025-08-11 00:37:20,971 - INFO -   Saved: Lera_Auerbach_chunk_013.md (12,499 chars)
+2025-08-11 00:37:20,972 - INFO -   Saved: Lera_Auerbach_chunk_014.md (8,555 chars)
+2025-08-11 00:37:20,972 - INFO -   Saved context: Lera_Auerbach_CONTEXT.md
+2025-08-11 00:37:20,972 - INFO -   ✅ Created 14 chunks from Lera_Auerbach.md
+2025-08-11 00:37:20,972 - INFO -      Context: 4200 characters
+2025-08-11 00:37:22,977 - INFO - [4/19] Processing: Weir_is_a_creature_of_the_theatre_and_it_shows.md
+2025-08-11 00:37:22,979 - INFO -   File size: 18,685 characters
+2025-08-11 00:37:22,980 - INFO -   Extracting comprehensive context from first chunk...
+2025-08-11 00:37:48,208 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:37:48,212 - INFO -   Updated comprehensive context (1443 chars)
+2025-08-11 00:37:50,223 - INFO -   Chunk 1: chars 0-8192
+2025-08-11 00:37:50,223 - INFO -     With context: 8192 total characters
+2025-08-11 00:37:50,224 - INFO -   Updating comprehensive context with chunk 2...
+2025-08-11 00:38:39,293 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:38:39,296 - INFO -   Updated comprehensive context (2666 chars)
+2025-08-11 00:38:41,303 - INFO -   Chunk 2: chars 7158-15153
+2025-08-11 00:38:41,304 - INFO -     With context: 10722 total characters
+2025-08-11 00:38:41,304 - INFO -   Updating comprehensive context with chunk 3...
+2025-08-11 00:39:36,274 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:39:36,277 - INFO -   Updated comprehensive context (2839 chars)
+2025-08-11 00:39:38,288 - INFO -   Chunk 3: chars 14188-18685
+2025-08-11 00:39:38,288 - INFO -     With context: 7397 total characters
+2025-08-11 00:39:38,288 - INFO -   Created 3 chunks with comprehensive context
+2025-08-11 00:39:38,288 - INFO -   Final context size: 2839 characters
+2025-08-11 00:39:38,290 - INFO -   Saved: Weir_is_a_creature_of_the_theatre_and_it_shows_chunk_001.md (8,461 chars)
+2025-08-11 00:39:38,291 - INFO -   Saved: Weir_is_a_creature_of_the_theatre_and_it_shows_chunk_002.md (10,993 chars)
+2025-08-11 00:39:38,292 - INFO -   Saved: Weir_is_a_creature_of_the_theatre_and_it_shows_chunk_003.md (7,667 chars)
+2025-08-11 00:39:38,292 - INFO -   Saved context: Weir_is_a_creature_of_the_theatre_and_it_shows_CONTEXT.md
+2025-08-11 00:39:38,293 - INFO -   ✅ Created 3 chunks from Weir_is_a_creature_of_the_theatre_and_it_shows.md
+2025-08-11 00:39:38,293 - INFO -      Context: 2839 characters
+2025-08-11 00:39:40,298 - INFO - [5/19] Processing: Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 00:39:40,302 - INFO -   File size: 187,281 characters
+2025-08-11 00:39:40,303 - INFO -   Extracting comprehensive context from first chunk...
+2025-08-11 00:40:57,391 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:40:57,395 - INFO -   Updated comprehensive context (3120 chars)
+2025-08-11 00:40:59,404 - INFO -   Chunk 1: chars 0-7904
+2025-08-11 00:40:59,405 - INFO -     With context: 7904 total characters
+2025-08-11 00:40:59,405 - INFO -   Updating comprehensive context with chunk 2...
+2025-08-11 00:41:39,399 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:41:39,403 - INFO -   Updated comprehensive context (1998 chars)
+2025-08-11 00:41:41,412 - INFO -   Chunk 2: chars 6971-14986
+2025-08-11 00:41:41,412 - INFO -     With context: 10074 total characters
+2025-08-11 00:41:41,413 - INFO -   Updating comprehensive context with chunk 3...
+2025-08-11 00:42:40,745 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:42:40,748 - INFO -   Updated comprehensive context (2956 chars)
+2025-08-11 00:42:42,756 - INFO -   Chunk 3: chars 14034-22076
+2025-08-11 00:42:42,757 - INFO -     With context: 11059 total characters
+2025-08-11 00:42:42,757 - INFO -   Updating comprehensive context with chunk 4...
+2025-08-11 00:43:56,630 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:43:56,633 - INFO -   Updated comprehensive context (3515 chars)
+2025-08-11 00:43:58,642 - INFO -   Chunk 4: chars 21069-29060
+2025-08-11 00:43:58,643 - INFO -     With context: 11567 total characters
+2025-08-11 00:43:58,644 - INFO -   Updating comprehensive context with chunk 5...
+2025-08-11 00:45:28,654 - INFO - Retrying request to /chat/completions in 0.400111 seconds
+2025-08-11 00:46:59,137 - INFO - Retrying request to /chat/completions in 0.780411 seconds
+2025-08-11 00:48:29,968 - ERROR -   Error generating context: Request timed out.
+2025-08-11 00:48:31,981 - INFO -   Chunk 5: chars 28055-36184
+2025-08-11 00:48:31,982 - INFO -     With context: 11705 total characters
+2025-08-11 00:48:31,982 - INFO -   Updating comprehensive context with chunk 6...
+2025-08-11 00:50:02,032 - INFO - Retrying request to /chat/completions in 0.495875 seconds
+2025-08-11 00:51:32,584 - INFO - Retrying request to /chat/completions in 0.765659 seconds
+2025-08-11 00:53:03,403 - ERROR -   Error generating context: Request timed out.
+2025-08-11 00:53:05,412 - INFO -   Chunk 6: chars 35247-43232
+2025-08-11 00:53:05,413 - INFO -     With context: 11561 total characters
+2025-08-11 00:53:05,413 - INFO -   Updating comprehensive context with chunk 7...
+2025-08-11 00:54:35,453 - INFO - Retrying request to /chat/completions in 0.385787 seconds
+2025-08-11 00:55:30,261 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:55:30,266 - INFO -   Updated comprehensive context (2876 chars)
+2025-08-11 00:55:32,276 - INFO -   Chunk 7: chars 42230-50278
+2025-08-11 00:55:32,277 - INFO -     With context: 10985 total characters
+2025-08-11 00:55:32,277 - INFO -   Updating comprehensive context with chunk 8...
+2025-08-11 00:56:47,182 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 00:56:47,186 - INFO -   Updated comprehensive context (3903 chars)
+2025-08-11 00:56:49,190 - INFO -   Chunk 8: chars 49258-57237
+2025-08-11 00:56:49,190 - INFO -     With context: 11943 total characters
+2025-08-11 00:56:49,191 - INFO -   Updating comprehensive context with chunk 9...
+2025-08-11 00:58:19,203 - INFO - Retrying request to /chat/completions in 0.421401 seconds
+2025-08-11 00:59:49,700 - INFO - Retrying request to /chat/completions in 0.769128 seconds
+2025-08-11 01:01:20,530 - ERROR -   Error generating context: Request timed out.
+2025-08-11 01:01:22,542 - INFO -   Chunk 9: chars 56227-64121
+2025-08-11 01:01:22,542 - INFO -     With context: 11858 total characters
+2025-08-11 01:01:22,543 - INFO -   Updating comprehensive context with chunk 10...
+2025-08-11 01:02:52,037 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:02:52,041 - INFO -   Updated comprehensive context (5049 chars)
+2025-08-11 01:02:54,052 - INFO -   Chunk 10: chars 63109-71222
+2025-08-11 01:02:54,052 - INFO -     With context: 13223 total characters
+2025-08-11 01:02:54,053 - INFO -   Updating comprehensive context with chunk 11...
+2025-08-11 01:03:55,625 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:03:55,630 - INFO -   Updated comprehensive context (3116 chars)
+2025-08-11 01:03:57,640 - INFO -   Chunk 11: chars 70195-78221
+2025-08-11 01:03:57,641 - INFO -     With context: 11203 total characters
+2025-08-11 01:03:57,641 - INFO -   Updating comprehensive context with chunk 12...
+2025-08-11 01:04:56,653 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:04:56,657 - INFO -   Updated comprehensive context (2350 chars)
+2025-08-11 01:04:58,659 - INFO -   Chunk 12: chars 77188-85126
+2025-08-11 01:04:58,659 - INFO -     With context: 10349 total characters
+2025-08-11 01:04:58,660 - INFO -   Updating comprehensive context with chunk 13...
+2025-08-11 01:05:58,908 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:05:58,912 - INFO -   Updated comprehensive context (2601 chars)
+2025-08-11 01:06:00,922 - INFO -   Chunk 13: chars 84153-92142
+2025-08-11 01:06:00,923 - INFO -     With context: 10651 total characters
+2025-08-11 01:06:00,923 - INFO -   Updating comprehensive context with chunk 14...
+2025-08-11 01:07:10,092 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:07:10,096 - INFO -   Updated comprehensive context (3340 chars)
+2025-08-11 01:07:12,102 - INFO -   Chunk 14: chars 91102-99292
+2025-08-11 01:07:12,103 - INFO -     With context: 11591 total characters
+2025-08-11 01:07:12,103 - INFO -   Updating comprehensive context with chunk 15...
+2025-08-11 01:08:42,114 - INFO - Retrying request to /chat/completions in 0.413828 seconds
+2025-08-11 01:10:12,617 - INFO - Retrying request to /chat/completions in 0.799306 seconds
+2025-08-11 01:11:43,468 - ERROR -   Error generating context: Request timed out.
+2025-08-11 01:11:45,475 - INFO -   Chunk 15: chars 98290-106357
+2025-08-11 01:11:45,476 - INFO -     With context: 11468 total characters
+2025-08-11 01:11:45,476 - INFO -   Updating comprehensive context with chunk 16...
+2025-08-11 01:13:15,543 - INFO - Retrying request to /chat/completions in 0.445178 seconds
+2025-08-11 01:14:46,036 - INFO - Retrying request to /chat/completions in 0.998685 seconds
+2025-08-11 01:16:17,108 - ERROR -   Error generating context: Request timed out.
+2025-08-11 01:16:19,114 - INFO -   Chunk 16: chars 105391-113450
+2025-08-11 01:16:19,115 - INFO -     With context: 11460 total characters
+2025-08-11 01:16:19,116 - INFO -   Updating comprehensive context with chunk 17...
+2025-08-11 01:17:49,160 - INFO - Retrying request to /chat/completions in 0.412451 seconds
+2025-08-11 01:19:19,631 - INFO - Retrying request to /chat/completions in 0.866893 seconds
+2025-08-11 01:20:50,547 - ERROR -   Error generating context: Request timed out.
+2025-08-11 01:20:52,551 - INFO -   Chunk 17: chars 112448-120429
+2025-08-11 01:20:52,552 - INFO -     With context: 11382 total characters
+2025-08-11 01:20:52,553 - INFO -   Updating comprehensive context with chunk 18...
+2025-08-11 01:22:22,609 - INFO - Retrying request to /chat/completions in 0.469803 seconds
+2025-08-11 01:23:49,153 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:23:49,157 - INFO -   Updated comprehensive context (4473 chars)
+2025-08-11 01:23:51,167 - INFO -   Chunk 18: chars 119330-127387
+2025-08-11 01:23:51,168 - INFO -     With context: 12591 total characters
+2025-08-11 01:23:51,169 - INFO -   Updating comprehensive context with chunk 19...
+2025-08-11 01:25:21,176 - INFO - Retrying request to /chat/completions in 0.474874 seconds
+2025-08-11 01:26:51,702 - INFO - Retrying request to /chat/completions in 0.922118 seconds
+2025-08-11 01:28:22,681 - ERROR -   Error generating context: Request timed out.
+2025-08-11 01:28:24,684 - INFO -   Chunk 19: chars 126426-134287
+2025-08-11 01:28:24,685 - INFO -     With context: 12395 total characters
+2025-08-11 01:28:24,685 - INFO -   Updating comprehensive context with chunk 20...
+2025-08-11 01:29:54,730 - INFO - Retrying request to /chat/completions in 0.376167 seconds
+2025-08-11 01:31:25,151 - INFO - Retrying request to /chat/completions in 0.862385 seconds
+2025-08-11 01:32:56,061 - ERROR -   Error generating context: Request timed out.
+2025-08-11 01:32:58,065 - INFO -   Chunk 20: chars 133299-141299
+2025-08-11 01:32:58,065 - INFO -     With context: 12534 total characters
+2025-08-11 01:32:58,066 - INFO -   Updating comprehensive context with chunk 21...
+2025-08-11 01:34:28,115 - INFO - Retrying request to /chat/completions in 0.489497 seconds
+2025-08-11 01:35:58,661 - INFO - Retrying request to /chat/completions in 0.933311 seconds
+2025-08-11 01:37:29,676 - ERROR -   Error generating context: Request timed out.
+2025-08-11 01:37:31,679 - INFO -   Chunk 21: chars 140384-148331
+2025-08-11 01:37:31,680 - INFO -     With context: 12481 total characters
+2025-08-11 01:37:31,680 - INFO -   Updating comprehensive context with chunk 22...
+2025-08-11 01:38:10,261 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:38:10,265 - INFO -   Updated comprehensive context (2212 chars)
+2025-08-11 01:38:12,269 - INFO -   Chunk 22: chars 147242-155367
+2025-08-11 01:38:12,270 - INFO -     With context: 10398 total characters
+2025-08-11 01:38:12,270 - INFO -   Updating comprehensive context with chunk 23...
+2025-08-11 01:38:57,302 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:38:57,305 - INFO -   Updated comprehensive context (2442 chars)
+2025-08-11 01:38:59,306 - INFO -   Chunk 23: chars 154290-162137
+2025-08-11 01:38:59,306 - INFO -     With context: 10350 total characters
+2025-08-11 01:38:59,307 - INFO -   Updating comprehensive context with chunk 24...
+2025-08-11 01:39:49,444 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:39:49,448 - INFO -   Updated comprehensive context (2634 chars)
+2025-08-11 01:39:51,455 - INFO -   Chunk 24: chars 161121-169151
+2025-08-11 01:39:51,456 - INFO -     With context: 10725 total characters
+2025-08-11 01:39:51,456 - INFO -   Updating comprehensive context with chunk 25...
+2025-08-11 01:41:03,358 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:41:03,362 - INFO -   Updated comprehensive context (4035 chars)
+2025-08-11 01:41:05,372 - INFO -   Chunk 25: chars 168158-176016
+2025-08-11 01:41:05,373 - INFO -     With context: 11954 total characters
+2025-08-11 01:41:05,373 - INFO -   Updating comprehensive context with chunk 26...
+2025-08-11 01:42:35,383 - INFO - Retrying request to /chat/completions in 0.496608 seconds
+2025-08-11 01:44:05,956 - INFO - Retrying request to /chat/completions in 0.991384 seconds
+2025-08-11 01:45:36,992 - ERROR -   Error generating context: Request timed out.
+2025-08-11 01:45:38,998 - INFO -   Chunk 26: chars 175101-183020
+2025-08-11 01:45:38,999 - INFO -     With context: 12015 total characters
+2025-08-11 01:45:39,000 - INFO -   Updating comprehensive context with chunk 27...
+2025-08-11 01:47:03,372 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:47:03,378 - INFO -   Updated comprehensive context (5149 chars)
+2025-08-11 01:47:05,388 - INFO -   Chunk 27: chars 182069-187281
+2025-08-11 01:47:05,389 - INFO -     With context: 10422 total characters
+2025-08-11 01:47:05,389 - INFO -   Created 27 chunks with comprehensive context
+2025-08-11 01:47:05,389 - INFO -   Final context size: 5149 characters
+2025-08-11 01:47:05,391 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_001.md (8,167 chars)
+2025-08-11 01:47:05,392 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_002.md (10,339 chars)
+2025-08-11 01:47:05,393 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_003.md (11,324 chars)
+2025-08-11 01:47:05,394 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_004.md (11,832 chars)
+2025-08-11 01:47:05,394 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_005.md (11,970 chars)
+2025-08-11 01:47:05,395 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_006.md (11,826 chars)
+2025-08-11 01:47:05,396 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_007.md (11,250 chars)
+2025-08-11 01:47:05,396 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_008.md (12,208 chars)
+2025-08-11 01:47:05,396 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_009.md (12,123 chars)
+2025-08-11 01:47:05,397 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_010.md (13,489 chars)
+2025-08-11 01:47:05,397 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_011.md (11,469 chars)
+2025-08-11 01:47:05,397 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_012.md (10,615 chars)
+2025-08-11 01:47:05,397 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_013.md (10,917 chars)
+2025-08-11 01:47:05,398 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_014.md (11,857 chars)
+2025-08-11 01:47:05,398 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_015.md (11,734 chars)
+2025-08-11 01:47:05,398 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_016.md (11,726 chars)
+2025-08-11 01:47:05,399 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_017.md (11,648 chars)
+2025-08-11 01:47:05,399 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_018.md (12,857 chars)
+2025-08-11 01:47:05,399 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_019.md (12,661 chars)
+2025-08-11 01:47:05,400 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_020.md (12,800 chars)
+2025-08-11 01:47:05,400 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_021.md (12,747 chars)
+2025-08-11 01:47:05,400 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_022.md (10,664 chars)
+2025-08-11 01:47:05,400 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_023.md (10,616 chars)
+2025-08-11 01:47:05,401 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_024.md (10,991 chars)
+2025-08-11 01:47:05,401 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_025.md (12,220 chars)
+2025-08-11 01:47:05,401 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_026.md (12,281 chars)
+2025-08-11 01:47:05,402 - INFO -   Saved: Musik_für_Orchester_Music_for_Orchestra_chunk_027.md (10,688 chars)
+2025-08-11 01:47:05,402 - INFO -   Saved context: Musik_für_Orchester_Music_for_Orchestra_CONTEXT.md
+2025-08-11 01:47:05,402 - INFO -   ✅ Created 27 chunks from Musik_für_Orchester_Music_for_Orchestra.md
+2025-08-11 01:47:05,402 - INFO -      Context: 5149 characters
+2025-08-11 01:47:07,406 - INFO - [6/19] Processing: lowa_Research_Online.md
+2025-08-11 01:47:07,413 - INFO -   File size: 644,155 characters
+2025-08-11 01:47:07,414 - INFO -   Extracting comprehensive context from first chunk...
+2025-08-11 01:47:31,024 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:47:31,028 - INFO -   Updated comprehensive context (1401 chars)
+2025-08-11 01:47:33,038 - INFO -   Chunk 1: chars 0-8066
+2025-08-11 01:47:33,039 - INFO -     With context: 8066 total characters
+2025-08-11 01:47:33,039 - INFO -   Updating comprehensive context with chunk 2...
+2025-08-11 01:48:06,360 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:48:06,364 - INFO -   Updated comprehensive context (2203 chars)
+2025-08-11 01:48:08,368 - INFO -   Chunk 2: chars 7118-15073
+2025-08-11 01:48:08,368 - INFO -     With context: 10219 total characters
+2025-08-11 01:48:08,369 - INFO -   Updating comprehensive context with chunk 3...
+2025-08-11 01:48:59,228 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:48:59,232 - INFO -   Updated comprehensive context (3192 chars)
+2025-08-11 01:49:01,237 - INFO -   Chunk 3: chars 14014-22052
+2025-08-11 01:49:01,238 - INFO -     With context: 11291 total characters
+2025-08-11 01:49:01,238 - INFO -   Updating comprehensive context with chunk 4...
+2025-08-11 01:50:09,070 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:50:09,074 - INFO -   Updated comprehensive context (4263 chars)
+2025-08-11 01:50:11,081 - INFO -   Chunk 4: chars 20985-29060
+2025-08-11 01:50:11,081 - INFO -     With context: 12399 total characters
+2025-08-11 01:50:11,082 - INFO -   Updating comprehensive context with chunk 5...
+2025-08-11 01:51:32,338 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 01:51:32,342 - INFO -   Updated comprehensive context (5330 chars)
+2025-08-11 01:51:34,346 - INFO -   Chunk 5: chars 28029-36135
+2025-08-11 01:51:34,346 - INFO -     With context: 13497 total characters
+2025-08-11 01:51:34,347 - INFO -   Updating comprehensive context with chunk 6...
+2025-08-11 01:53:04,356 - INFO - Retrying request to /chat/completions in 0.402174 seconds
+2025-08-11 01:54:34,837 - INFO - Retrying request to /chat/completions in 0.848007 seconds
+2025-08-11 01:56:05,736 - ERROR -   Error generating context: Request timed out.
+2025-08-11 01:56:07,744 - INFO -   Chunk 6: chars 35131-43032
+2025-08-11 01:56:07,745 - INFO -     With context: 13292 total characters
+2025-08-11 01:56:07,745 - INFO -   Updating comprehensive context with chunk 7...
+2025-08-11 01:57:37,792 - INFO - Retrying request to /chat/completions in 0.386663 seconds
+2025-08-11 01:59:08,247 - INFO - Retrying request to /chat/completions in 0.931670 seconds
+2025-08-11 02:00:38,910 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 02:00:38,916 - INFO -   Updated comprehensive context (6146 chars)
+2025-08-11 02:00:40,926 - INFO -   Chunk 7: chars 42017-50190
+2025-08-11 02:00:40,927 - INFO -     With context: 14380 total characters
+2025-08-11 02:00:40,928 - INFO -   Updating comprehensive context with chunk 8...
+2025-08-11 02:02:10,939 - INFO - Retrying request to /chat/completions in 0.392001 seconds
+2025-08-11 02:03:41,390 - INFO - Retrying request to /chat/completions in 0.769019 seconds
+2025-08-11 02:05:12,229 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:05:14,233 - INFO -   Chunk 8: chars 49288-57186
+2025-08-11 02:05:14,234 - INFO -     With context: 14105 total characters
+2025-08-11 02:05:14,234 - INFO -   Updating comprehensive context with chunk 9...
+2025-08-11 02:06:44,283 - INFO - Retrying request to /chat/completions in 0.377045 seconds
+2025-08-11 02:08:14,713 - INFO - Retrying request to /chat/completions in 0.960492 seconds
+2025-08-11 02:09:45,728 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:09:47,738 - INFO -   Chunk 9: chars 56204-64123
+2025-08-11 02:09:47,738 - INFO -     With context: 14126 total characters
+2025-08-11 02:09:47,739 - INFO -   Updating comprehensive context with chunk 10...
+2025-08-11 02:11:17,792 - INFO - Retrying request to /chat/completions in 0.444061 seconds
+2025-08-11 02:12:48,308 - INFO - Retrying request to /chat/completions in 0.794497 seconds
+2025-08-11 02:14:19,178 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:14:21,185 - INFO -   Chunk 10: chars 63097-71078
+2025-08-11 02:14:21,186 - INFO -     With context: 14188 total characters
+2025-08-11 02:14:21,187 - INFO -   Updating comprehensive context with chunk 11...
+2025-08-11 02:15:51,232 - INFO - Retrying request to /chat/completions in 0.406277 seconds
+2025-08-11 02:17:21,690 - INFO - Retrying request to /chat/completions in 0.897134 seconds
+2025-08-11 02:18:52,669 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:18:54,681 - INFO -   Chunk 11: chars 70104-78103
+2025-08-11 02:18:54,682 - INFO -     With context: 14206 total characters
+2025-08-11 02:18:54,683 - INFO -   Updating comprehensive context with chunk 12...
+2025-08-11 02:20:24,722 - INFO - Retrying request to /chat/completions in 0.422744 seconds
+2025-08-11 02:21:55,202 - INFO - Retrying request to /chat/completions in 0.827526 seconds
+2025-08-11 02:23:26,083 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:23:28,089 - INFO -   Chunk 12: chars 77095-85088
+2025-08-11 02:23:28,089 - INFO -     With context: 14200 total characters
+2025-08-11 02:23:28,090 - INFO -   Updating comprehensive context with chunk 13...
+2025-08-11 02:24:58,135 - INFO - Retrying request to /chat/completions in 0.479262 seconds
+2025-08-11 02:26:28,665 - INFO - Retrying request to /chat/completions in 0.793935 seconds
+2025-08-11 02:27:59,501 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:28:01,506 - INFO -   Chunk 13: chars 84074-92073
+2025-08-11 02:28:01,507 - INFO -     With context: 14206 total characters
+2025-08-11 02:28:01,507 - INFO -   Updating comprehensive context with chunk 14...
+2025-08-11 02:29:31,554 - INFO - Retrying request to /chat/completions in 0.402627 seconds
+2025-08-11 02:31:02,008 - INFO - Retrying request to /chat/completions in 0.909259 seconds
+2025-08-11 02:32:32,955 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:32:34,956 - INFO -   Chunk 14: chars 91069-99061
+2025-08-11 02:32:34,957 - INFO -     With context: 14199 total characters
+2025-08-11 02:32:34,957 - INFO -   Updating comprehensive context with chunk 15...
+2025-08-11 02:34:04,995 - INFO - Retrying request to /chat/completions in 0.411273 seconds
+2025-08-11 02:35:35,463 - INFO - Retrying request to /chat/completions in 0.961021 seconds
+2025-08-11 02:37:06,480 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:37:08,484 - INFO -   Chunk 15: chars 98142-106146
+2025-08-11 02:37:08,485 - INFO -     With context: 14211 total characters
+2025-08-11 02:37:08,486 - INFO -   Updating comprehensive context with chunk 16...
+2025-08-11 02:38:38,525 - INFO - Retrying request to /chat/completions in 0.400446 seconds
+2025-08-11 02:40:08,980 - INFO - Retrying request to /chat/completions in 0.906850 seconds
+2025-08-11 02:41:39,944 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:41:41,956 - INFO -   Chunk 16: chars 105105-113094
+2025-08-11 02:41:41,957 - INFO -     With context: 14196 total characters
+2025-08-11 02:41:41,957 - INFO -   Updating comprehensive context with chunk 17...
+2025-08-11 02:43:11,998 - INFO - Retrying request to /chat/completions in 0.476479 seconds
+2025-08-11 02:44:42,550 - INFO - Retrying request to /chat/completions in 0.820117 seconds
+2025-08-11 02:46:13,426 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:46:15,432 - INFO -   Chunk 17: chars 112019-120012
+2025-08-11 02:46:15,432 - INFO -     With context: 14200 total characters
+2025-08-11 02:46:15,433 - INFO -   Updating comprehensive context with chunk 18...
+2025-08-11 02:47:45,478 - INFO - Retrying request to /chat/completions in 0.384185 seconds
+2025-08-11 02:49:15,939 - INFO - Retrying request to /chat/completions in 0.932509 seconds
+2025-08-11 02:50:46,928 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:50:48,939 - INFO -   Chunk 18: chars 119028-127040
+2025-08-11 02:50:48,940 - INFO -     With context: 14219 total characters
+2025-08-11 02:50:48,941 - INFO -   Updating comprehensive context with chunk 19...
+2025-08-11 02:52:18,992 - INFO - Retrying request to /chat/completions in 0.435560 seconds
+2025-08-11 02:53:49,480 - INFO - Retrying request to /chat/completions in 0.868217 seconds
+2025-08-11 02:55:20,400 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:55:22,408 - INFO -   Chunk 19: chars 126001-134183
+2025-08-11 02:55:22,408 - INFO -     With context: 14389 total characters
+2025-08-11 02:55:22,409 - INFO -   Updating comprehensive context with chunk 20...
+2025-08-11 02:56:52,458 - INFO - Retrying request to /chat/completions in 0.387539 seconds
+2025-08-11 02:58:22,891 - INFO - Retrying request to /chat/completions in 0.889320 seconds
+2025-08-11 02:59:53,831 - ERROR -   Error generating context: Request timed out.
+2025-08-11 02:59:55,837 - INFO -   Chunk 20: chars 133164-141167
+2025-08-11 02:59:55,837 - INFO -     With context: 14210 total characters
+2025-08-11 02:59:55,838 - INFO -   Updating comprehensive context with chunk 21...
+2025-08-11 03:01:25,873 - INFO - Retrying request to /chat/completions in 0.405938 seconds
+2025-08-11 03:02:56,330 - INFO - Retrying request to /chat/completions in 0.804181 seconds
+2025-08-11 03:04:27,198 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:04:29,207 - INFO -   Chunk 21: chars 140160-148178
+2025-08-11 03:04:29,208 - INFO -     With context: 14225 total characters
+2025-08-11 03:04:29,208 - INFO -   Updating comprehensive context with chunk 22...
+2025-08-11 03:05:59,260 - INFO - Retrying request to /chat/completions in 0.430648 seconds
+2025-08-11 03:07:29,737 - INFO - Retrying request to /chat/completions in 0.896012 seconds
+2025-08-11 03:09:00,684 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:09:02,695 - INFO -   Chunk 22: chars 147164-155263
+2025-08-11 03:09:02,695 - INFO -     With context: 14306 total characters
+2025-08-11 03:09:02,696 - INFO -   Updating comprehensive context with chunk 23...
+2025-08-11 03:10:32,740 - INFO - Retrying request to /chat/completions in 0.477783 seconds
+2025-08-11 03:12:03,279 - INFO - Retrying request to /chat/completions in 0.926098 seconds
+2025-08-11 03:13:34,284 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:13:36,287 - INFO -   Chunk 23: chars 154234-162213
+2025-08-11 03:13:36,287 - INFO -     With context: 14186 total characters
+2025-08-11 03:13:36,288 - INFO -   Updating comprehensive context with chunk 24...
+2025-08-11 03:15:06,334 - INFO - Retrying request to /chat/completions in 0.455744 seconds
+2025-08-11 03:16:36,842 - INFO - Retrying request to /chat/completions in 0.904914 seconds
+2025-08-11 03:18:07,803 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:18:09,813 - INFO -   Chunk 24: chars 161220-169361
+2025-08-11 03:18:09,813 - INFO -     With context: 14348 total characters
+2025-08-11 03:18:09,814 - INFO -   Updating comprehensive context with chunk 25...
+2025-08-11 03:19:39,864 - INFO - Retrying request to /chat/completions in 0.417245 seconds
+2025-08-11 03:21:10,330 - INFO - Retrying request to /chat/completions in 0.765771 seconds
+2025-08-11 03:22:41,142 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:22:43,145 - INFO -   Chunk 25: chars 168338-176153
+2025-08-11 03:22:43,146 - INFO -     With context: 14022 total characters
+2025-08-11 03:22:43,147 - INFO -   Updating comprehensive context with chunk 26...
+2025-08-11 03:24:13,193 - INFO - Retrying request to /chat/completions in 0.387726 seconds
+2025-08-11 03:25:43,637 - INFO - Retrying request to /chat/completions in 0.980066 seconds
+2025-08-11 03:27:14,669 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:27:16,682 - INFO -   Chunk 26: chars 175206-183222
+2025-08-11 03:27:16,683 - INFO -     With context: 14223 total characters
+2025-08-11 03:27:16,683 - INFO -   Updating comprehensive context with chunk 27...
+2025-08-11 03:28:46,726 - INFO - Retrying request to /chat/completions in 0.396680 seconds
+2025-08-11 03:30:17,182 - INFO - Retrying request to /chat/completions in 0.880595 seconds
+2025-08-11 03:31:48,107 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:31:50,119 - INFO -   Chunk 27: chars 182229-190229
+2025-08-11 03:31:50,119 - INFO -     With context: 14207 total characters
+2025-08-11 03:31:50,120 - INFO -   Updating comprehensive context with chunk 28...
+2025-08-11 03:33:20,163 - INFO - Retrying request to /chat/completions in 0.433103 seconds
+2025-08-11 03:34:50,651 - INFO - Retrying request to /chat/completions in 0.807461 seconds
+2025-08-11 03:36:21,510 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:36:23,523 - INFO -   Chunk 28: chars 189262-197265
+2025-08-11 03:36:23,529 - INFO -     With context: 14210 total characters
+2025-08-11 03:36:23,535 - INFO -   Updating comprehensive context with chunk 29...
+2025-08-11 03:37:53,607 - INFO - Retrying request to /chat/completions in 0.439800 seconds
+2025-08-11 03:39:24,089 - INFO - Retrying request to /chat/completions in 0.753020 seconds
+2025-08-11 03:40:54,892 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:40:56,900 - INFO -   Chunk 29: chars 196263-204397
+2025-08-11 03:40:56,900 - INFO -     With context: 14341 total characters
+2025-08-11 03:40:56,901 - INFO -   Updating comprehensive context with chunk 30...
+2025-08-11 03:42:26,948 - INFO - Retrying request to /chat/completions in 0.402330 seconds
+2025-08-11 03:43:57,399 - INFO - Retrying request to /chat/completions in 0.834846 seconds
+2025-08-11 03:45:28,319 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:45:30,325 - INFO -   Chunk 30: chars 203438-211440
+2025-08-11 03:45:30,326 - INFO -     With context: 14209 total characters
+2025-08-11 03:45:30,326 - INFO -   Updating comprehensive context with chunk 31...
+2025-08-11 03:47:00,370 - INFO - Retrying request to /chat/completions in 0.402263 seconds
+2025-08-11 03:48:30,828 - INFO - Retrying request to /chat/completions in 0.832825 seconds
+2025-08-11 03:50:01,737 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:50:03,747 - INFO -   Chunk 31: chars 210437-218393
+2025-08-11 03:50:03,748 - INFO -     With context: 14163 total characters
+2025-08-11 03:50:03,748 - INFO -   Updating comprehensive context with chunk 32...
+2025-08-11 03:51:33,800 - INFO - Retrying request to /chat/completions in 0.401661 seconds
+2025-08-11 03:53:04,248 - INFO - Retrying request to /chat/completions in 0.881420 seconds
+2025-08-11 03:54:35,189 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:54:37,202 - INFO -   Chunk 32: chars 217388-225201
+2025-08-11 03:54:37,202 - INFO -     With context: 14020 total characters
+2025-08-11 03:54:37,203 - INFO -   Updating comprehensive context with chunk 33...
+2025-08-11 03:56:07,251 - INFO - Retrying request to /chat/completions in 0.478225 seconds
+2025-08-11 03:57:37,786 - INFO - Retrying request to /chat/completions in 0.920396 seconds
+2025-08-11 03:59:08,754 - ERROR -   Error generating context: Request timed out.
+2025-08-11 03:59:10,764 - INFO -   Chunk 33: chars 224160-232171
+2025-08-11 03:59:10,765 - INFO -     With context: 14218 total characters
+2025-08-11 03:59:10,765 - INFO -   Updating comprehensive context with chunk 34...
+2025-08-11 04:00:40,810 - INFO - Retrying request to /chat/completions in 0.445403 seconds
+2025-08-11 04:02:11,311 - INFO - Retrying request to /chat/completions in 0.793770 seconds
+2025-08-11 04:03:42,161 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:03:44,168 - INFO -   Chunk 34: chars 231221-239215
+2025-08-11 04:03:44,168 - INFO -     With context: 14201 total characters
+2025-08-11 04:03:44,169 - INFO -   Updating comprehensive context with chunk 35...
+2025-08-11 04:05:14,216 - INFO - Retrying request to /chat/completions in 0.385076 seconds
+2025-08-11 04:06:44,649 - INFO - Retrying request to /chat/completions in 0.793874 seconds
+2025-08-11 04:08:15,491 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:08:17,502 - INFO -   Chunk 35: chars 238177-246166
+2025-08-11 04:08:17,503 - INFO -     With context: 14196 total characters
+2025-08-11 04:08:17,504 - INFO -   Updating comprehensive context with chunk 36...
+2025-08-11 04:09:47,547 - INFO - Retrying request to /chat/completions in 0.476517 seconds
+2025-08-11 04:11:18,069 - INFO - Retrying request to /chat/completions in 0.845235 seconds
+2025-08-11 04:12:48,992 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:12:50,999 - INFO -   Chunk 36: chars 245202-253204
+2025-08-11 04:12:51,000 - INFO -     With context: 14209 total characters
+2025-08-11 04:12:51,000 - INFO -   Updating comprehensive context with chunk 37...
+2025-08-11 04:14:21,072 - INFO - Retrying request to /chat/completions in 0.449266 seconds
+2025-08-11 04:15:51,569 - INFO - Retrying request to /chat/completions in 0.851743 seconds
+2025-08-11 04:17:22,465 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:17:24,477 - INFO -   Chunk 37: chars 252265-260226
+2025-08-11 04:17:24,477 - INFO -     With context: 14168 total characters
+2025-08-11 04:17:24,477 - INFO -   Updating comprehensive context with chunk 38...
+2025-08-11 04:18:54,518 - INFO - Retrying request to /chat/completions in 0.433345 seconds
+2025-08-11 04:20:25,013 - INFO - Retrying request to /chat/completions in 0.762007 seconds
+2025-08-11 04:21:55,822 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:21:57,830 - INFO -   Chunk 38: chars 259220-267083
+2025-08-11 04:21:57,830 - INFO -     With context: 14070 total characters
+2025-08-11 04:21:57,831 - INFO -   Updating comprehensive context with chunk 39...
+2025-08-11 04:23:27,884 - INFO - Retrying request to /chat/completions in 0.385522 seconds
+2025-08-11 04:24:58,324 - INFO - Retrying request to /chat/completions in 0.846652 seconds
+2025-08-11 04:26:29,223 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:26:31,229 - INFO -   Chunk 39: chars 266071-274018
+2025-08-11 04:26:31,229 - INFO -     With context: 14154 total characters
+2025-08-11 04:26:31,230 - INFO -   Updating comprehensive context with chunk 40...
+2025-08-11 04:28:01,271 - INFO - Retrying request to /chat/completions in 0.421395 seconds
+2025-08-11 04:29:31,748 - INFO - Retrying request to /chat/completions in 0.969345 seconds
+2025-08-11 04:31:02,863 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:31:04,869 - INFO -   Chunk 40: chars 273022-281013
+2025-08-11 04:31:04,869 - INFO -     With context: 14198 total characters
+2025-08-11 04:31:04,870 - INFO -   Updating comprehensive context with chunk 41...
+2025-08-11 04:32:34,915 - INFO - Retrying request to /chat/completions in 0.411124 seconds
+2025-08-11 04:34:05,372 - INFO - Retrying request to /chat/completions in 0.976229 seconds
+2025-08-11 04:35:36,393 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:35:38,403 - INFO -   Chunk 41: chars 280018-288012
+2025-08-11 04:35:38,403 - INFO -     With context: 14201 total characters
+2025-08-11 04:35:38,404 - INFO -   Updating comprehensive context with chunk 42...
+2025-08-11 04:37:08,448 - INFO - Retrying request to /chat/completions in 0.377276 seconds
+2025-08-11 04:38:38,895 - INFO - Retrying request to /chat/completions in 0.808826 seconds
+2025-08-11 04:40:09,762 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:40:11,765 - INFO -   Chunk 42: chars 286993-295016
+2025-08-11 04:40:11,766 - INFO -     With context: 14230 total characters
+2025-08-11 04:40:11,766 - INFO -   Updating comprehensive context with chunk 43...
+2025-08-11 04:41:41,808 - INFO - Retrying request to /chat/completions in 0.426774 seconds
+2025-08-11 04:43:12,289 - INFO - Retrying request to /chat/completions in 0.757709 seconds
+2025-08-11 04:44:43,110 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:44:45,114 - INFO -   Chunk 43: chars 294095-302241
+2025-08-11 04:44:45,115 - INFO -     With context: 14353 total characters
+2025-08-11 04:44:45,116 - INFO -   Updating comprehensive context with chunk 44...
+2025-08-11 04:46:15,163 - INFO - Retrying request to /chat/completions in 0.444441 seconds
+2025-08-11 04:47:45,660 - INFO - Retrying request to /chat/completions in 0.827987 seconds
+2025-08-11 04:49:16,541 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:49:18,552 - INFO -   Chunk 44: chars 301274-309269
+2025-08-11 04:49:18,552 - INFO -     With context: 14202 total characters
+2025-08-11 04:49:18,553 - INFO -   Updating comprehensive context with chunk 45...
+2025-08-11 04:50:48,609 - INFO - Retrying request to /chat/completions in 0.465531 seconds
+2025-08-11 04:52:19,121 - INFO - Retrying request to /chat/completions in 0.916527 seconds
+2025-08-11 04:53:50,084 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:53:52,092 - INFO -   Chunk 45: chars 308272-316309
+2025-08-11 04:53:52,093 - INFO -     With context: 14244 total characters
+2025-08-11 04:53:52,093 - INFO -   Updating comprehensive context with chunk 46...
+2025-08-11 04:55:22,139 - INFO - Retrying request to /chat/completions in 0.430626 seconds
+2025-08-11 04:56:52,627 - INFO - Retrying request to /chat/completions in 0.839779 seconds
+2025-08-11 04:58:23,522 - ERROR -   Error generating context: Request timed out.
+2025-08-11 04:58:25,529 - INFO -   Chunk 46: chars 315241-323282
+2025-08-11 04:58:25,530 - INFO -     With context: 14248 total characters
+2025-08-11 04:58:25,530 - INFO -   Updating comprehensive context with chunk 47...
+2025-08-11 04:59:55,575 - INFO - Retrying request to /chat/completions in 0.393587 seconds
+2025-08-11 05:01:26,016 - INFO - Retrying request to /chat/completions in 0.890474 seconds
+2025-08-11 05:02:56,962 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:02:58,967 - INFO -   Chunk 47: chars 322307-330311
+2025-08-11 05:02:58,968 - INFO -     With context: 14211 total characters
+2025-08-11 05:02:58,969 - INFO -   Updating comprehensive context with chunk 48...
+2025-08-11 05:04:29,021 - INFO - Retrying request to /chat/completions in 0.420704 seconds
+2025-08-11 05:05:59,486 - INFO - Retrying request to /chat/completions in 0.985930 seconds
+2025-08-11 05:07:30,519 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:07:32,524 - INFO -   Chunk 48: chars 329310-337310
+2025-08-11 05:07:32,524 - INFO -     With context: 14207 total characters
+2025-08-11 05:07:32,525 - INFO -   Updating comprehensive context with chunk 49...
+2025-08-11 05:09:02,567 - INFO - Retrying request to /chat/completions in 0.486984 seconds
+2025-08-11 05:10:33,111 - INFO - Retrying request to /chat/completions in 0.972506 seconds
+2025-08-11 05:12:04,127 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:12:06,138 - INFO -   Chunk 49: chars 336309-344308
+2025-08-11 05:12:06,139 - INFO -     With context: 14206 total characters
+2025-08-11 05:12:06,139 - INFO -   Updating comprehensive context with chunk 50...
+2025-08-11 05:13:36,218 - INFO - Retrying request to /chat/completions in 0.422651 seconds
+2025-08-11 05:15:06,728 - INFO - Retrying request to /chat/completions in 0.840998 seconds
+2025-08-11 05:16:37,624 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:16:39,637 - INFO -   Chunk 50: chars 343300-351302
+2025-08-11 05:16:39,638 - INFO -     With context: 14209 total characters
+2025-08-11 05:16:39,638 - INFO -   Updating comprehensive context with chunk 51...
+2025-08-11 05:18:09,685 - INFO - Retrying request to /chat/completions in 0.388568 seconds
+2025-08-11 05:19:40,142 - INFO - Retrying request to /chat/completions in 0.942227 seconds
+2025-08-11 05:21:11,136 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:21:13,141 - INFO -   Chunk 51: chars 350306-358314
+2025-08-11 05:21:13,142 - INFO -     With context: 14215 total characters
+2025-08-11 05:21:13,142 - INFO -   Updating comprehensive context with chunk 52...
+2025-08-11 05:22:43,195 - INFO - Retrying request to /chat/completions in 0.395703 seconds
+2025-08-11 05:24:13,642 - INFO - Retrying request to /chat/completions in 0.912596 seconds
+2025-08-11 05:25:44,620 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:25:46,632 - INFO -   Chunk 52: chars 357320-365302
+2025-08-11 05:25:46,632 - INFO -     With context: 14189 total characters
+2025-08-11 05:25:46,633 - INFO -   Updating comprehensive context with chunk 53...
+2025-08-11 05:27:16,687 - INFO - Retrying request to /chat/completions in 0.457176 seconds
+2025-08-11 05:28:47,198 - INFO - Retrying request to /chat/completions in 0.837290 seconds
+2025-08-11 05:30:18,087 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:30:20,096 - INFO -   Chunk 53: chars 364306-372309
+2025-08-11 05:30:20,097 - INFO -     With context: 14210 total characters
+2025-08-11 05:30:20,098 - INFO -   Updating comprehensive context with chunk 54...
+2025-08-11 05:31:50,144 - INFO - Retrying request to /chat/completions in 0.421166 seconds
+2025-08-11 05:33:20,617 - INFO - Retrying request to /chat/completions in 0.862487 seconds
+2025-08-11 05:34:51,536 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:34:53,541 - INFO -   Chunk 54: chars 371387-379388
+2025-08-11 05:34:53,542 - INFO -     With context: 14208 total characters
+2025-08-11 05:34:53,543 - INFO -   Updating comprehensive context with chunk 55...
+2025-08-11 05:35:43,452 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 05:35:43,460 - INFO -   Updated comprehensive context (2150 chars)
+2025-08-11 05:35:45,471 - INFO -   Chunk 55: chars 378390-386374
+2025-08-11 05:35:45,471 - INFO -     With context: 10195 total characters
+2025-08-11 05:35:45,472 - INFO -   Updating comprehensive context with chunk 56...
+2025-08-11 05:37:15,482 - INFO - Retrying request to /chat/completions in 0.493639 seconds
+2025-08-11 05:38:46,035 - INFO - Retrying request to /chat/completions in 0.863255 seconds
+2025-08-11 05:40:16,977 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:40:18,989 - INFO -   Chunk 56: chars 385367-393373
+2025-08-11 05:40:18,990 - INFO -     With context: 10217 total characters
+2025-08-11 05:40:18,990 - INFO -   Updating comprehensive context with chunk 57...
+2025-08-11 05:41:49,034 - INFO - Retrying request to /chat/completions in 0.454414 seconds
+2025-08-11 05:43:19,543 - INFO - Retrying request to /chat/completions in 0.760223 seconds
+2025-08-11 05:44:50,379 - ERROR -   Error generating context: Request timed out.
+2025-08-11 05:44:52,389 - INFO -   Chunk 57: chars 392417-400344
+2025-08-11 05:44:52,390 - INFO -     With context: 10138 total characters
+2025-08-11 05:44:52,390 - INFO -   Updating comprehensive context with chunk 58...
+2025-08-11 05:46:22,465 - INFO - Retrying request to /chat/completions in 0.386588 seconds
+2025-08-11 05:46:57,857 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 05:46:57,861 - INFO -   Updated comprehensive context (1968 chars)
+2025-08-11 05:46:59,869 - INFO -   Chunk 58: chars 399344-407308
+2025-08-11 05:46:59,870 - INFO -     With context: 9993 total characters
+2025-08-11 05:46:59,870 - INFO -   Updating comprehensive context with chunk 59...
+2025-08-11 05:48:28,775 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 05:48:28,781 - INFO -   Updated comprehensive context (3799 chars)
+2025-08-11 05:48:30,791 - INFO -   Chunk 59: chars 406284-414288
+2025-08-11 05:48:30,792 - INFO -     With context: 11864 total characters
+2025-08-11 05:48:30,792 - INFO -   Updating comprehensive context with chunk 60...
+2025-08-11 05:49:56,142 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 05:49:56,147 - INFO -   Updated comprehensive context (4523 chars)
+2025-08-11 05:49:58,157 - INFO -   Chunk 60: chars 413292-421289
+2025-08-11 05:49:58,158 - INFO -     With context: 12581 total characters
+2025-08-11 05:49:58,158 - INFO -   Updating comprehensive context with chunk 61...
+2025-08-11 05:51:28,169 - INFO - Retrying request to /chat/completions in 0.499873 seconds
+2025-08-11 05:52:58,754 - INFO - Retrying request to /chat/completions in 0.849153 seconds
+2025-08-11 05:54:27,045 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 05:54:27,050 - INFO -   Updated comprehensive context (4619 chars)
+2025-08-11 05:54:29,050 - INFO -   Chunk 61: chars 420281-428270
+2025-08-11 05:54:29,051 - INFO -     With context: 12669 total characters
+2025-08-11 05:54:29,051 - INFO -   Updating comprehensive context with chunk 62...
+2025-08-11 05:55:39,488 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 05:55:39,492 - INFO -   Updated comprehensive context (3799 chars)
+2025-08-11 05:55:41,493 - INFO -   Chunk 62: chars 427267-435266
+2025-08-11 05:55:41,494 - INFO -     With context: 11859 total characters
+2025-08-11 05:55:41,495 - INFO -   Updating comprehensive context with chunk 63...
+2025-08-11 05:56:59,992 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 05:56:59,997 - INFO -   Updated comprehensive context (4378 chars)
+2025-08-11 05:57:01,997 - INFO -   Chunk 63: chars 434266-442261
+2025-08-11 05:57:01,998 - INFO -     With context: 12434 total characters
+2025-08-11 05:57:01,999 - INFO -   Updating comprehensive context with chunk 64...
+2025-08-11 05:58:11,712 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 05:58:11,716 - INFO -   Updated comprehensive context (3950 chars)
+2025-08-11 05:58:13,726 - INFO -   Chunk 64: chars 441208-449100
+2025-08-11 05:58:13,726 - INFO -     With context: 11903 total characters
+2025-08-11 05:58:13,727 - INFO -   Updating comprehensive context with chunk 65...
+2025-08-11 05:59:16,809 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 05:59:16,812 - INFO -   Updated comprehensive context (3862 chars)
+2025-08-11 05:59:18,822 - INFO -   Chunk 65: chars 448100-456282
+2025-08-11 05:59:18,823 - INFO -     With context: 12105 total characters
+2025-08-11 05:59:18,823 - INFO -   Updating comprehensive context with chunk 66...
+2025-08-11 06:00:26,130 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:00:26,135 - INFO -   Updated comprehensive context (4141 chars)
+2025-08-11 06:00:28,139 - INFO -   Chunk 66: chars 455255-463284
+2025-08-11 06:00:28,140 - INFO -     With context: 12231 total characters
+2025-08-11 06:00:28,141 - INFO -   Updating comprehensive context with chunk 67...
+2025-08-11 06:01:34,215 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:01:34,219 - INFO -   Updated comprehensive context (3943 chars)
+2025-08-11 06:01:36,228 - INFO -   Chunk 67: chars 462273-470284
+2025-08-11 06:01:36,228 - INFO -     With context: 12015 total characters
+2025-08-11 06:01:36,229 - INFO -   Updating comprehensive context with chunk 68...
+2025-08-11 06:03:06,239 - INFO - Retrying request to /chat/completions in 0.380296 seconds
+2025-08-11 06:04:29,207 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:04:29,213 - INFO -   Updated comprehensive context (5217 chars)
+2025-08-11 06:04:31,217 - INFO -   Chunk 68: chars 469268-477250
+2025-08-11 06:04:31,218 - INFO -     With context: 13260 total characters
+2025-08-11 06:04:31,218 - INFO -   Updating comprehensive context with chunk 69...
+2025-08-11 06:06:01,232 - INFO - Retrying request to /chat/completions in 0.388667 seconds
+2025-08-11 06:07:08,057 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:07:08,062 - INFO -   Updated comprehensive context (3925 chars)
+2025-08-11 06:07:10,066 - INFO -   Chunk 69: chars 476247-484248
+2025-08-11 06:07:10,066 - INFO -     With context: 11987 total characters
+2025-08-11 06:07:10,067 - INFO -   Updating comprehensive context with chunk 70...
+2025-08-11 06:08:28,144 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:08:28,149 - INFO -   Updated comprehensive context (4008 chars)
+2025-08-11 06:08:30,151 - INFO -   Chunk 70: chars 483232-491152
+2025-08-11 06:08:30,152 - INFO -     With context: 11989 total characters
+2025-08-11 06:08:30,153 - INFO -   Updating comprehensive context with chunk 71...
+2025-08-11 06:09:36,866 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:09:36,871 - INFO -   Updated comprehensive context (3988 chars)
+2025-08-11 06:09:38,874 - INFO -   Chunk 71: chars 490141-498061
+2025-08-11 06:09:38,875 - INFO -     With context: 11969 total characters
+2025-08-11 06:09:38,875 - INFO -   Updating comprehensive context with chunk 72...
+2025-08-11 06:11:04,501 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:11:04,506 - INFO -   Updated comprehensive context (4178 chars)
+2025-08-11 06:11:06,512 - INFO -   Chunk 72: chars 497075-504970
+2025-08-11 06:11:06,512 - INFO -     With context: 12134 total characters
+2025-08-11 06:11:06,513 - INFO -   Updating comprehensive context with chunk 73...
+2025-08-11 06:12:06,975 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:12:06,980 - INFO -   Updated comprehensive context (3530 chars)
+2025-08-11 06:12:08,991 - INFO -   Chunk 73: chars 503968-511906
+2025-08-11 06:12:08,991 - INFO -     With context: 11529 total characters
+2025-08-11 06:12:08,992 - INFO -   Updating comprehensive context with chunk 74...
+2025-08-11 06:13:26,436 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:13:26,441 - INFO -   Updated comprehensive context (4571 chars)
+2025-08-11 06:13:28,451 - INFO -   Chunk 74: chars 510902-518826
+2025-08-11 06:13:28,451 - INFO -     With context: 12556 total characters
+2025-08-11 06:13:28,452 - INFO -   Updating comprehensive context with chunk 75...
+2025-08-11 06:14:58,464 - INFO - Retrying request to /chat/completions in 0.478265 seconds
+2025-08-11 06:16:18,743 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:16:18,746 - INFO -   Updated comprehensive context (4530 chars)
+2025-08-11 06:16:20,752 - INFO -   Chunk 75: chars 517747-525851
+2025-08-11 06:16:20,753 - INFO -     With context: 12695 total characters
+2025-08-11 06:16:20,753 - INFO -   Updating comprehensive context with chunk 76...
+2025-08-11 06:17:40,728 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:17:40,732 - INFO -   Updated comprehensive context (5107 chars)
+2025-08-11 06:17:42,734 - INFO -   Chunk 76: chars 524900-532857
+2025-08-11 06:17:42,735 - INFO -     With context: 13125 total characters
+2025-08-11 06:17:42,735 - INFO -   Updating comprehensive context with chunk 77...
+2025-08-11 06:18:58,264 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:18:58,269 - INFO -   Updated comprehensive context (4450 chars)
+2025-08-11 06:19:00,270 - INFO -   Chunk 77: chars 531908-539876
+2025-08-11 06:19:00,270 - INFO -     With context: 12479 total characters
+2025-08-11 06:19:00,270 - INFO -   Updating comprehensive context with chunk 78...
+2025-08-11 06:20:17,876 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:20:17,880 - INFO -   Updated comprehensive context (4518 chars)
+2025-08-11 06:20:19,882 - INFO -   Chunk 78: chars 538837-546859
+2025-08-11 06:20:19,883 - INFO -     With context: 12601 total characters
+2025-08-11 06:20:19,883 - INFO -   Updating comprehensive context with chunk 79...
+2025-08-11 06:21:31,679 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:21:31,683 - INFO -   Updated comprehensive context (4280 chars)
+2025-08-11 06:21:33,689 - INFO -   Chunk 79: chars 545847-553732
+2025-08-11 06:21:33,689 - INFO -     With context: 12226 total characters
+2025-08-11 06:21:33,690 - INFO -   Updating comprehensive context with chunk 80...
+2025-08-11 06:22:48,316 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:22:48,320 - INFO -   Updated comprehensive context (4470 chars)
+2025-08-11 06:22:50,325 - INFO -   Chunk 80: chars 552675-560645
+2025-08-11 06:22:50,326 - INFO -     With context: 12501 total characters
+2025-08-11 06:22:50,326 - INFO -   Updating comprehensive context with chunk 81...
+2025-08-11 06:24:03,569 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:24:03,573 - INFO -   Updated comprehensive context (4153 chars)
+2025-08-11 06:24:05,575 - INFO -   Chunk 81: chars 559688-567745
+2025-08-11 06:24:05,582 - INFO -     With context: 12271 total characters
+2025-08-11 06:24:05,582 - INFO -   Updating comprehensive context with chunk 82...
+2025-08-11 06:25:15,252 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:25:15,257 - INFO -   Updated comprehensive context (3871 chars)
+2025-08-11 06:25:17,263 - INFO -   Chunk 82: chars 566836-574885
+2025-08-11 06:25:17,263 - INFO -     With context: 11981 total characters
+2025-08-11 06:25:17,264 - INFO -   Updating comprehensive context with chunk 83...
+2025-08-11 06:26:31,117 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:26:31,122 - INFO -   Updated comprehensive context (3888 chars)
+2025-08-11 06:26:33,128 - INFO -   Chunk 83: chars 573884-581805
+2025-08-11 06:26:33,128 - INFO -     With context: 11870 total characters
+2025-08-11 06:26:33,129 - INFO -   Updating comprehensive context with chunk 84...
+2025-08-11 06:27:44,965 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:27:44,972 - INFO -   Updated comprehensive context (3924 chars)
+2025-08-11 06:27:46,975 - INFO -   Chunk 84: chars 580871-588945
+2025-08-11 06:27:46,976 - INFO -     With context: 12059 total characters
+2025-08-11 06:27:46,976 - INFO -   Updating comprehensive context with chunk 85...
+2025-08-11 06:28:52,337 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:28:52,341 - INFO -   Updated comprehensive context (3806 chars)
+2025-08-11 06:28:54,346 - INFO -   Chunk 85: chars 588013-595944
+2025-08-11 06:28:54,347 - INFO -     With context: 11798 total characters
+2025-08-11 06:28:54,347 - INFO -   Updating comprehensive context with chunk 86...
+2025-08-11 06:29:33,557 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:29:33,561 - INFO -   Updated comprehensive context (2318 chars)
+2025-08-11 06:29:35,567 - INFO -   Chunk 86: chars 594962-603023
+2025-08-11 06:29:35,567 - INFO -     With context: 10440 total characters
+2025-08-11 06:29:35,567 - INFO -   Updating comprehensive context with chunk 87...
+2025-08-11 06:30:44,095 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:30:44,100 - INFO -   Updated comprehensive context (3570 chars)
+2025-08-11 06:30:46,102 - INFO -   Chunk 87: chars 602117-610158
+2025-08-11 06:30:46,102 - INFO -     With context: 11672 total characters
+2025-08-11 06:30:46,103 - INFO -   Updating comprehensive context with chunk 88...
+2025-08-11 06:31:54,758 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:31:54,761 - INFO -   Updated comprehensive context (3997 chars)
+2025-08-11 06:31:56,764 - INFO -   Chunk 88: chars 609125-617115
+2025-08-11 06:31:56,764 - INFO -     With context: 12048 total characters
+2025-08-11 06:31:56,764 - INFO -   Updating comprehensive context with chunk 89...
+2025-08-11 06:33:01,813 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:33:01,818 - INFO -   Updated comprehensive context (3691 chars)
+2025-08-11 06:33:03,821 - INFO -   Chunk 89: chars 616173-624131
+2025-08-11 06:33:03,821 - INFO -     With context: 11710 total characters
+2025-08-11 06:33:03,822 - INFO -   Updating comprehensive context with chunk 90...
+2025-08-11 06:34:33,822 - INFO - Retrying request to /chat/completions in 0.409707 seconds
+2025-08-11 06:35:53,212 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:35:53,217 - INFO -   Updated comprehensive context (3898 chars)
+2025-08-11 06:35:55,222 - INFO -   Chunk 90: chars 623118-631071
+2025-08-11 06:35:55,222 - INFO -     With context: 11912 total characters
+2025-08-11 06:35:55,223 - INFO -   Updating comprehensive context with chunk 91...
+2025-08-11 06:36:31,194 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:36:31,196 - INFO -   Updated comprehensive context (1949 chars)
+2025-08-11 06:36:33,201 - INFO -   Chunk 91: chars 630108-638178
+2025-08-11 06:36:33,202 - INFO -     With context: 10080 total characters
+2025-08-11 06:36:33,202 - INFO -   Updating comprehensive context with chunk 92...
+2025-08-11 06:38:03,213 - INFO - Retrying request to /chat/completions in 0.458412 seconds
+2025-08-11 06:39:28,877 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:39:28,882 - INFO -   Updated comprehensive context (3777 chars)
+2025-08-11 06:39:30,883 - INFO -   Chunk 92: chars 637148-644155
+2025-08-11 06:39:30,884 - INFO -     With context: 10845 total characters
+2025-08-11 06:39:30,884 - INFO -   Created 92 chunks with comprehensive context
+2025-08-11 06:39:30,885 - INFO -   Final context size: 3777 characters
+2025-08-11 06:39:30,890 - INFO -   Saved: lowa_Research_Online_chunk_001.md (8,310 chars)
+2025-08-11 06:39:30,891 - INFO -   Saved: lowa_Research_Online_chunk_002.md (10,465 chars)
+2025-08-11 06:39:30,891 - INFO -   Saved: lowa_Research_Online_chunk_003.md (11,537 chars)
+2025-08-11 06:39:30,892 - INFO -   Saved: lowa_Research_Online_chunk_004.md (12,645 chars)
+2025-08-11 06:39:30,892 - INFO -   Saved: lowa_Research_Online_chunk_005.md (13,743 chars)
+2025-08-11 06:39:30,893 - INFO -   Saved: lowa_Research_Online_chunk_006.md (13,538 chars)
+2025-08-11 06:39:30,893 - INFO -   Saved: lowa_Research_Online_chunk_007.md (14,626 chars)
+2025-08-11 06:39:30,894 - INFO -   Saved: lowa_Research_Online_chunk_008.md (14,351 chars)
+2025-08-11 06:39:30,894 - INFO -   Saved: lowa_Research_Online_chunk_009.md (14,372 chars)
+2025-08-11 06:39:30,895 - INFO -   Saved: lowa_Research_Online_chunk_010.md (14,435 chars)
+2025-08-11 06:39:30,895 - INFO -   Saved: lowa_Research_Online_chunk_011.md (14,453 chars)
+2025-08-11 06:39:30,895 - INFO -   Saved: lowa_Research_Online_chunk_012.md (14,447 chars)
+2025-08-11 06:39:30,898 - INFO -   Saved: lowa_Research_Online_chunk_013.md (14,453 chars)
+2025-08-11 06:39:30,898 - INFO -   Saved: lowa_Research_Online_chunk_014.md (14,446 chars)
+2025-08-11 06:39:30,898 - INFO -   Saved: lowa_Research_Online_chunk_015.md (14,458 chars)
+2025-08-11 06:39:30,899 - INFO -   Saved: lowa_Research_Online_chunk_016.md (14,443 chars)
+2025-08-11 06:39:30,899 - INFO -   Saved: lowa_Research_Online_chunk_017.md (14,447 chars)
+2025-08-11 06:39:30,903 - INFO -   Saved: lowa_Research_Online_chunk_018.md (14,466 chars)
+2025-08-11 06:39:30,903 - INFO -   Saved: lowa_Research_Online_chunk_019.md (14,636 chars)
+2025-08-11 06:39:30,904 - INFO -   Saved: lowa_Research_Online_chunk_020.md (14,457 chars)
+2025-08-11 06:39:30,904 - INFO -   Saved: lowa_Research_Online_chunk_021.md (14,472 chars)
+2025-08-11 06:39:30,904 - INFO -   Saved: lowa_Research_Online_chunk_022.md (14,553 chars)
+2025-08-11 06:39:30,905 - INFO -   Saved: lowa_Research_Online_chunk_023.md (14,433 chars)
+2025-08-11 06:39:30,905 - INFO -   Saved: lowa_Research_Online_chunk_024.md (14,595 chars)
+2025-08-11 06:39:30,905 - INFO -   Saved: lowa_Research_Online_chunk_025.md (14,269 chars)
+2025-08-11 06:39:30,906 - INFO -   Saved: lowa_Research_Online_chunk_026.md (14,470 chars)
+2025-08-11 06:39:30,906 - INFO -   Saved: lowa_Research_Online_chunk_027.md (14,454 chars)
+2025-08-11 06:39:30,907 - INFO -   Saved: lowa_Research_Online_chunk_028.md (14,457 chars)
+2025-08-11 06:39:30,907 - INFO -   Saved: lowa_Research_Online_chunk_029.md (14,588 chars)
+2025-08-11 06:39:30,907 - INFO -   Saved: lowa_Research_Online_chunk_030.md (14,456 chars)
+2025-08-11 06:39:30,907 - INFO -   Saved: lowa_Research_Online_chunk_031.md (14,410 chars)
+2025-08-11 06:39:30,908 - INFO -   Saved: lowa_Research_Online_chunk_032.md (14,267 chars)
+2025-08-11 06:39:30,908 - INFO -   Saved: lowa_Research_Online_chunk_033.md (14,465 chars)
+2025-08-11 06:39:30,908 - INFO -   Saved: lowa_Research_Online_chunk_034.md (14,448 chars)
+2025-08-11 06:39:30,909 - INFO -   Saved: lowa_Research_Online_chunk_035.md (14,443 chars)
+2025-08-11 06:39:30,909 - INFO -   Saved: lowa_Research_Online_chunk_036.md (14,456 chars)
+2025-08-11 06:39:30,910 - INFO -   Saved: lowa_Research_Online_chunk_037.md (14,415 chars)
+2025-08-11 06:39:30,910 - INFO -   Saved: lowa_Research_Online_chunk_038.md (14,317 chars)
+2025-08-11 06:39:30,910 - INFO -   Saved: lowa_Research_Online_chunk_039.md (14,401 chars)
+2025-08-11 06:39:30,910 - INFO -   Saved: lowa_Research_Online_chunk_040.md (14,445 chars)
+2025-08-11 06:39:30,911 - INFO -   Saved: lowa_Research_Online_chunk_041.md (14,448 chars)
+2025-08-11 06:39:30,911 - INFO -   Saved: lowa_Research_Online_chunk_042.md (14,477 chars)
+2025-08-11 06:39:30,912 - INFO -   Saved: lowa_Research_Online_chunk_043.md (14,600 chars)
+2025-08-11 06:39:30,912 - INFO -   Saved: lowa_Research_Online_chunk_044.md (14,449 chars)
+2025-08-11 06:39:30,912 - INFO -   Saved: lowa_Research_Online_chunk_045.md (14,491 chars)
+2025-08-11 06:39:30,913 - INFO -   Saved: lowa_Research_Online_chunk_046.md (14,495 chars)
+2025-08-11 06:39:30,913 - INFO -   Saved: lowa_Research_Online_chunk_047.md (14,458 chars)
+2025-08-11 06:39:30,913 - INFO -   Saved: lowa_Research_Online_chunk_048.md (14,454 chars)
+2025-08-11 06:39:30,914 - INFO -   Saved: lowa_Research_Online_chunk_049.md (14,453 chars)
+2025-08-11 06:39:30,914 - INFO -   Saved: lowa_Research_Online_chunk_050.md (14,456 chars)
+2025-08-11 06:39:30,914 - INFO -   Saved: lowa_Research_Online_chunk_051.md (14,462 chars)
+2025-08-11 06:39:30,915 - INFO -   Saved: lowa_Research_Online_chunk_052.md (14,436 chars)
+2025-08-11 06:39:30,915 - INFO -   Saved: lowa_Research_Online_chunk_053.md (14,457 chars)
+2025-08-11 06:39:30,915 - INFO -   Saved: lowa_Research_Online_chunk_054.md (14,455 chars)
+2025-08-11 06:39:30,916 - INFO -   Saved: lowa_Research_Online_chunk_055.md (10,442 chars)
+2025-08-11 06:39:30,916 - INFO -   Saved: lowa_Research_Online_chunk_056.md (10,464 chars)
+2025-08-11 06:39:30,916 - INFO -   Saved: lowa_Research_Online_chunk_057.md (10,385 chars)
+2025-08-11 06:39:30,916 - INFO -   Saved: lowa_Research_Online_chunk_058.md (10,239 chars)
+2025-08-11 06:39:30,917 - INFO -   Saved: lowa_Research_Online_chunk_059.md (12,111 chars)
+2025-08-11 06:39:30,917 - INFO -   Saved: lowa_Research_Online_chunk_060.md (12,828 chars)
+2025-08-11 06:39:30,918 - INFO -   Saved: lowa_Research_Online_chunk_061.md (12,916 chars)
+2025-08-11 06:39:30,920 - INFO -   Saved: lowa_Research_Online_chunk_062.md (12,106 chars)
+2025-08-11 06:39:30,920 - INFO -   Saved: lowa_Research_Online_chunk_063.md (12,681 chars)
+2025-08-11 06:39:30,921 - INFO -   Saved: lowa_Research_Online_chunk_064.md (12,150 chars)
+2025-08-11 06:39:30,921 - INFO -   Saved: lowa_Research_Online_chunk_065.md (12,352 chars)
+2025-08-11 06:39:30,921 - INFO -   Saved: lowa_Research_Online_chunk_066.md (12,478 chars)
+2025-08-11 06:39:30,922 - INFO -   Saved: lowa_Research_Online_chunk_067.md (12,262 chars)
+2025-08-11 06:39:30,922 - INFO -   Saved: lowa_Research_Online_chunk_068.md (13,507 chars)
+2025-08-11 06:39:30,922 - INFO -   Saved: lowa_Research_Online_chunk_069.md (12,234 chars)
+2025-08-11 06:39:30,922 - INFO -   Saved: lowa_Research_Online_chunk_070.md (12,236 chars)
+2025-08-11 06:39:30,922 - INFO -   Saved: lowa_Research_Online_chunk_071.md (12,216 chars)
+2025-08-11 06:39:30,923 - INFO -   Saved: lowa_Research_Online_chunk_072.md (12,381 chars)
+2025-08-11 06:39:30,923 - INFO -   Saved: lowa_Research_Online_chunk_073.md (11,776 chars)
+2025-08-11 06:39:30,923 - INFO -   Saved: lowa_Research_Online_chunk_074.md (12,803 chars)
+2025-08-11 06:39:30,923 - INFO -   Saved: lowa_Research_Online_chunk_075.md (12,942 chars)
+2025-08-11 06:39:30,924 - INFO -   Saved: lowa_Research_Online_chunk_076.md (13,372 chars)
+2025-08-11 06:39:30,924 - INFO -   Saved: lowa_Research_Online_chunk_077.md (12,726 chars)
+2025-08-11 06:39:30,924 - INFO -   Saved: lowa_Research_Online_chunk_078.md (12,848 chars)
+2025-08-11 06:39:30,925 - INFO -   Saved: lowa_Research_Online_chunk_079.md (12,473 chars)
+2025-08-11 06:39:30,925 - INFO -   Saved: lowa_Research_Online_chunk_080.md (12,748 chars)
+2025-08-11 06:39:30,925 - INFO -   Saved: lowa_Research_Online_chunk_081.md (12,518 chars)
+2025-08-11 06:39:30,925 - INFO -   Saved: lowa_Research_Online_chunk_082.md (12,228 chars)
+2025-08-11 06:39:30,925 - INFO -   Saved: lowa_Research_Online_chunk_083.md (12,117 chars)
+2025-08-11 06:39:30,926 - INFO -   Saved: lowa_Research_Online_chunk_084.md (12,306 chars)
+2025-08-11 06:39:30,926 - INFO -   Saved: lowa_Research_Online_chunk_085.md (12,045 chars)
+2025-08-11 06:39:30,926 - INFO -   Saved: lowa_Research_Online_chunk_086.md (10,687 chars)
+2025-08-11 06:39:30,926 - INFO -   Saved: lowa_Research_Online_chunk_087.md (11,919 chars)
+2025-08-11 06:39:30,927 - INFO -   Saved: lowa_Research_Online_chunk_088.md (12,295 chars)
+2025-08-11 06:39:30,927 - INFO -   Saved: lowa_Research_Online_chunk_089.md (11,957 chars)
+2025-08-11 06:39:30,927 - INFO -   Saved: lowa_Research_Online_chunk_090.md (12,159 chars)
+2025-08-11 06:39:30,928 - INFO -   Saved: lowa_Research_Online_chunk_091.md (10,327 chars)
+2025-08-11 06:39:30,928 - INFO -   Saved: lowa_Research_Online_chunk_092.md (11,092 chars)
+2025-08-11 06:39:30,929 - INFO -   Saved context: lowa_Research_Online_CONTEXT.md
+2025-08-11 06:39:30,929 - INFO -   ✅ Created 92 chunks from lowa_Research_Online.md
+2025-08-11 06:39:30,929 - INFO -      Context: 3777 characters
+2025-08-11 06:39:32,932 - INFO - [7/19] Processing: Ilse_Fromm-Michaels.md
+2025-08-11 06:39:32,936 - INFO -   File size: 14,131 characters
+2025-08-11 06:39:32,936 - INFO -   Extracting comprehensive context from first chunk...
+2025-08-11 06:40:08,681 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:40:08,684 - INFO -   Updated comprehensive context (1408 chars)
+2025-08-11 06:40:10,687 - INFO -   Chunk 1: chars 0-7839
+2025-08-11 06:40:10,687 - INFO -     With context: 7839 total characters
+2025-08-11 06:40:10,689 - INFO -   Updating comprehensive context with chunk 2...
+2025-08-11 06:41:07,312 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:41:07,315 - INFO -   Updated comprehensive context (2652 chars)
+2025-08-11 06:41:09,317 - INFO -   Chunk 2: chars 6814-14131
+2025-08-11 06:41:09,317 - INFO -     With context: 10030 total characters
+2025-08-11 06:41:09,318 - INFO -   Created 2 chunks with comprehensive context
+2025-08-11 06:41:09,318 - INFO -   Final context size: 2652 characters
+2025-08-11 06:41:09,321 - INFO -   Saved: Ilse_Fromm-Michaels_chunk_001.md (8,081 chars)
+2025-08-11 06:41:09,321 - INFO -   Saved: Ilse_Fromm-Michaels_chunk_002.md (10,274 chars)
+2025-08-11 06:41:09,322 - INFO -   Saved context: Ilse_Fromm-Michaels_CONTEXT.md
+2025-08-11 06:41:09,322 - INFO -   ✅ Created 2 chunks from Ilse_Fromm-Michaels.md
+2025-08-11 06:41:09,322 - INFO -      Context: 2652 characters
+2025-08-11 06:41:11,327 - INFO - [8/19] Processing: Sofia_Gubaidulina.md
+2025-08-11 06:41:11,330 - INFO -   File size: 100,987 characters
+2025-08-11 06:41:11,330 - INFO -   Extracting comprehensive context from first chunk...
+2025-08-11 06:41:41,784 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:41:41,785 - INFO -   Updated comprehensive context (1589 chars)
+2025-08-11 06:41:43,789 - INFO -   Chunk 1: chars 0-7989
+2025-08-11 06:41:43,789 - INFO -     With context: 7989 total characters
+2025-08-11 06:41:43,789 - INFO -   Updating comprehensive context with chunk 2...
+2025-08-11 06:42:30,496 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:42:30,499 - INFO -   Updated comprehensive context (2463 chars)
+2025-08-11 06:42:32,504 - INFO -   Chunk 2: chars 6952-14938
+2025-08-11 06:42:32,505 - INFO -     With context: 10510 total characters
+2025-08-11 06:42:32,505 - INFO -   Updating comprehensive context with chunk 3...
+2025-08-11 06:43:34,295 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:43:34,299 - INFO -   Updated comprehensive context (3151 chars)
+2025-08-11 06:43:36,304 - INFO -   Chunk 3: chars 13984-22150
+2025-08-11 06:43:36,305 - INFO -     With context: 11378 total characters
+2025-08-11 06:43:36,305 - INFO -   Updating comprehensive context with chunk 4...
+2025-08-11 06:45:06,314 - INFO - Retrying request to /chat/completions in 0.465769 seconds
+2025-08-11 06:46:16,859 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:46:16,865 - INFO -   Updated comprehensive context (3660 chars)
+2025-08-11 06:46:18,868 - INFO -   Chunk 4: chars 21148-29192
+2025-08-11 06:46:18,869 - INFO -     With context: 11765 total characters
+2025-08-11 06:46:18,869 - INFO -   Updating comprehensive context with chunk 5...
+2025-08-11 06:47:41,244 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 06:47:41,248 - INFO -   Updated comprehensive context (4334 chars)
+2025-08-11 06:47:43,252 - INFO -   Chunk 5: chars 28260-36382
+2025-08-11 06:47:43,253 - INFO -     With context: 12517 total characters
+2025-08-11 06:47:43,253 - INFO -   Updating comprehensive context with chunk 6...
+2025-08-11 06:49:13,260 - INFO - Retrying request to /chat/completions in 0.382102 seconds
+2025-08-11 06:50:43,686 - INFO - Retrying request to /chat/completions in 0.758624 seconds
+2025-08-11 06:52:14,493 - ERROR -   Error generating context: Request timed out.
+2025-08-11 06:52:16,501 - INFO -   Chunk 6: chars 35387-43449
+2025-08-11 06:52:16,501 - INFO -     With context: 12457 total characters
+2025-08-11 06:52:16,502 - INFO -   Updating comprehensive context with chunk 7...
+2025-08-11 06:53:46,565 - INFO - Retrying request to /chat/completions in 0.391001 seconds
+2025-08-11 06:55:17,011 - INFO - Retrying request to /chat/completions in 0.931396 seconds
+2025-08-11 06:56:47,988 - ERROR -   Error generating context: Request timed out.
+2025-08-11 06:56:49,991 - INFO -   Chunk 7: chars 42451-50622
+2025-08-11 06:56:49,992 - INFO -     With context: 12566 total characters
+2025-08-11 06:56:49,992 - INFO -   Updating comprehensive context with chunk 8...
+2025-08-11 06:58:20,024 - INFO - Retrying request to /chat/completions in 0.406023 seconds
+2025-08-11 06:59:50,475 - INFO - Retrying request to /chat/completions in 0.876506 seconds
+2025-08-11 07:01:21,403 - ERROR -   Error generating context: Request timed out.
+2025-08-11 07:01:23,405 - INFO -   Chunk 8: chars 49616-57692
+2025-08-11 07:01:23,406 - INFO -     With context: 12471 total characters
+2025-08-11 07:01:23,406 - INFO -   Updating comprehensive context with chunk 9...
+2025-08-11 07:02:53,451 - INFO - Retrying request to /chat/completions in 0.470521 seconds
+2025-08-11 07:04:23,983 - INFO - Retrying request to /chat/completions in 0.835866 seconds
+2025-08-11 07:05:54,873 - ERROR -   Error generating context: Request timed out.
+2025-08-11 07:05:56,882 - INFO -   Chunk 9: chars 56736-64726
+2025-08-11 07:05:56,883 - INFO -     With context: 12385 total characters
+2025-08-11 07:05:56,884 - INFO -   Updating comprehensive context with chunk 10...
+2025-08-11 07:07:26,936 - INFO - Retrying request to /chat/completions in 0.392519 seconds
+2025-08-11 07:08:57,382 - INFO - Retrying request to /chat/completions in 0.873161 seconds
+2025-08-11 07:10:28,311 - ERROR -   Error generating context: Request timed out.
+2025-08-11 07:10:30,317 - INFO -   Chunk 10: chars 63734-71695
+2025-08-11 07:10:30,318 - INFO -     With context: 12356 total characters
+2025-08-11 07:10:30,318 - INFO -   Updating comprehensive context with chunk 11...
+2025-08-11 07:12:00,364 - INFO - Retrying request to /chat/completions in 0.403203 seconds
+2025-08-11 07:13:30,809 - INFO - Retrying request to /chat/completions in 0.867163 seconds
+2025-08-11 07:15:01,726 - ERROR -   Error generating context: Request timed out.
+2025-08-11 07:15:03,730 - INFO -   Chunk 11: chars 70758-78810
+2025-08-11 07:15:03,731 - INFO -     With context: 12447 total characters
+2025-08-11 07:15:03,732 - INFO -   Updating comprehensive context with chunk 12...
+2025-08-11 07:16:33,778 - INFO - Retrying request to /chat/completions in 0.497254 seconds
+2025-08-11 07:18:04,332 - INFO - Retrying request to /chat/completions in 0.867152 seconds
+2025-08-11 07:19:33,344 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:19:33,349 - INFO -   Updated comprehensive context (4746 chars)
+2025-08-11 07:19:35,353 - INFO -   Chunk 12: chars 77826-85805
+2025-08-11 07:19:35,354 - INFO -     With context: 12786 total characters
+2025-08-11 07:19:35,354 - INFO -   Updating comprehensive context with chunk 13...
+2025-08-11 07:20:12,328 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:20:12,332 - INFO -   Updated comprehensive context (2096 chars)
+2025-08-11 07:20:14,336 - INFO -   Chunk 13: chars 84771-92767
+2025-08-11 07:20:14,337 - INFO -     With context: 10153 total characters
+2025-08-11 07:20:14,337 - INFO -   Updating comprehensive context with chunk 14...
+2025-08-11 07:21:06,834 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:21:06,839 - INFO -   Updated comprehensive context (2875 chars)
+2025-08-11 07:21:08,844 - INFO -   Chunk 14: chars 91762-99773
+2025-08-11 07:21:08,845 - INFO -     With context: 10947 total characters
+2025-08-11 07:21:08,845 - INFO -   Updating comprehensive context with chunk 15...
+2025-08-11 07:22:25,450 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:22:25,454 - INFO -   Updated comprehensive context (3285 chars)
+2025-08-11 07:22:27,460 - INFO -   Chunk 15: chars 98766-100987
+2025-08-11 07:22:27,460 - INFO -     With context: 5567 total characters
+2025-08-11 07:22:27,460 - INFO -   Created 15 chunks with comprehensive context
+2025-08-11 07:22:27,460 - INFO -   Final context size: 3285 characters
+2025-08-11 07:22:27,464 - INFO -   Saved: Sofia_Gubaidulina_chunk_001.md (8,230 chars)
+2025-08-11 07:22:27,465 - INFO -   Saved: Sofia_Gubaidulina_chunk_002.md (10,753 chars)
+2025-08-11 07:22:27,466 - INFO -   Saved: Sofia_Gubaidulina_chunk_003.md (11,621 chars)
+2025-08-11 07:22:27,467 - INFO -   Saved: Sofia_Gubaidulina_chunk_004.md (12,008 chars)
+2025-08-11 07:22:27,469 - INFO -   Saved: Sofia_Gubaidulina_chunk_005.md (12,760 chars)
+2025-08-11 07:22:27,471 - INFO -   Saved: Sofia_Gubaidulina_chunk_006.md (12,700 chars)
+2025-08-11 07:22:27,471 - INFO -   Saved: Sofia_Gubaidulina_chunk_007.md (12,809 chars)
+2025-08-11 07:22:27,472 - INFO -   Saved: Sofia_Gubaidulina_chunk_008.md (12,714 chars)
+2025-08-11 07:22:27,473 - INFO -   Saved: Sofia_Gubaidulina_chunk_009.md (12,628 chars)
+2025-08-11 07:22:27,473 - INFO -   Saved: Sofia_Gubaidulina_chunk_010.md (12,600 chars)
+2025-08-11 07:22:27,474 - INFO -   Saved: Sofia_Gubaidulina_chunk_011.md (12,691 chars)
+2025-08-11 07:22:27,474 - INFO -   Saved: Sofia_Gubaidulina_chunk_012.md (13,030 chars)
+2025-08-11 07:22:27,475 - INFO -   Saved: Sofia_Gubaidulina_chunk_013.md (10,397 chars)
+2025-08-11 07:22:27,475 - INFO -   Saved: Sofia_Gubaidulina_chunk_014.md (11,191 chars)
+2025-08-11 07:22:27,475 - INFO -   Saved: Sofia_Gubaidulina_chunk_015.md (5,810 chars)
+2025-08-11 07:22:27,476 - INFO -   Saved context: Sofia_Gubaidulina_CONTEXT.md
+2025-08-11 07:22:27,476 - INFO -   ✅ Created 15 chunks from Sofia_Gubaidulina.md
+2025-08-11 07:22:27,476 - INFO -      Context: 3285 characters
+2025-08-11 07:22:29,481 - INFO - [9/19] Processing: Instrumentalmusik_Instrumental_Music.md
+2025-08-11 07:22:29,485 - INFO -   File size: 411,081 characters
+2025-08-11 07:22:29,486 - INFO -   Extracting comprehensive context from first chunk...
+2025-08-11 07:23:14,785 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:23:14,789 - INFO -   Updated comprehensive context (2129 chars)
+2025-08-11 07:23:16,799 - INFO -   Chunk 1: chars 0-8107
+2025-08-11 07:23:16,800 - INFO -     With context: 8107 total characters
+2025-08-11 07:23:16,801 - INFO -   Updating comprehensive context with chunk 2...
+2025-08-11 07:24:23,970 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:24:23,975 - INFO -   Updated comprehensive context (3352 chars)
+2025-08-11 07:24:25,984 - INFO -   Chunk 2: chars 7072-14890
+2025-08-11 07:24:25,984 - INFO -     With context: 11231 total characters
+2025-08-11 07:24:25,985 - INFO -   Updating comprehensive context with chunk 3...
+2025-08-11 07:25:15,351 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:25:15,358 - INFO -   Updated comprehensive context (2529 chars)
+2025-08-11 07:25:17,363 - INFO -   Chunk 3: chars 13866-21801
+2025-08-11 07:25:17,363 - INFO -     With context: 10525 total characters
+2025-08-11 07:25:17,364 - INFO -   Updating comprehensive context with chunk 4...
+2025-08-11 07:26:31,323 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:26:31,331 - INFO -   Updated comprehensive context (3741 chars)
+2025-08-11 07:26:33,336 - INFO -   Chunk 4: chars 20823-28706
+2025-08-11 07:26:33,337 - INFO -     With context: 11685 total characters
+2025-08-11 07:26:33,337 - INFO -   Updating comprehensive context with chunk 5...
+2025-08-11 07:28:03,350 - INFO - Retrying request to /chat/completions in 0.474328 seconds
+2025-08-11 07:29:33,900 - INFO - Retrying request to /chat/completions in 0.835745 seconds
+2025-08-11 07:30:36,342 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:30:36,348 - INFO -   Updated comprehensive context (3170 chars)
+2025-08-11 07:30:38,354 - INFO -   Chunk 5: chars 27698-35545
+2025-08-11 07:30:38,354 - INFO -     With context: 11078 total characters
+2025-08-11 07:30:38,355 - INFO -   Updating comprehensive context with chunk 6...
+2025-08-11 07:32:08,368 - INFO - Retrying request to /chat/completions in 0.382921 seconds
+2025-08-11 07:33:38,800 - INFO - Retrying request to /chat/completions in 0.769431 seconds
+2025-08-11 07:35:09,619 - ERROR -   Error generating context: Request timed out.
+2025-08-11 07:35:11,621 - INFO -   Chunk 6: chars 34539-42495
+2025-08-11 07:35:11,621 - INFO -     With context: 11187 total characters
+2025-08-11 07:35:11,622 - INFO -   Updating comprehensive context with chunk 7...
+2025-08-11 07:36:35,488 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:36:35,492 - INFO -   Updated comprehensive context (4386 chars)
+2025-08-11 07:36:37,502 - INFO -   Chunk 7: chars 41494-49369
+2025-08-11 07:36:37,503 - INFO -     With context: 12322 total characters
+2025-08-11 07:36:37,503 - INFO -   Updating comprehensive context with chunk 8...
+2025-08-11 07:37:53,928 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 07:37:53,931 - INFO -   Updated comprehensive context (4056 chars)
+2025-08-11 07:37:55,933 - INFO -   Chunk 8: chars 48405-56438
+2025-08-11 07:37:55,933 - INFO -     With context: 12150 total characters
+2025-08-11 07:37:55,934 - INFO -   Updating comprehensive context with chunk 9...
+2025-08-11 08:03:55,571 - INFO - Retrying request to /chat/completions in 0.389184 seconds
+2025-08-11 09:38:58,002 - INFO - Retrying request to /chat/completions in 0.782134 seconds
+2025-08-11 09:44:49,860 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 09:44:49,896 - INFO -   Updated comprehensive context (5064 chars)
+2025-08-11 09:44:51,902 - INFO -   Chunk 9: chars 55410-63311
+2025-08-11 09:44:51,902 - INFO -     With context: 13026 total characters
+2025-08-11 09:44:51,903 - INFO -   Updating comprehensive context with chunk 10...
+2025-08-11 09:46:21,913 - INFO - Retrying request to /chat/completions in 0.412003 seconds
+2025-08-11 09:47:52,427 - INFO - Retrying request to /chat/completions in 0.811109 seconds
+2025-08-11 09:49:23,297 - ERROR -   Error generating context: Request timed out.
+2025-08-11 09:49:25,306 - INFO -   Chunk 10: chars 62333-70347
+2025-08-11 09:49:25,307 - INFO -     With context: 13139 total characters
+2025-08-11 09:49:25,309 - INFO -   Updating comprehensive context with chunk 11...
+2025-08-11 09:50:55,360 - INFO - Retrying request to /chat/completions in 0.482025 seconds
+2025-08-11 09:52:25,896 - INFO - Retrying request to /chat/completions in 0.991441 seconds
+2025-08-11 09:53:56,943 - ERROR -   Error generating context: Request timed out.
+2025-08-11 09:53:58,951 - INFO -   Chunk 11: chars 69343-77338
+2025-08-11 09:53:58,951 - INFO -     With context: 13120 total characters
+2025-08-11 09:53:58,951 - INFO -   Updating comprehensive context with chunk 12...
+2025-08-11 09:55:29,013 - INFO - Retrying request to /chat/completions in 0.449950 seconds
+2025-08-11 09:56:59,520 - INFO - Retrying request to /chat/completions in 0.906550 seconds
+2025-08-11 09:58:30,485 - ERROR -   Error generating context: Request timed out.
+2025-08-11 09:58:32,493 - INFO -   Chunk 12: chars 76409-84369
+2025-08-11 09:58:32,494 - INFO -     With context: 13085 total characters
+2025-08-11 09:58:32,494 - INFO -   Updating comprehensive context with chunk 13...
+2025-08-11 10:00:02,554 - INFO - Retrying request to /chat/completions in 0.482550 seconds
+2025-08-11 10:01:33,100 - INFO - Retrying request to /chat/completions in 0.757808 seconds
+2025-08-11 10:03:03,920 - ERROR -   Error generating context: Request timed out.
+2025-08-11 10:03:05,924 - INFO -   Chunk 13: chars 83344-91321
+2025-08-11 10:03:05,924 - INFO -     With context: 13102 total characters
+2025-08-11 10:03:05,925 - INFO -   Updating comprehensive context with chunk 14...
+2025-08-11 10:04:35,984 - INFO - Retrying request to /chat/completions in 0.430998 seconds
+2025-08-11 10:06:06,477 - INFO - Retrying request to /chat/completions in 0.937689 seconds
+2025-08-11 10:07:37,479 - ERROR -   Error generating context: Request timed out.
+2025-08-11 10:07:39,486 - INFO -   Chunk 14: chars 90279-98286
+2025-08-11 10:07:39,486 - INFO -     With context: 13132 total characters
+2025-08-11 10:07:39,487 - INFO -   Updating comprehensive context with chunk 15...
+2025-08-11 10:09:09,538 - INFO - Retrying request to /chat/completions in 0.460913 seconds
+2025-08-11 10:10:40,066 - INFO - Retrying request to /chat/completions in 0.777510 seconds
+2025-08-11 10:12:10,940 - ERROR -   Error generating context: Request timed out.
+2025-08-11 10:12:12,948 - INFO -   Chunk 15: chars 97227-105139
+2025-08-11 10:12:12,949 - INFO -     With context: 13037 total characters
+2025-08-11 10:12:12,949 - INFO -   Updating comprehensive context with chunk 16...
+2025-08-11 10:13:43,021 - INFO - Retrying request to /chat/completions in 0.474685 seconds
+2025-08-11 10:15:13,552 - INFO - Retrying request to /chat/completions in 0.953509 seconds
+2025-08-11 10:16:44,566 - ERROR -   Error generating context: Request timed out.
+2025-08-11 10:16:46,573 - INFO -   Chunk 16: chars 104149-112161
+2025-08-11 10:16:46,574 - INFO -     With context: 13137 total characters
+2025-08-11 10:16:46,574 - INFO -   Updating comprehensive context with chunk 17...
+2025-08-11 10:16:51,285 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 10:16:51,290 - INFO - Retrying request to /chat/completions in 0.454812 seconds
+2025-08-11 10:16:55,120 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 10:16:55,120 - INFO - Retrying request to /chat/completions in 0.808197 seconds
+2025-08-11 10:18:25,939 - ERROR -   Error generating context: Request timed out.
+2025-08-11 10:18:27,945 - INFO -   Chunk 17: chars 111161-119162
+2025-08-11 10:18:27,946 - INFO -     With context: 13126 total characters
+2025-08-11 10:18:27,946 - INFO -   Updating comprehensive context with chunk 18...
+2025-08-11 10:18:33,049 - INFO - HTTP Request: POST https://api.moonshot.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-11 10:18:33,050 - INFO - Retrying request to /chat/completions in 0.454276 seconds
+2025-08-11 10:19:51,140 - INFO - 
+Script interrupted by user.

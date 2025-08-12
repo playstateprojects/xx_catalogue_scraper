@@ -1,0 +1,60 @@
+{
+  "chunk_filename": "Musik_für_Orchester_Music_for_Orchestra_chunk_025.md",
+  "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+  "chunk_metadata": {
+    "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+    "chunk_number": "25",
+    "total_chunks": "27",
+    "chunk_size": "11954",
+    "context_included": "yes",
+    "context_size": "5149",
+    "created_by": "Enhanced Markdown Chunker with Comprehensive Context",
+    "processing_timestamp": "2025-08-11 01:47:05"
+  },
+  "works": [
+    {
+      "Name": "Aria. Arien aus Oper und Oratorium",
+      "Composer": "Emilie Mayer",
+      "Source/Collection": "Aria Japan Chai",
+      "Publication Year": "",
+      "First Performance": "",
+      "Duration": "",
+      "Availability": "in print",
+      "Link to Score": "",
+      "links": [],
+      "Status": "",
+      "Notes": "easy to moderately difficult",
+      "Genre": "Vocal",
+      "SubGenre": "Aria",
+      "Period": "19th Century",
+      "Instrumentation": [
+        "soprano",
+        "piano"
+      ],
+      "Scoring": "Sopran und Klavier",
+      "Related Works": [],
+      "Long Description": "Arias from opera and oratorio for soprano and piano",
+      "Short Description": "Opera and oratorio arias",
+      "tags": [
+        "aria",
+        "opera",
+        "oratorio",
+        "soprano",
+        "piano"
+      ],
+      "Catalog Number": "fue 15025",
+      "ISMN": "979-0-50182-825-8",
+      "OCLC": "",
+      "ISWC": "",
+      "publisher": "Furore Verlag",
+      "name of source": "KOMPONISTINNEN A-Z WOMEN COMPOSERS A-Z",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_025.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    }
+  ],
+  "chunk_info": {
+    "chunk_id": "Musik_für_Orchester_Music_for_Orchestra_chunk_025.md",
+    "works_count": 1,
+    "processing_notes": "Only one complete work entry found with sufficient detail: 'Aria. Arien aus Oper und Oratorio' by Emilie Mayer. Other entries in the chunk are biographical or contextual without specific work details."
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "chunk_filename": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+  "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+  "chunk_metadata": {
+    "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+    "chunk_number": "20",
+    "total_chunks": "27",
+    "chunk_size": "12534",
+    "context_included": "yes",
+    "context_size": "5149",
+    "created_by": "Enhanced Markdown Chunker with Comprehensive Context",
+    "processing_timestamp": "2025-08-11 01:47:05"
+  },
+  "works": [
+    {
+      "Name": "Ritmo Vito",
+      "Composer": "Elisabeth Amandi",
+      "Duration": "28'45",
+      "Instrumentation": [
+        "marimba",
+        "string orchestra",
+        "piano",
+        "percussion"
+      ],
+      "Genre": "Orchestral",
+      "Period": "Contemporary",
+      "Source/Collection": "Furore Verlag",
+      "Short Description": "Rhythmical orchestral work for marimba soloist with string orchestra, piano and percussion",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Suite pour violon et piano op. 114",
+      "Composer": "Mel Bonis",
+      "Publication Year": "1926",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Suite",
+      "Period": "Romantic",
+      "Scoring": "violin and piano",
+      "Catalog Number": "fue 4390",
+      "ISMN": "979-0-50012-939-4",
+      "Source/Collection": "Furore Verlag",
+      "Short Description": "Moderately difficult to difficult chamber suite for violin and piano",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Soir / Matin",
+      "Composer": "Mel Bonis",
+      "Publication Year": "1907",
+      "Instrumentation": [
+        "violin",
+        "cello",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "Period": "Romantic",
+      "Scoring": "violin, cello and piano",
+      "Catalog Number": "fue 4160",
+      "ISMN": "979-0-50012-916-5",
+      "Source/Collection": "Furore Verlag",
+      "Short Description": "Moderately difficult trio for violin, cello and piano",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Klavierquartett B-Dur",
+      "Composer": "Mel Bonis",
+      "Publication Year": "1905",
+      "Duration": "25'",
+      "Instrumentation": [
+        "violin",
+        "viola",
+        "cello",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Piano Quartet",
+      "Period": "Romantic",
+      "Scoring": "violin, viola, cello and piano",
+      "Catalog Number": "fue 4170",
+      "ISMN": "979-0-50012-917-2",
+      "Source/Collection": "Furore Verlag",
+      "Short Description": "Moderately difficult piano quartet in B-flat major",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Klavierquartett D-Dur op. 124",
+      "Composer": "Mel Bonis",
+      "Publication Year": "1927",
+      "Duration": "25'",
+      "Instrumentation": [
+        "violin",
+        "viola",
+        "cello",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Piano Quartet",
+      "Period": "Romantic",
+      "Scoring": "violin, viola, cello and piano",
+      "Catalog Number": "fue 10009",
+      "ISMN": "979-0-50012-378-1",
+      "Source/Collection": "Furore Verlag",
+      "Short Description": "Moderately difficult piano quartet in D major",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Concerto in g",
+      "Composer": "Wilhelmine von Bayreuth",
+      "Duration": "15'",
+      "Instrumentation": [
+        "harpsichord",
+        "strings"
+      ],
+      "Genre": "Orchestral",
+      "SubGenre": "Concerto",
+      "Period": "Baroque",
+      "Scoring": "harpsichord obligato and strings",
+      "Source/Collection": "Furore Verlag",
+      "Short Description": "Baroque concerto for harpsichord and strings",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Cavatinen",
+      "Composer": "Wilhelmine von Bayreuth",
+      "Publication Year": "1754",
+      "Instrumentation": [
+        "voice",
+        "harpsichord",
+        "strings"
+      ],
+      "Genre": "Vocal",
+      "SubGenre": "Cavatina",
+      "Period": "Baroque",
+      "Scoring": "voice, strings and harpsichord",
+      "Catalog Number": "fue 10054",
+      "ISMN": "979-0-50182-054-2",
+      "Source/Collection": "Furore Verlag",
+      "Short Description": "Baroque vocal cavatinas with string and continuo accompaniment",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Sonata per Flauto traverso e Basso continuo",
+      "Composer": "Wilhelmine von Bayreuth",
+      "Publication Year": "1730",
+      "Instrumentation": [
+        "flute",
+        "harpsichord"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Sonata",
+      "Period": "Baroque",
+      "Scoring": "flute and basso continuo",
+      "Catalog Number": "fue 4680",
+      "ISMN": "979-0-50012-968-4",
+      "Source/Collection": "Furore Verlag",
+      "Short Description": "Baroque flute sonata with continuo, easy to moderately difficult",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "En Plein Air",
+      "Composer": "Janet Beat",
+      "Duration": "12'",
+      "Genre": "Chamber Music",
+      "SubGenre": "Modern Ensemble",
+      "Period": "20th Century",
+      "Source/Collection": "Furore Verlag",
+      "Short Description": "Modern ensemble work by pioneering UK electronic music composer",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    }
+  ],
+  "chunk_info": {
+    "chunk_id": "Musik_für_Orchester_Music_for_Orchestra_chunk_020.md",
+    "works_count": 9,
+    "processing_notes": "Extracted 9 complete works with sufficient detail from the chamber music and orchestral sections. All works have composer, title, and at least one additional detail (duration, instrumentation, or catalogue number)."
+  }
+}

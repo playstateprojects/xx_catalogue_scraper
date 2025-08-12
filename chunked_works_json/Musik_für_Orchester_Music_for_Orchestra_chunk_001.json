@@ -1,0 +1,107 @@
+{
+  "chunk_filename": "Musik_für_Orchester_Music_for_Orchestra_chunk_001.md",
+  "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+  "chunk_metadata": {
+    "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+    "chunk_number": "1",
+    "total_chunks": "27",
+    "chunk_size": "7904",
+    "context_included": "no",
+    "context_size": "5149",
+    "created_by": "Enhanced Markdown Chunker with Comprehensive Context",
+    "processing_timestamp": "2025-08-11 01:47:05"
+  },
+  "works": [
+    {
+      "Name": "Ouverture C-Dur",
+      "Composer": "Fanny Hensel",
+      "Source/Collection": "Furore Verlag",
+      "Publication Year": "",
+      "First Performance": "1834-06-04",
+      "Duration": "10",
+      "Availability": "scores purchasable, parts on hire",
+      "Link to Score": "",
+      "links": [],
+      "Status": "",
+      "Notes": "Presumably composed 1832; premiered at a Sunday concert organized by Fanny Hensel with the Königsstädter Orchestra conducted by Lecerf; difficulty level 3",
+      "Genre": "Orchestral",
+      "SubGenre": "Overture",
+      "Period": "Romantic",
+      "Instrumentation": [
+        "2 flutes",
+        "2 oboes",
+        "2 clarinets",
+        "2 bassoons",
+        "4 horns",
+        "2 trumpets",
+        "percussion",
+        "strings"
+      ],
+      "Scoring": "2.2.2.2.-4.2.0.0., Perc, Str",
+      "Related Works": [],
+      "Long Description": "A slow introduction followed by a “con fuoco” section featuring virtuosic string runs; described as “a colourful painting in opulent joy of playing” (The Times).",
+      "Short Description": "Romantic overture in C major with slow introduction and fiery main section.",
+      "tags": [
+        "orchestra",
+        "overture",
+        "women composers",
+        "romantic"
+      ],
+      "Catalog Number": "",
+      "ISMN": "",
+      "OCLC": "",
+      "ISWC": "",
+      "publisher": "Furore Verlag",
+      "name of source": "Musik für Orchester – Music for Orchestra",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_001.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Ouvertüre aus Isacco - Figura del Redentore",
+      "Composer": "Marianna Martines",
+      "Source/Collection": "Furore Verlag",
+      "Publication Year": "",
+      "First Performance": "1781",
+      "Duration": "20",
+      "Availability": "scores purchasable, parts on hire",
+      "Link to Score": "",
+      "links": [],
+      "Status": "",
+      "Notes": "First publication; taken from the oratorio \"Isacco – Figura del Redentore\" composed 1781 to a libretto by Pietro Metastasio; difficulty level 3–4",
+      "Genre": "Orchestral",
+      "SubGenre": "Overture",
+      "Period": "Classical",
+      "Instrumentation": [
+        "2 oboes",
+        "2 bassoons",
+        "2 horns",
+        "2 trumpets",
+        "percussion",
+        "strings"
+      ],
+      "Scoring": "0.2.0.2.-2.2.0.0., Perc, Str",
+      "Related Works": [],
+      "Long Description": "Overture to the 1781 oratorio \"Isacco – Figura del Redentore\"; structured Allegro maestoso – Andante – Allegro con spirito.",
+      "Short Description": "Classical overture from Martines’s oratorio \"Isacco – Figura del Redentore\".",
+      "tags": [
+        "oratorio overture",
+        "classical",
+        "women composers",
+        "orchestra"
+      ],
+      "Catalog Number": "",
+      "ISMN": "",
+      "OCLC": "",
+      "ISWC": "",
+      "publisher": "Furore Verlag",
+      "name of source": "Musik für Orchester – Music for Orchestra",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_001.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    }
+  ],
+  "chunk_info": {
+    "chunk_id": "Musik_für_Orchester_Music_for_Orchestra_chunk_001.md",
+    "works_count": 2,
+    "processing_notes": "Two complete orchestral overtures by women composers extracted; both have full instrumentation, duration, and historical context."
+  }
+}

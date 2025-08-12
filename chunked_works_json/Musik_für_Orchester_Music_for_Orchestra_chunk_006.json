@@ -1,0 +1,225 @@
+{
+  "chunk_filename": "Musik_für_Orchester_Music_for_Orchestra_chunk_006.md",
+  "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+  "chunk_metadata": {
+    "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+    "chunk_number": "6",
+    "total_chunks": "27",
+    "chunk_size": "11561",
+    "context_included": "yes",
+    "context_size": "5149",
+    "created_by": "Enhanced Markdown Chunker with Comprehensive Context",
+    "processing_timestamp": "2025-08-11 01:47:05"
+  },
+  "works": [
+    {
+      "Name": "Symphonie Nr. 6 (Erdbeben) op. 91",
+      "Composer": "Olga Magidenko",
+      "Source/Collection": "Zyklus „Naturgewalt\"",
+      "Publication Year": "2009",
+      "Duration": "47'",
+      "Availability": "Furore Verlag",
+      "Link to Score": "ISMN 979-0-50012-484-9 P/s",
+      "links": [
+        "fue 2578",
+        "fue 25785"
+      ],
+      "Status": "",
+      "Notes": "Second Symphony of the cycle 'Naturgewalt' after Greek gods; six movements; leitmotif throughout; earthquake as climax in 5th movement",
+      "Genre": "Orchestral",
+      "SubGenre": "Symphony",
+      "Period": "Contemporary",
+      "Instrumentation": [
+        "2(Picc).2.2.2.-2.1.1.1.",
+        "2 Timp",
+        "E-piano",
+        "Str"
+      ],
+      "Scoring": "Symphonic orchestra",
+      "Related Works": [
+        "Symphonie Nr. 7 (Gewitter)",
+        "Symphonie Nr. 1 (Wellen)"
+      ],
+      "Long Description": "Second Symphony of the cycle 'Naturgewalt' after Greek gods. In every single one of the six movements there is a culmination (as warning, ignored by everyone), which are ending at a big point of culmination, the earthquake, in the 5th movement. In the 6th movement there is deep sorrow.",
+      "Short Description": "Six-movement symphony depicting earthquake catastrophe",
+      "tags": [
+        "nature",
+        "catastrophe",
+        "leitmotif",
+        "contemporary"
+      ],
+      "Catalog Number": "op. 91",
+      "ISMN": "979-0-50012-484-9",
+      "publisher": "Furore Verlag",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_006.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Symphonie Nr. 7 (Gewitter) op. 93",
+      "Composer": "Olga Magidenko",
+      "Source/Collection": "Zyklus „Naturgewalt\"",
+      "Publication Year": "2009-10",
+      "Duration": "42'",
+      "Availability": "Furore Verlag",
+      "Link to Score": "ISMN 979-0-50012-487-0 P/s",
+      "links": [
+        "fue 2579",
+        "fue 25795"
+      ],
+      "Status": "",
+      "Notes": "Third Symphony of the cycle 'Naturgewalt' after Greek gods; five movements; Zeus sends warning signals",
+      "Genre": "Orchestral",
+      "SubGenre": "Symphony",
+      "Period": "Contemporary",
+      "Instrumentation": [
+        "2(Picc).2.2.2.-2.1.1.1.",
+        "Perc",
+        "E-piano",
+        "Str"
+      ],
+      "Scoring": "Symphonic orchestra",
+      "Related Works": [
+        "Symphonie Nr. 6 (Erdbeben)",
+        "Symphonie Nr. 1 (Wellen)"
+      ],
+      "Long Description": "Third Symphony of the cycle 'Naturgewalt' after Greek gods. People are living in their habits, work, meet, party. Zeus is sending scary signals, but the people recognize this when it's too late and the catastrophe has happened. But the human race is optimistic and strong and, after the sorrow, she stands up stronger and prouder than before and is simply invincible.",
+      "Short Description": "Five-movement symphony depicting thunderstorm catastrophe",
+      "tags": [
+        "nature",
+        "catastrophe",
+        "Zeus",
+        "contemporary"
+      ],
+      "Catalog Number": "op. 93",
+      "ISMN": "979-0-50012-487-0",
+      "publisher": "Furore Verlag",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_006.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "EXIL. Symphonie No. 2 pour grand orchestre op. 33",
+      "Composer": "Florentine Mulsant",
+      "Source/Collection": "",
+      "Publication Year": "2005-2007",
+      "Duration": "18'",
+      "Availability": "Furore Verlag",
+      "Link to Score": "ISMN 979-0-50012-449-8 P/s",
+      "links": [
+        "fue 2587",
+        "fue 25875"
+      ],
+      "Status": "",
+      "Notes": "Inspired by fragments from the poem of Saint John Perse; three movements",
+      "Genre": "Orchestral",
+      "SubGenre": "Symphony",
+      "Period": "Contemporary",
+      "Instrumentation": [
+        "4(Picc-Fl, Fl in G).3.4(Es-Klar, B-Klar).4(K-Fg).-1.4.3.1.",
+        "2 Timp",
+        "5 Perc",
+        "2 Hrf",
+        "piano celesta",
+        "Str (16.14.12.10.8)"
+      ],
+      "Scoring": "Large symphonic orchestra",
+      "Related Works": [],
+      "Long Description": "The second Symphony op. 33 'Exil' is inspired by fragments from the poem of Saint John Perse. The work is composed in three movements.",
+      "Short Description": "Three-movement symphony inspired by Saint John Perse's poetry",
+      "tags": [
+        "exile",
+        "poetry",
+        "contemporary"
+      ],
+      "Catalog Number": "op. 33",
+      "ISMN": "979-0-50012-449-8",
+      "publisher": "Furore Verlag",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_006.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Hexagramm op. 9",
+      "Composer": "Tina Ternes",
+      "Source/Collection": "",
+      "Publication Year": "1994/5",
+      "Duration": "6'",
+      "Availability": "Furore Verlag",
+      "Link to Score": "ISMN 979-0-50012-446-7 P/s",
+      "links": [
+        "fue 2513",
+        "fue 25135",
+        "fue 25131"
+      ],
+      "Status": "",
+      "Notes": "Work for orchestra in six sound groups; moderate difficulty; based on number 6; 106 bars long",
+      "Genre": "Orchestral",
+      "SubGenre": "Canzona",
+      "Period": "Contemporary",
+      "Instrumentation": [
+        "string quartet",
+        "woodwind player quintet",
+        "horn quartet",
+        "brass player quintet",
+        "string quintet"
+      ],
+      "Scoring": "Orchestra in six segments",
+      "Related Works": [],
+      "Long Description": "Hexagram is a work for an orchestra split up in six sound groups. The piece is of moderate difficulty, so that it is particularly suitable for music school and amateur orchestras. An especially impressive effect can be produced when the groups are positioned separately, in particular when arranged in the geometrical form of a hexagram. The composition is based on the musical realization of a play of numbers using the figure 6.",
+      "Short Description": "Six-segment orchestral work based on number 6",
+      "tags": [
+        "hexagram",
+        "number symbolism",
+        "amateur friendly",
+        "contemporary"
+      ],
+      "Catalog Number": "op. 9",
+      "ISMN": "979-0-50012-446-7",
+      "publisher": "Furore Verlag",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_006.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "4 Nocturnes op. 37",
+      "Composer": "Tina Ternes",
+      "Source/Collection": "",
+      "Publication Year": "2009/10",
+      "Duration": "18'",
+      "Availability": "Furore Verlag",
+      "Link to Score": "ISMN 979-0-50012-435-1 P/s",
+      "links": [
+        "fue 2581",
+        "fue 25815"
+      ],
+      "Status": "",
+      "Notes": "Connected with French orchestral tradition; inspired by nature and painting by Nicolas de Staël; four movements",
+      "Genre": "Orchestral",
+      "SubGenre": "Nocturne",
+      "Period": "Contemporary",
+      "Instrumentation": [
+        "2.2.2.2.-2.2.0.0.",
+        "Timp",
+        "Hrf",
+        "Str"
+      ],
+      "Scoring": "Orchestra",
+      "Related Works": [],
+      "Long Description": "The four Nocturnes are closely connected with the French orchestral tradition. Nature and a painting by Nicolas de Staël were the main sources of inspiration. Cheerful chords in the 1st and 4th Nocturne, horn singing in the 2nd, wind rustling in the 3rd, and birdsong in the 4th.",
+      "Short Description": "Four orchestral nocturnes inspired by French tradition",
+      "tags": [
+        "nocturnes",
+        "French tradition",
+        "nature",
+        "contemporary"
+      ],
+      "Catalog Number": "op. 37",
+      "ISMN": "979-0-50012-435-1",
+      "publisher": "Furore Verlag",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_006.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    }
+  ],
+  "chunk_info": {
+    "chunk_id": "Musik_für_Orchester_Music_for_Orchestra_chunk_006.md",
+    "works_count": 5,
+    "processing_notes": "Extracted 5 complete orchestral works from contemporary composers Olga Magidenko, Florentine Mulsant, and Tina Ternes. All works have full instrumentation, duration, publisher, and ISMN information."
+  }
+}

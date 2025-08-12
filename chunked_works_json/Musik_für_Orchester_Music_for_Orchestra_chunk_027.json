@@ -1,0 +1,165 @@
+{
+  "chunk_filename": "Musik_für_Orchester_Music_for_Orchestra_chunk_027.md",
+  "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+  "chunk_metadata": {
+    "source_file": "Musik_für_Orchester_Music_for_Orchestra.md",
+    "chunk_number": "27",
+    "total_chunks": "27",
+    "chunk_size": "10422",
+    "context_included": "yes",
+    "context_size": "5149",
+    "created_by": "Enhanced Markdown Chunker with Comprehensive Context",
+    "processing_timestamp": "2025-08-11 01:47:05"
+  },
+  "works": [
+    {
+      "Name": "Konzert für Violine und Orchester Nr. VI",
+      "Composer": "Maddalena Laura Lombardini Sirmen",
+      "Source/Collection": "",
+      "Publication Year": "",
+      "First Performance": "",
+      "Duration": "15'",
+      "Availability": "in print",
+      "Link to Score": "",
+      "links": [],
+      "Status": "",
+      "Notes": "Concerto for violin and orchestra No. 6",
+      "Genre": "Orchestral",
+      "SubGenre": "Concerto",
+      "Period": "Classical",
+      "Instrumentation": [
+        "violin",
+        "orchestra"
+      ],
+      "Scoring": "violin and orchestra",
+      "Related Works": [],
+      "Long Description": "",
+      "Short Description": "Concerto for violin and orchestra No. 6 by Venetian composer Maddalena Laura Lombardini Sirmen",
+      "tags": [],
+      "Catalog Number": "",
+      "ISMN": "",
+      "OCLC": "",
+      "ISWC": "",
+      "publisher": "",
+      "name of source": "",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_027.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Concer Tina op. 6",
+      "Composer": "Tina Ternes",
+      "Source/Collection": "",
+      "Publication Year": "",
+      "First Performance": "",
+      "Duration": "10'",
+      "Availability": "in print",
+      "Link to Score": "",
+      "links": [
+        "www.tina-ternes.de"
+      ],
+      "Status": "",
+      "Notes": "Op. 6 for double bass and string orchestra",
+      "Genre": "Orchestral",
+      "SubGenre": "Concerto",
+      "Period": "Contemporary",
+      "Instrumentation": [
+        "double bass",
+        "string orchestra"
+      ],
+      "Scoring": "double bass and string orchestra",
+      "Related Works": [],
+      "Long Description": "",
+      "Short Description": "Concer Tina op. 6 for double bass and string orchestra by contemporary German composer Tina Ternes",
+      "tags": [
+        "minimal music influence",
+        "world music elements"
+      ],
+      "Catalog Number": "",
+      "ISMN": "",
+      "OCLC": "",
+      "ISWC": "",
+      "publisher": "",
+      "name of source": "",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_027.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Hexagramm",
+      "Composer": "Tina Ternes",
+      "Source/Collection": "",
+      "Publication Year": "",
+      "First Performance": "",
+      "Duration": "6'",
+      "Availability": "in print",
+      "Link to Score": "",
+      "links": [
+        "www.tina-ternes.de"
+      ],
+      "Status": "",
+      "Notes": "Six orchestra segments",
+      "Genre": "Orchestral",
+      "SubGenre": "",
+      "Period": "Contemporary",
+      "Instrumentation": [
+        "orchestra"
+      ],
+      "Scoring": "orchestra",
+      "Related Works": [],
+      "Long Description": "",
+      "Short Description": "Hexagramm - six orchestra segments by contemporary German composer Tina Ternes",
+      "tags": [
+        "minimal music influence",
+        "world music elements"
+      ],
+      "Catalog Number": "",
+      "ISMN": "",
+      "OCLC": "",
+      "ISWC": "",
+      "publisher": "",
+      "name of source": "",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_027.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    },
+    {
+      "Name": "Is it you?",
+      "Composer": "Caroline Thon",
+      "Source/Collection": "",
+      "Publication Year": "",
+      "First Performance": "",
+      "Duration": "8'",
+      "Availability": "in print",
+      "Link to Score": "",
+      "links": [
+        "www.carolinethon.de"
+      ],
+      "Status": "",
+      "Notes": "Jazz/Crossover work",
+      "Genre": "Orchestral",
+      "SubGenre": "Jazz/Crossover",
+      "Period": "Contemporary",
+      "Instrumentation": [],
+      "Scoring": "",
+      "Related Works": [],
+      "Long Description": "",
+      "Short Description": "Jazz/Crossover work by contemporary German composer Caroline Thon",
+      "tags": [
+        "jazz",
+        "contemporary",
+        "crossover"
+      ],
+      "Catalog Number": "",
+      "ISMN": "",
+      "OCLC": "",
+      "ISWC": "",
+      "publisher": "",
+      "name of source": "",
+      "source_chunk": "Musik_für_Orchester_Music_for_Orchestra_chunk_027.md",
+      "source_file": "Musik_für_Orchester_Music_for_Orchestra.md"
+    }
+  ],
+  "chunk_info": {
+    "chunk_id": "Musik_für_Orchester_Music_for_Orchestra_chunk_027.md",
+    "works_count": 4,
+    "processing_notes": "Extracted 4 complete works with sufficient detail from the final chunk. All works have name, composer, duration, and instrumentation/genre information."
+  }
+}

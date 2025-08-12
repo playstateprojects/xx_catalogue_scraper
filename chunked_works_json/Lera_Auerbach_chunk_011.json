@@ -1,0 +1,380 @@
+{
+  "chunk_filename": "Lera_Auerbach_chunk_011.md",
+  "source_file": "Lera_Auerbach.md",
+  "chunk_metadata": {
+    "source_file": "Lera_Auerbach.md",
+    "chunk_number": "11",
+    "total_chunks": "14",
+    "chunk_size": "11778",
+    "context_included": "yes",
+    "context_size": "4200",
+    "created_by": "Enhanced Markdown Chunker with Comprehensive Context",
+    "processing_timestamp": "2025-08-11 00:37:20"
+  },
+  "works": [
+    {
+      "Name": "Monologue for Double Bass",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 34",
+      "Duration": "7'",
+      "First Performance": "1996, New York",
+      "Instrumentation": [
+        "double bass"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Monologue",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Commissioned by and dedicated to Rafael Agudelo",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Monologue for Viola",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 38",
+      "Duration": "5′ 30″",
+      "First Performance": "14 July 2001, Lockenhaus",
+      "Instrumentation": [
+        "viola"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Monologue",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Twenty-Four Preludes for Piano",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 41",
+      "Duration": "39′",
+      "First Performance": "23 July 1999, New York",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Preludes",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK 8536",
+      "Notes": "Dedicated to Tom and Vivian Waldeck; co-commissioned by Tom and Vivian Waldeck and the Caramoor International Music Festival",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Suite for Piano",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 41a",
+      "Duration": "15'",
+      "First Performance": "12 July 2001, Lockenhaus",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Suite",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Ten Dreams",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 45",
+      "Duration": "16′",
+      "First Performance": "13 July 2008, Plön",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Character pieces",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK 8612",
+      "Notes": "Commissioned by Tom and Vivian Waldeck",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Memory of a Tango",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 64",
+      "Duration": "1′40″",
+      "First Performance": "17 August 2002, New York",
+      "Instrumentation": [
+        "double bass"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Encore piece",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Encore piece for double bass solo; commissioned by Rafael Agudelo",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Prelude, Toccata and Postlude",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 65",
+      "Duration": "7'",
+      "First Performance": "June 2006, New York",
+      "Instrumentation": [
+        "carillon"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Character pieces",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Lonely Suite (Ballet for a Lonely Violinist)",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 70",
+      "Duration": "9'",
+      "First Performance": "16 March 2004, San Francisco",
+      "Instrumentation": [
+        "violin"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Ballet",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK 8545",
+      "Notes": "Dedicated to Vadim Gluzman",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Sonata for Violoncello",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 72",
+      "Duration": "12′",
+      "First Performance": "9 February 2004, Athens",
+      "Instrumentation": [
+        "cello"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Sonata",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK 8911",
+      "Notes": "Dedicated to Christophor Miroshnikow",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Prelude, Toccata and Postlude",
+      "Composer": "Lera Auerbach",
+      "Catalog Number": "Op. 75",
+      "Duration": "4'",
+      "Instrumentation": [
+        "vibraphone"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Character pieces",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "La Fenice (Sonata for Piano No. 1)",
+      "Composer": "Lera Auerbach",
+      "Duration": "20'",
+      "First Performance": "8 October 2007, Lawrence",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Sonata",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Commissioned by Ksenia Nosikova",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Il Segno (Sonata for Piano No. 2)",
+      "Composer": "Lera Auerbach",
+      "Duration": "17'",
+      "First Performance": "3 July 2006, Bonn",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Sonata",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Commissioned by Deutschlandfunk, Cologne",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Cadenzas to W. A. Mozart's Piano Concerto in D minor, K. 466",
+      "Composer": "Lera Auerbach",
+      "Duration": "6'",
+      "First Performance": "26 July 2006, Kiel",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Cadenzas",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Cadenzas for first and third movements",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Ludwigs Alptraum",
+      "Composer": "Lera Auerbach",
+      "Duration": "7'",
+      "First Performance": "11 December 2007, Bonn",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Character piece",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK 8559",
+      "Notes": "Commissioned by Deutsche Telekom for the Second International Beethoven Competition for Piano Bonn 2007",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "par.ti.ta",
+      "Composer": "Lera Auerbach",
+      "Duration": "25′",
+      "First Performance": "29 July 2007, Ansbach",
+      "Instrumentation": [
+        "violin"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Partita",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK 8860",
+      "Notes": "Commissioned by Bachwoche Ansbach 2007",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Milking Darkness",
+      "Composer": "Lera Auerbach",
+      "Duration": "10'",
+      "First Performance": "September 2011, Munich",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Character piece",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK 8694",
+      "Notes": "Commissioned by ARD Music Competition 2011",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Cadenzas to W. A. Mozart's Flute Concerto in D major, K. 314",
+      "Composer": "Lera Auerbach",
+      "Duration": "5'",
+      "First Performance": "13 November 2014, Washington",
+      "Instrumentation": [
+        "flute"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Cadenzas",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Commissioned by the National Symphony Orchestra of Washington for Aaron Goldman",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "La Suite dels Ocells",
+      "Composer": "Lera Auerbach",
+      "Duration": "23'",
+      "First Performance": "8 November 2015, Washington",
+      "Instrumentation": [
+        "cello"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Suite",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Hommage à Pablo Casals; commissioned by Washington Performing Arts supported by Jane and Calvin Cafritz; dedicated to Amit Peled",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Contemplation",
+      "Composer": "Lera Auerbach",
+      "Duration": "3′",
+      "Instrumentation": [
+        "double bass"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Character piece",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Dedicated to Rafael De Stella",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Sakura no Yume",
+      "Composer": "Lera Auerbach",
+      "Duration": "4'",
+      "First Performance": "27 March 2016, Tokyo",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Character piece",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Dedicated to Yukihisa Miyayama",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Labyrinth",
+      "Composer": "Lera Auerbach",
+      "Instrumentation": [
+        "piano"
+      ],
+      "Genre": "Solo",
+      "SubGenre": "Character pieces",
+      "Period": "Contemporary",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "publisher_code": "SIK",
+      "Notes": "Inspired by The Book of Imaginary Beings and other writings by Jorge Luis Borges; commissioned by San Francisco Performances",
+      "source_chunk": "Lera_Auerbach_chunk_011.md",
+      "source_file": "Lera_Auerbach.md"
+    }
+  ],
+  "chunk_info": {
+    "chunk_id": "Lera_Auerbach_chunk_011.md",
+    "works_count": 20,
+    "processing_notes": "All listed works have composer (Lera Auerbach) and title; durations and first performance dates provided for most."
+  }
+}

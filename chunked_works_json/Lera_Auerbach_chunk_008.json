@@ -1,0 +1,406 @@
+{
+  "chunk_filename": "Lera_Auerbach_chunk_008.md",
+  "source_file": "Lera_Auerbach.md",
+  "chunk_metadata": {
+    "source_file": "Lera_Auerbach.md",
+    "chunk_number": "8",
+    "total_chunks": "14",
+    "chunk_size": "12330",
+    "context_included": "yes",
+    "context_size": "4200",
+    "created_by": "Enhanced Markdown Chunker with Comprehensive Context",
+    "processing_timestamp": "2025-08-11 00:37:20"
+  },
+  "works": [
+    {
+      "Name": "Sonata for Violin and Piano No. 1",
+      "Composer": "Lera Auerbach",
+      "Source/Collection": "Op. 57",
+      "Duration": "23'",
+      "First Performance": "7 February 2001, Mexico City",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Sonata",
+      "Period": "Contemporary",
+      "Long Description": "Dedicated to Philippe Quint; in four movements: 1. Grandioso 2. Moderato 3. Andante religioso 4. Allegro",
+      "Short Description": "Four-movement sonata for violin and piano",
+      "tags": [
+        "dedicated to Philippe Quint"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Five Preludes from Shostakovich's Op. 34",
+      "Composer": "Dmitri Shostakovich",
+      "Source/Collection": "Op. 34 (1933) arranged for violin and piano by Lera Auerbach",
+      "Duration": "8′",
+      "First Performance": "5 September 2001, Jerusalem",
+      "Availability": "score: SIK 2392",
+      "Link to Score": "SIK 2392",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Prelude",
+      "Period": "20th Century",
+      "Long Description": "Five preludes (Nos. 4, 7, 14, 23, 9) from Shostakovich's Op. 34 arranged for violin and piano by Lera Auerbach; commissioned by Grigory Kalinovsky",
+      "Short Description": "Violin-piano arrangements of five Shostakovich preludes",
+      "tags": [
+        "arrangement",
+        "commissioned by Grigory Kalinovsky"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Oskolki (Broken Pieces)",
+      "Composer": "Lera Auerbach",
+      "Source/Collection": "Op. 61",
+      "Duration": "14′30″",
+      "First Performance": "28 March 2004, Basel, Festival ‘les Muséiques'",
+      "Availability": "score: SIK 8546",
+      "Link to Score": "SIK 8546",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Suite",
+      "Period": "Contemporary",
+      "Long Description": "Dedicated to Gidon Kremer; ten short movements for violin and piano",
+      "Short Description": "Ten-movement suite for violin and piano",
+      "tags": [
+        "dedicated to Gidon Kremer"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Sonata for Violin and Piano No. 2 (September 11)",
+      "Composer": "Lera Auerbach",
+      "Source/Collection": "Op. 63",
+      "Duration": "11′",
+      "First Performance": "7 October 2003, New York",
+      "Availability": "score: SIK 8551",
+      "Link to Score": "SIK 8551",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Sonata",
+      "Period": "Contemporary",
+      "Long Description": "Single-movement sonata for violin and piano",
+      "Short Description": "One-movement sonata for violin and piano",
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Sonata for Violoncello and Piano No. 1",
+      "Composer": "Lera Auerbach",
+      "Source/Collection": "Op. 69",
+      "Duration": "24'",
+      "First Performance": "19 February 2003, Iowa City",
+      "Availability": "score: SIK 8509",
+      "Link to Score": "SIK 8509",
+      "Instrumentation": [
+        "violoncello",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Sonata",
+      "Period": "Contemporary",
+      "Long Description": "Dedicated to David Finckel and Wu Han; co-commissioned by Hancher Auditorium / The University of Iowa and the Music in the Park Series, St. Paul, MN; four movements",
+      "Short Description": "Four-movement sonata for cello and piano",
+      "tags": [
+        "dedicated to David Finckel and Wu Han",
+        "co-commissioned"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "String Quartet No. 1",
+      "Composer": "Lera Auerbach",
+      "Source/Collection": "Op. 79",
+      "Duration": "16′",
+      "First Performance": "16 January 2005, Lucerne",
+      "Instrumentation": [
+        "string quartet"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "String Quartet",
+      "Period": "Contemporary",
+      "Long Description": "Commissioned by Impresariat Simmenauer, dedicated to Sonia Simmenauer; three movements",
+      "Short Description": "Three-movement string quartet",
+      "tags": [
+        "dedicated to Sonia Simmenauer",
+        "commissioned by Impresariat Simmenauer"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Epilogue",
+      "Composer": "Lera Auerbach",
+      "Duration": "16′",
+      "First Performance": "28 May 2005, Tanglewood, Ozawa Hall",
+      "Instrumentation": [
+        "string quartet"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "String Quartet",
+      "Period": "Contemporary",
+      "Long Description": "Hommage à Edith Wharton; commissioned by Close Encounters with Music; single movement",
+      "Short Description": "Single-movement string quartet homage to Edith Wharton",
+      "tags": [
+        "commissioned by Close Encounters with Music"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Sonata for Violin and Piano No. 3",
+      "Composer": "Lera Auerbach",
+      "Duration": "18′",
+      "First Performance": "5 February 2006, Tucson",
+      "Availability": "score: SIK 8686",
+      "Link to Score": "SIK 8686",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Sonata",
+      "Period": "Contemporary",
+      "Long Description": "Commissioned by Arizona Friends of Chamber Music and the Harry and Lea Gudelsky Foundation in memory of H. Paul Gudelsky; four movements",
+      "Short Description": "Four-movement sonata for violin and piano",
+      "tags": [
+        "commissioned by Arizona Friends of Chamber Music"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Primera Luz (String Quartet No. 2)",
+      "Composer": "Lera Auerbach",
+      "Duration": "23′",
+      "First Performance": "8 April 2006, Cuenca",
+      "Instrumentation": [
+        "string quartet"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "String Quartet",
+      "Period": "Contemporary",
+      "Long Description": "Commissioned by Semana de música religiosa Cuenca; six movements",
+      "Short Description": "Six-movement string quartet",
+      "tags": [
+        "commissioned by Semana de música religiosa Cuenca"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Postlude",
+      "Composer": "Lera Auerbach",
+      "Duration": "2′30″",
+      "Instrumentation": [
+        "violoncello",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Postlude",
+      "Period": "Contemporary",
+      "Long Description": "Arrangement of No. 12 (G sharp minor, Adagio) from Twenty-four Preludes for Violoncello and Piano, Op. 47 (1999)",
+      "Short Description": "Cello-piano arrangement of prelude No. 12",
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Cetera Desunt. Sonnet for String Quartet (String Quartet No. 3)",
+      "Composer": "Lera Auerbach",
+      "Duration": "21'",
+      "First Performance": "9 August 2006, Hamburg",
+      "Availability": "score: SIK 8581",
+      "Link to Score": "SIK 8581",
+      "Instrumentation": [
+        "string quartet"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "String Quartet",
+      "Period": "Contemporary",
+      "Long Description": "Commissioned by Jana Marko and Alexander Gérard; eight movements with Latin titles",
+      "Short Description": "Eight-movement string quartet",
+      "tags": [
+        "commissioned by Jana Marko and Alexander Gérard"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Postscriptum",
+      "Composer": "Lera Auerbach",
+      "Duration": "5'",
+      "First Performance": "29 March 2008, Cologne",
+      "Instrumentation": [
+        "piano trio"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Trio",
+      "Period": "Contemporary",
+      "Long Description": "Single-movement work for piano trio",
+      "Short Description": "Single-movement piano trio",
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Findings Sixteen Inventions (String Quartet No. 4)",
+      "Composer": "Lera Auerbach",
+      "Duration": "27'",
+      "First Performance": "19 July 2007, Caramoor",
+      "Instrumentation": [
+        "string quartet"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "String Quartet",
+      "Period": "Contemporary",
+      "Long Description": "Commissioned by The Caramoor International Music Festival; sixteen short movements",
+      "Short Description": "Sixteen-movement string quartet",
+      "tags": [
+        "commissioned by The Caramoor International Music Festival"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Twenty-four Preludes for Violoncello and Piano",
+      "Composer": "Dmitri Shostakovich",
+      "Source/Collection": "Op. 34 (1933) arranged for violoncello and piano by Lera Auerbach",
+      "Duration": "31'",
+      "First Performance": "17 July 2008, Reinbek",
+      "Availability": "score: SIK 2427",
+      "Link to Score": "SIK 2427",
+      "Instrumentation": [
+        "violoncello",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Prelude",
+      "Period": "20th Century",
+      "Long Description": "Complete cycle of 24 preludes from Shostakovich's Op. 34 arranged for cello and piano by Lera Auerbach; co-commissioned by Norddeutscher Rundfunk Hamburg and the New Orleans Friends of Music",
+      "Short Description": "Complete 24-prelude cycle for cello and piano",
+      "tags": [
+        "arrangement",
+        "co-commissioned"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Six Preludes for Double Bass and Piano",
+      "Composer": "Lera Auerbach",
+      "Duration": "13′",
+      "Instrumentation": [
+        "double bass",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Prelude",
+      "Period": "Contemporary",
+      "Long Description": "Arrangement of six preludes from Op. 46 (1999) for double bass and piano; dedicated to Rafael DeStella",
+      "Short Description": "Six preludes for double bass and piano",
+      "tags": [
+        "dedicated to Rafael DeStella"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Postscriptum",
+      "Composer": "Lera Auerbach",
+      "Duration": "5'",
+      "First Performance": "1 May 2009, Washington",
+      "Instrumentation": [
+        "mezzo-soprano",
+        "violoncello",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Song",
+      "Period": "Contemporary",
+      "Long Description": "Arrangement of Postscriptum for piano trio (2006) for mezzo-soprano, cello and piano",
+      "Short Description": "Vocal arrangement of piano trio",
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Job's Lament",
+      "Composer": "Lera Auerbach",
+      "Duration": "13'",
+      "First Performance": "26 June 2009, Verbier",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Lament",
+      "Period": "Contemporary",
+      "Long Description": "Commissioned by Verbier Festival for violin and piano",
+      "Short Description": "Single-movement lament for violin and piano",
+      "tags": [
+        "commissioned by Verbier Festival"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Speak, Memory",
+      "Composer": "Lera Auerbach",
+      "Duration": "3′",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Miniature",
+      "Period": "Contemporary",
+      "Long Description": "Commissioned by and dedicated to Hilary Hahn; also available for violin solo",
+      "Short Description": "Miniature for violin and piano",
+      "tags": [
+        "dedicated to Hilary Hahn"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    },
+    {
+      "Name": "Twenty-four Preludes for Viola and Piano",
+      "Composer": "Dmitri Shostakovich",
+      "Source/Collection": "Op. 34 (1933) arranged for viola and piano by Lera Auerbach",
+      "Instrumentation": [
+        "viola",
+        "piano"
+      ],
+      "Genre": "Chamber Music",
+      "SubGenre": "Prelude",
+      "Period": "20th Century",
+      "Long Description": "Complete cycle of 24 preludes from Shostakovich's Op. 34 arranged for viola and piano by Lera Auerbach; commissioned by the Philip and Mauriel Berman Foundation for the Great Lakes Chamber Music Festival",
+      "Short Description": "Complete 24-prelude cycle for viola and piano",
+      "tags": [
+        "arrangement",
+        "commissioned by the Philip and Mauriel Berman Foundation"
+      ],
+      "source_chunk": "Lera_Auerbach_chunk_008.md",
+      "source_file": "Lera_Auerbach.md"
+    }
+  ],
+  "chunk_info": {
+    "chunk_id": "Lera_Auerbach_chunk_008.md",
+    "works_count": 19,
+    "processing_notes": "Extracted 19 complete works from the Chamber Music section, including original compositions and arrangements by both Lera Auerbach and Dmitri Shostakovich."
+  }
+}

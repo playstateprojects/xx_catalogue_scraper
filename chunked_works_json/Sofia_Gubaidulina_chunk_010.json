@@ -1,0 +1,441 @@
+{
+  "chunk_filename": "Sofia_Gubaidulina_chunk_010.md",
+  "source_file": "Sofia_Gubaidulina.md",
+  "chunk_metadata": {
+    "source_file": "Sofia_Gubaidulina.md",
+    "chunk_number": "10",
+    "total_chunks": "15",
+    "chunk_size": "12356",
+    "context_included": "yes",
+    "context_size": "3285",
+    "created_by": "Enhanced Markdown Chunker with Comprehensive Context",
+    "processing_timestamp": "2025-08-11 07:22:27"
+  },
+  "works": [
+    {
+      "Name": "Tatar Dance (Tatarischer Tanz)",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "5'",
+      "First Performance": "25 July 1992, Hitzacker",
+      "Instrumentation": [
+        "bayan",
+        "2 double basses"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 8717",
+      "Genre": "Chamber Music",
+      "SubGenre": "Duet",
+      "Period": "20th Century",
+      "Scoring": "bayan and two double basses",
+      "Notes": "Dedicated to Viktor Suslin",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1992",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Dancer on a Tightrope (Der Seiltänzer)",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "12′",
+      "First Performance": "24 February 1994, Washington",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 1941",
+      "Genre": "Chamber Music",
+      "SubGenre": "Duet",
+      "Period": "20th Century",
+      "Scoring": "violin and piano",
+      "Notes": "Commissioned by the Library of Congress, Washington",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1993",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Meditation on the Bach Chorale 'Vor deinen Thron tret ich hiermit' (BWV 668)",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "10'",
+      "First Performance": "30 September 1993, Bremen",
+      "Instrumentation": [
+        "harpsichord",
+        "2 violins",
+        "viola",
+        "violoncello",
+        "double bass"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 71010",
+      "Genre": "Chamber Music",
+      "SubGenre": "Sextet",
+      "Period": "20th Century",
+      "Scoring": "harpsichord, two violins, viola, violoncello and double bass",
+      "Notes": "Commissioned by the Johann-Sebastian-Bach-Gesellschaft Bremen",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1993",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "String Quartet No. 4",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "12'",
+      "First Performance": "20 January 1994, New York",
+      "Instrumentation": [
+        "2 violins",
+        "viola",
+        "violoncello",
+        "tape",
+        "colour organ (ad lib.)"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 8506",
+      "Genre": "Chamber Music",
+      "SubGenre": "String Quartet",
+      "Period": "20th Century",
+      "Scoring": "string quartet with tape (colour organ ad lib.)",
+      "Notes": "Commissioned by and dedicated to the Kronos Quartet",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1993",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Le Grand Tango",
+      "Composer": "Astor Piazzolla",
+      "Duration": "10'",
+      "First Performance": "22 October 1995, San Francisco",
+      "Instrumentation": [
+        "violin",
+        "piano"
+      ],
+      "Source/Collection": "Berben Edizioni Musicali, Ancona",
+      "Genre": "Chamber Music",
+      "SubGenre": "Duet",
+      "Period": "20th Century",
+      "Scoring": "violin and piano",
+      "Notes": "Arranged for violin and piano by Sofia Gubaidulina",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Quaternion",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "25'",
+      "First Performance": "11 April 1996, Moscow",
+      "Instrumentation": [
+        "4 violoncelli"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 1960",
+      "Genre": "Chamber Music",
+      "SubGenre": "Quartet",
+      "Period": "20th Century",
+      "Scoring": "four violoncelli",
+      "Notes": "Dedicated to Vladimir Tonkha",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1996",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Ritorno Perpetuo",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "12′",
+      "First Performance": "27 September 1997, Warsaw",
+      "Instrumentation": [
+        "harpsichord"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 71037",
+      "Genre": "Solo",
+      "SubGenre": "Solo Keyboard",
+      "Period": "20th Century",
+      "Scoring": "harpsichord",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1997",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Reflections on the Theme B-A-C-H",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "5′",
+      "First Performance": "2 October 2002, Dartmouth",
+      "Instrumentation": [
+        "2 violins",
+        "viola",
+        "violoncello"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 71006",
+      "Genre": "Chamber Music",
+      "SubGenre": "String Quartet",
+      "Period": "21st Century",
+      "Scoring": "string quartet",
+      "Notes": "Commissioned by and dedicated to the Brentano String Quartet",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "2002",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Ravvedimento",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "25′",
+      "First Performance": "26 May 2007, Tranekaer (Langeland/DK)",
+      "Instrumentation": [
+        "violoncello",
+        "guitar quartet"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 71001",
+      "Genre": "Chamber Music",
+      "SubGenre": "Quintet",
+      "Period": "21st Century",
+      "Scoring": "violoncello and guitar quartet (soprano, alto, tenor, bass guitars)",
+      "Notes": "Commissioned by Vincens Steensen-Leth; dedicated to Ivan Monighetti",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "2007",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Pentimento",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "25'",
+      "First Performance": "8 May 2008, Salzburg",
+      "Instrumentation": [
+        "double bass",
+        "3 guitars"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 71046",
+      "Genre": "Chamber Music",
+      "SubGenre": "Quartet",
+      "Period": "21st Century",
+      "Scoring": "double bass and three guitars",
+      "Notes": "Arrangement of Ravvedimento; commissioned by Alexander Suslin; dedicated to Ivan Monighetti",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "2008",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Repentance",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "25'",
+      "First Performance": "22 February 2008, San Francisco",
+      "Instrumentation": [
+        "violoncello",
+        "3 guitars",
+        "double bass"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 8781",
+      "Genre": "Chamber Music",
+      "SubGenre": "Quintet",
+      "Period": "21st Century",
+      "Scoring": "violoncello, three guitars and double bass",
+      "Notes": "Arrangement of Ravvedimento; commissioned by San Francisco Symphony; dedicated to Ivan Monighetti",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "2008",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Fantasia on the Theme S-H-E-A [E♭–B♭–E–A]",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "15'",
+      "First Performance": "6 June 2009, Madrid",
+      "Instrumentation": [
+        "2 pianos"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Genre": "Chamber Music",
+      "SubGenre": "Duet",
+      "Period": "21st Century",
+      "Scoring": "two pianos (piano II a quarter-tone lower)",
+      "Notes": "Dedicated to Paloma O'Shea",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "2009",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Cadenza",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "5'",
+      "First Performance": "22 August 2010, San Sebastian",
+      "Instrumentation": [
+        "bayan"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 8789",
+      "Genre": "Solo",
+      "SubGenre": "Solo Keyboard",
+      "Period": "21st Century",
+      "Scoring": "bayan",
+      "Notes": "Developed from the cadenza of Under the Sign of Scorpio",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "2010",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Sotto Voce",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "22'",
+      "First Performance": "30 June 2010, Passau",
+      "Instrumentation": [
+        "viola",
+        "double bass",
+        "2 guitars"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 8782",
+      "Genre": "Chamber Music",
+      "SubGenre": "Quartet",
+      "Period": "21st Century",
+      "Scoring": "viola, double bass and two guitars",
+      "Notes": "Commissioned by the Festival ‘Europäische Wochen Passau’; dedicated to Alexander Suslin",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "2010",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "So sei es (So Be It)",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "15'",
+      "First Performance": "21 September 2014, Gohrisch",
+      "Instrumentation": [
+        "violin",
+        "double bass",
+        "piano",
+        "percussion"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Genre": "Chamber Music",
+      "SubGenre": "Quartet",
+      "Period": "21st Century",
+      "Scoring": "violin, double bass, piano and percussion",
+      "Notes": "In memoriam Viktor Suslin",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "2014",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Pilgrims (Die Pilger)",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "18'",
+      "First Performance": "1 March 2015, Chicago",
+      "Instrumentation": [
+        "violin",
+        "double bass",
+        "piano",
+        "2 percussionists"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Genre": "Chamber Music",
+      "SubGenre": "Quintet",
+      "Period": "21st Century",
+      "Scoring": "violin, double bass, piano and two percussionists",
+      "Notes": "Commissioned by Serge Koussevitzky Music Foundation in the Library of Congress; dedicated to Contempo Ensemble on their 50th anniversary and to Shulamit Ran",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "2014",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Rubaiyat (Rubaijat)",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "15'",
+      "First Performance": "24 December 1976, Moscow",
+      "Instrumentation": [
+        "baritone (amplified)",
+        "chamber ensemble"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Genre": "Vocal",
+      "SubGenre": "Cantata",
+      "Period": "20th Century",
+      "Scoring": "baritone (amplified) and chamber ensemble",
+      "Notes": "Texts by Omar Khayyám, Hafiz and Khakani in Russian translation by Vladimir Derzhavin",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1956",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Roses (Rosen)",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "12′",
+      "First Performance": "15 January 1974, Moscow",
+      "Instrumentation": [
+        "soprano",
+        "piano"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Genre": "Vocal",
+      "SubGenre": "Song Cycle",
+      "Period": "20th Century",
+      "Scoring": "soprano and piano",
+      "Notes": "Five romances on poems by Gennadi Aigi in Russian",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1969",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Counting Rhymes (Abzählreime)",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "5'",
+      "Instrumentation": [
+        "voice",
+        "piano"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Catalog Number": "SIK 71057",
+      "Genre": "Vocal",
+      "SubGenre": "Song Cycle",
+      "Period": "20th Century",
+      "Scoring": "voice and piano",
+      "Notes": "Five children's songs on poems by Jan Satunovsky in Russian",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1972",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    },
+    {
+      "Name": "Perception",
+      "Composer": "Sofia Gubaidulina",
+      "Duration": "46'",
+      "First Performance": "11 July 1986, Lockenhaus Chamber Music Festival",
+      "Instrumentation": [
+        "soprano",
+        "baritone (speaking)",
+        "7 string instruments",
+        "tape"
+      ],
+      "Source/Collection": "Sikorski, Hamburg",
+      "Genre": "Vocal",
+      "SubGenre": "Cantata",
+      "Period": "20th Century",
+      "Scoring": "soprano, baritone (speaking voices) and seven string instruments with tape",
+      "Notes": "Texts by Francisco Tanzer and excerpts from the Psalms in German",
+      "publisher": "Sikorski Musikverlage Hamburg",
+      "Publication Year": "1975",
+      "source_chunk": "Sofia_Gubaidulina_chunk_010.md",
+      "source_file": "Sofia_Gubaidulina.md"
+    }
+  ],
+  "chunk_info": {
+    "chunk_id": "Sofia_Gubaidulina_chunk_010.md",
+    "works_count": 20,
+    "processing_notes": "Extracted all complete works listed in the Chamber Music and Vocal Works sections. Excluded cross-references to Orchestral Works and works with insufficient detail."
+  }
+}

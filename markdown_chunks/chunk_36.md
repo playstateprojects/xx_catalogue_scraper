@@ -1,1 +1,0 @@
-# OLIVE, VIVIENNE (*1950)
