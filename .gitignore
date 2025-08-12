@@ -7,4 +7,6 @@ doc_json/
 chunks/
 chunks_structured/
 works_json/
+processed_chunks/
+markdown_documents/
 
